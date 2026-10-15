@@ -1,0 +1,63 @@
+1
+00:00:00,113 --> 00:00:03,160
+Ngay lúc này, màn hình trước mắt bạn đang liên tục làm mới hình ảnh.
+
+2
+00:00:03,571 --> 00:00:07,080
+Với một màn hình 60 hertz, quá trình ấy diễn ra 60 lần mỗi giây.
+
+3
+00:00:07,506 --> 00:00:14,440
+Và phía sau những hình ảnh tưởng chừng rất bình thường đó, bộ xử lý đang thực hiện vô số phép toán và thao tác logic trên những mẩu silicon nhỏ bé.
+
+4
+00:00:14,827 --> 00:00:17,880
+Mọi thứ diễn ra nhanh, đến mức chúng ta không thể theo dõi từng bước.
+
+5
+00:00:18,113 --> 00:00:20,360
+Nhưng điều thú vị nhất lại nằm ở những việc rất đơn giản:
+
+6
+00:00:20,735 --> 00:00:24,360
+ghi nhớ một giá trị, so sánh hai thứ, rồi chọn hành động tiếp theo.
+
+7
+00:00:24,710 --> 00:00:27,800
+Từ những thao tác nhỏ ấy, con người đã xây dựng cả một thế giới số.
+
+8
+00:00:28,298 --> 00:00:35,480
+Email, ngân hàng, vệ tinh, trò chơi điện tử và đoạn video bạn đang xem đều dựa vào những hệ thống xử lý thông tin cực kỳ phức tạp.
+
+9
+00:00:35,714 --> 00:00:39,160
+Trong phần lớn máy tính số ngày nay, thông tin được biểu diễn bằng hai giá trị:
+
+10
+00:00:39,335 --> 00:00:39,960
+0 và 1.
+
+11
+00:00:40,335 --> 00:00:42,920
+Bạn có thể hình dung chúng giống hai trạng thái của một công tắc:
+
+12
+00:00:43,301 --> 00:00:43,960
+tắt và bật.
+
+13
+00:00:44,379 --> 00:00:47,000
+Dĩ nhiên, một con chip phức tạp hơn công tắc đèn rất nhiều.
+
+14
+00:00:47,427 --> 00:00:49,800
+Nhưng phép so sánh ấy gợi ra một câu hỏi đáng kinh ngạc.
+
+15
+00:00:50,037 --> 00:00:55,960
+Làm thế nào từ hai trạng thái đơn giản, chúng ta lại tạo được hình ảnh, âm nhạc, trò chuyện và cả trí tuệ nhân tạo?
+
+16
+00:00:56,280 --> 00:00:59,480
+Nếu bạn thấy câu hỏi này thú vị, hãy nhấn like để cùng bắt đầu hành trình nhé.
