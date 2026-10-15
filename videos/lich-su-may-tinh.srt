@@ -1,0 +1,1680 @@
+1
+00:00:00,113 --> 00:00:03,160
+Ngay lúc này, màn hình trước mắt bạn đang liên tục làm mới hình ảnh.
+
+2
+00:00:03,571 --> 00:00:07,080
+Với một màn hình 60 hertz, quá trình ấy diễn ra 60 lần mỗi giây.
+
+3
+00:00:07,506 --> 00:00:14,440
+Và phía sau những hình ảnh tưởng chừng rất bình thường đó, bộ xử lý đang thực hiện vô số phép toán và thao tác logic trên những mẩu silicon nhỏ bé.
+
+4
+00:00:14,827 --> 00:00:17,880
+Mọi thứ diễn ra nhanh, đến mức chúng ta không thể theo dõi từng bước.
+
+5
+00:00:18,113 --> 00:00:20,360
+Nhưng điều thú vị nhất lại nằm ở những việc rất đơn giản:
+
+6
+00:00:20,735 --> 00:00:24,360
+ghi nhớ một giá trị, so sánh hai thứ, rồi chọn hành động tiếp theo.
+
+7
+00:00:24,710 --> 00:00:27,800
+Từ những thao tác nhỏ ấy, con người đã xây dựng cả một thế giới số.
+
+8
+00:00:28,298 --> 00:00:35,480
+Email, ngân hàng, vệ tinh, trò chơi điện tử và đoạn video bạn đang xem đều dựa vào những hệ thống xử lý thông tin cực kỳ phức tạp.
+
+9
+00:00:35,714 --> 00:00:39,160
+Trong phần lớn máy tính số ngày nay, thông tin được biểu diễn bằng hai giá trị:
+
+10
+00:00:39,335 --> 00:00:39,960
+0 và 1.
+
+11
+00:00:40,335 --> 00:00:42,920
+Bạn có thể hình dung chúng giống hai trạng thái của một công tắc:
+
+12
+00:00:43,301 --> 00:00:43,960
+tắt và bật.
+
+13
+00:00:44,379 --> 00:00:47,000
+Dĩ nhiên, một con chip phức tạp hơn công tắc đèn rất nhiều.
+
+14
+00:00:47,427 --> 00:00:49,800
+Nhưng phép so sánh ấy gợi ra một câu hỏi đáng kinh ngạc.
+
+15
+00:00:50,037 --> 00:00:55,960
+Làm thế nào từ hai trạng thái đơn giản, chúng ta lại tạo được hình ảnh, âm nhạc, trò chuyện và cả trí tuệ nhân tạo?
+
+16
+00:00:56,280 --> 00:00:59,480
+Nếu bạn thấy câu hỏi này thú vị, hãy nhấn like để cùng bắt đầu hành trình nhé.
+
+17
+00:00:59,895 --> 00:01:01,880
+Để trả lời, chúng ta phải đi rất xa.
+
+18
+00:01:02,161 --> 00:01:04,360
+Xa hơn những chiếc máy tính khổng lồ của thế kỷ trước.
+
+19
+00:01:04,703 --> 00:01:07,640
+Xa hơn cả điện, bánh răng hay những tấm thẻ đục lỗ.
+
+20
+00:01:07,797 --> 00:01:11,960
+Hành trình ấy bắt đầu từ khi con người tìm cách giữ lại một con số mà không phải ôm nó mãi trong đầu.
+
+21
+00:01:12,480 --> 00:01:14,520
+Và ngay từ đầu, cần nói rõ một điều.
+
+22
+00:01:15,087 --> 00:01:17,240
+Không có một người duy nhất phát minh ra máy tính.
+
+23
+00:01:17,755 --> 00:01:19,800
+Cũng không có một con đường thẳng nối liền mọi phát minh.
+
+24
+00:01:20,257 --> 00:01:24,840
+Có những ý tưởng được kế thừa, những ý tưởng xuất hiện độc lập và cả những công nghệ rực rỡ rồi thất truyền.
+
+25
+00:01:25,069 --> 00:01:27,960
+Chiếc máy trên tay bạn là nơi rất nhiều con đường ấy cuối cùng gặp nhau.
+
+26
+00:01:28,355 --> 00:01:32,200
+Thật ra, từ “computer” từng dùng để chỉ con người làm công việc tính toán.
+
+27
+00:01:32,524 --> 00:01:37,240
+Cách dùng ấy đã được ghi nhận trong tiếng Anh từ đầu thế kỷ XVII, rất lâu trước khi máy tính điện tử xuất hiện.
+
+28
+00:01:37,395 --> 00:01:41,560
+Trong nhiều cơ quan khoa học và kỹ thuật, công việc tính toán từng được chia cho cả một đội người.
+
+29
+00:01:42,024 --> 00:01:46,360
+Họ tính bảng thiên văn, lập số liệu hàng hải, xử lý kết quả thí nghiệm và tính quỹ đạo.
+
+30
+00:01:46,778 --> 00:01:50,440
+Đặc biệt, trong thế kỷ XX, nhiều đội tính toán có đông phụ nữ tham gia.
+
+31
+00:01:50,805 --> 00:01:56,360
+Họ làm việc với giấy bút và máy tính cơ học, kiên nhẫn đi qua những dãy số mà chỉ một sai sót nhỏ cũng có thể làm hỏng kết quả.
+
+32
+00:01:56,593 --> 00:01:59,480
+Nhưng nhu cầu ghi chép con số còn cổ xưa hơn nghề nghiệp đó rất nhiều.
+
+33
+00:01:59,965 --> 00:02:06,680
+Năm 1950, tại khu vực Ishango ở Congo, nhà địa chất Jean de Heinzelin tìm thấy một hiện vật bằng xương nhỏ bé.
+
+34
+00:02:07,137 --> 00:02:12,200
+Nó có niên đại thường được ước tính khoảng 20.000 năm, với 168 vết khía chia thành ba cột.
+
+35
+00:02:12,703 --> 00:02:16,920
+Một cột có các nhóm vết khía tương ứng với 11, 13, 17 và 19.
+
+36
+00:02:17,397 --> 00:02:19,640
+Đúng bằng bốn số nguyên tố nằm giữa 10 và 20.
+
+37
+00:02:19,870 --> 00:02:21,480
+Chi tiết này khiến nhiều người đặt câu hỏi.
+
+38
+00:02:22,019 --> 00:02:23,800
+Người tạo ra nó có đang làm toán không?
+
+39
+00:02:24,000 --> 00:02:25,000
+Đã có nhiều giả thuyết.
+
+40
+00:02:25,360 --> 00:02:27,000
+Có người cho rằng đây là công cụ đếm.
+
+41
+00:02:27,336 --> 00:02:29,560
+Có người liên hệ các vết khía với chu kỳ Mặt Trăng.
+
+42
+00:02:29,789 --> 00:02:31,400
+Cũng có những cách giải thích toán học khác.
+
+43
+00:02:31,771 --> 00:02:35,160
+Tuy nhiên, chúng ta chưa xác định chắc chắn người xưa dùng nó để làm gì.
+
+44
+00:02:35,574 --> 00:02:39,160
+Bốn nhóm số đặc biệt không tự động chứng minh rằng họ đã hiểu số nguyên tố.
+
+45
+00:02:39,445 --> 00:02:41,160
+Điều hấp dẫn nằm ở chính khoảng trống ấy.
+
+46
+00:02:41,545 --> 00:02:44,840
+Những vết khía vẫn còn, nhưng ý nghĩa ban đầu của chúng đã không còn dễ đọc.
+
+47
+00:02:45,350 --> 00:02:48,360
+Về sau, con người phát triển nhiều cách tính toán dễ nhận biết hơn.
+
+48
+00:02:48,534 --> 00:02:52,120
+Trên những bảng đếm, sỏi và quân tính được di chuyển để biểu diễn số lượng.
+
+49
+00:02:52,438 --> 00:02:58,040
+Các hình thức bàn tính dần xuất hiện và phát triển ở nhiều nơi, trong đó có suanpan của Trung Quốc và soroban của Nhật Bản.
+
+50
+00:02:58,401 --> 00:03:02,360
+Một người sử dụng bàn tính thành thạo có thể tính nhanh đến mức khiến người cầm máy tính phải ngạc nhiên.
+
+51
+00:03:02,485 --> 00:03:09,400
+Năm 1946, tại Tokyo, Kiyoshi Matsuzaki dùng soroban thi với một quân nhân Mỹ sử dụng máy tính điện.
+
+52
+00:03:09,894 --> 00:03:11,640
+Matsuzaki thắng bốn trong năm vòng.
+
+53
+00:03:12,027 --> 00:03:17,080
+Đó là một cuộc thi giữa hai người, cùng công cụ của họ, chứ không chứng minh bàn tính luôn nhanh hơn mọi loại máy.
+
+54
+00:03:17,318 --> 00:03:20,200
+Nhưng kết quả ấy đủ cho thấy kỹ năng con người có thể mạnh đến đâu.
+
+55
+00:03:20,531 --> 00:03:22,280
+Bàn tính vẫn cần người quyết định từng bước.
+
+56
+00:03:22,670 --> 00:03:26,840
+Muốn đi xa hơn, chúng ta phải đưa một phần quy trình tính toán vào chính cấu trúc của thiết bị.
+
+57
+00:03:27,255 --> 00:03:30,440
+Một trong những minh chứng cổ xưa ấn tượng nhất cho việc đó lại nằm dưới đáy biển.
+
+58
+00:03:30,843 --> 00:03:36,040
+Năm 1900, những thợ lặn tìm bọt biển phát hiện một xác tàu cổ ngoài khơi đảo Antikythera của Hy Lạp.
+
+59
+00:03:36,193 --> 00:03:39,880
+Trong đợt trục vớt năm 1901, người ta đưa lên một khối đồng bị ăn mòn.
+
+60
+00:03:40,372 --> 00:03:42,120
+Bên trong khối gỉ ấy là những bánh răng.
+
+61
+00:03:42,533 --> 00:03:47,880
+Phải qua nhiều thập kỷ nghiên cứu, cùng các phương pháp chụp xuyên qua hiện vật, cấu trúc của thiết bị mới dần hiện rõ.
+
+62
+00:03:48,453 --> 00:03:53,800
+Cỗ máy Antikythera, được chế tạo hơn 2.000 năm trước, là một thiết bị tính toán thiên văn bằng cơ khí.
+
+63
+00:03:53,955 --> 00:03:57,640
+Khi người dùng vận hành cơ cấu, những bộ bánh răng liên kết các chu kỳ với nhau.
+
+64
+00:03:58,165 --> 00:04:03,080
+Thiết bị có thể biểu diễn chuyển động thiên văn, chu kỳ Mặt Trăng và những chu kỳ dùng để dự báo nhật thực,
+
+65
+00:04:03,318 --> 00:04:03,720
+nguyệt thực.
+
+66
+00:04:03,956 --> 00:04:07,160
+Một mặt số còn liên quan đến lịch các kỳ đại hội thể thao Hy Lạp cổ đại.
+
+67
+00:04:07,587 --> 00:04:09,400
+Nó không phải máy tính đa năng như laptop.
+
+68
+00:04:09,693 --> 00:04:12,040
+Nó cũng không tự chạy mà chẳng cần người vận hành.
+
+69
+00:04:12,534 --> 00:04:15,160
+Nhưng phép tính đã được gửi vào hình dạng và tỷ lệ của bánh răng.
+
+70
+00:04:15,655 --> 00:04:18,200
+Người dùng không phải tự tính lại từng mối quan hệ ấy bằng tay.
+
+71
+00:04:18,433 --> 00:04:25,400
+Đây là một trong những thiết bị tính toán cơ học cổ nhất còn được biết đến, đồng thời cho thấy kỹ thuật thời cổ đại tinh vi hơn nhiều so với hình dung thông thường.
+
+72
+00:04:25,934 --> 00:04:28,440
+Những phần lịch sử bị mất quanh nó vẫn là câu hỏi mở.
+
+73
+00:04:28,943 --> 00:04:30,280
+Một câu hỏi khác dần xuất hiện.
+
+74
+00:04:30,903 --> 00:04:36,520
+Nếu cấu trúc máy quyết định nó làm gì, liệu chúng ta có thể thay đổi cách điều khiển để cùng một thiết bị tạo ra kết quả khác không?
+
+75
+00:04:36,749 --> 00:04:42,840
+Đầu thế kỷ XIII, kỹ sư al-Jazari mô tả nhiều cơ cấu tự động, trong đó có một chiếc thuyền chở các nhạc công cơ học.
+
+76
+00:04:43,262 --> 00:04:46,600
+Chuyển động của trục, chốt và đòn bẩy tạo ra những động tác theo trình tự.
+
+77
+00:04:47,136 --> 00:04:50,200
+Thiết bị này đôi khi được gọi là một ví dụ sớm của máy có thể lập trình.
+
+78
+00:04:50,436 --> 00:04:54,920
+Tuy nhiên, khả năng đổi vị trí chốt để thay đổi tiết tấu vẫn là cách diễn giải còn tranh luận.
+
+79
+00:04:55,396 --> 00:05:01,560
+Điều rõ ràng hơn là con người đã biết dùng cơ cấu vật lý để điều khiển một chuỗi hành động tự động từ rất lâu trước máy tính điện tử.
+
+80
+00:05:02,042 --> 00:05:05,640
+Đến đầu thế kỷ XIX, một ví dụ có ảnh hưởng trực tiếp hơn xuất hiện trong ngành dệt.
+
+81
+00:05:05,871 --> 00:05:13,480
+Khoảng năm 1804–1805, Joseph Marie Jacquard hoàn thiện và đưa vào ứng dụng thành công hệ thống điều khiển máy dệt bằng thẻ đục lỗ,
+
+82
+00:05:13,697 --> 00:05:15,000
+dựa trên những cải tiến có trước.
+
+83
+00:05:15,446 --> 00:05:19,880
+Các vị trí có lỗ và không có lỗ quyết định cách lựa chọn sợi dọc, từ đó tạo ra hoa văn.
+
+84
+00:05:20,382 --> 00:05:24,040
+Thay chuỗi thẻ, bạn có thể thay mẫu dệt mà không cần chế tạo lại toàn bộ máy.
+
+85
+00:05:24,522 --> 00:05:25,880
+Có lỗ hoặc không có lỗ.
+
+86
+00:05:26,129 --> 00:05:27,720
+Một cách mã hóa bằng hai trạng thái.
+
+87
+00:05:27,954 --> 00:05:30,360
+Nó gợi rất rõ đến tư duy điều khiển máy bằng thông tin.
+
+88
+00:05:30,925 --> 00:05:35,320
+Và chính những tấm thẻ ấy đã truyền cảm hứng cho một nhà toán học người Anh tên Charles Babbage.
+
+89
+00:05:35,504 --> 00:05:40,920
+Thời Babbage, những bảng số phục vụ khoa học và hàng hải thường được tính toán, sao chép và in ấn qua nhiều công đoạn.
+
+90
+00:05:41,154 --> 00:05:43,080
+Sai sót có thể lọt vào bất kỳ bước nào.
+
+91
+00:05:43,424 --> 00:05:46,040
+Ông muốn xây một cỗ máy thực hiện công việc ấy đáng tin cậy hơn.
+
+92
+00:05:46,475 --> 00:05:49,880
+Năm 1822, Babbage giới thiệu ý tưởng Máy sai phân.
+
+93
+00:05:50,380 --> 00:05:53,400
+Thiết bị dùng phương pháp sai phân hữu hạn để lập bảng giá trị của các đa thức.
+
+94
+00:05:53,900 --> 00:05:56,520
+Một công việc có thể quy về chuỗi phép cộng được tổ chức hợp lý.
+
+95
+00:05:56,687 --> 00:06:01,720
+Chính phủ Anh tài trợ, nhưng dự án gặp khó khăn về chế tạo, kinh phí và quan hệ giữa những người tham gia.
+
+96
+00:06:02,113 --> 00:06:06,520
+Năm 1832, một phần máy gồm khoảng 2.000 chi tiết được lắp ráp và hoạt động.
+
+97
+00:06:06,710 --> 00:06:09,560
+Tuy nhiên, chiếc Máy sai phân số 1 đầy đủ không được hoàn thành.
+
+98
+00:06:10,033 --> 00:06:14,040
+Trong lúc dự án ấy còn dang dở, Babbage bắt đầu phát triển một ý tưởng tham vọng hơn.
+
+99
+00:06:14,391 --> 00:06:14,920
+Máy giải tích.
+
+100
+00:06:15,154 --> 00:06:17,400
+Máy sai phân được thiết kế cho một loại công việc cụ thể.
+
+101
+00:06:18,010 --> 00:06:20,920
+Máy giải tích hướng tới việc thực hiện nhiều phép tính khác nhau theo chương trình.
+
+102
+00:06:21,420 --> 00:06:26,200
+Trong bản thiết kế, nó có một bộ phận làm phép toán gọi là “mill”, có chức năng gợi đến bộ xử lý.
+
+103
+00:06:26,653 --> 00:06:29,720
+Nó có một “store” để giữ các giá trị, gợi đến bộ nhớ.
+
+104
+00:06:29,953 --> 00:06:35,160
+Thẻ đục lỗ cung cấp chỉ dẫn, còn các cơ cấu điều khiển cho phép lặp lại thao tác và thay đổi trình tự theo điều kiện.
+
+105
+00:06:35,606 --> 00:06:40,360
+Những ý tưởng ấy mang nhiều nét nền tảng của máy tính đa năng hiện đại, dù việc thực hiện hoàn toàn bằng cơ khí,
+
+106
+00:06:40,594 --> 00:06:43,240
+và hệ đếm của máy khác với máy tính nhị phân quen thuộc ngày nay.
+
+107
+00:06:43,580 --> 00:06:45,400
+Babbage chưa bao giờ xây xong Máy giải tích.
+
+108
+00:06:45,554 --> 00:06:48,920
+Nhưng một người cộng tác với ông đã nhìn thấy khả năng vượt ra ngoài những cột số.
+
+109
+00:06:49,469 --> 00:06:50,680
+Ada Lovelace.
+
+110
+00:06:51,041 --> 00:06:58,360
+Năm 1843, khi dịch bài viết của Luigi Menabrea về Máy giải tích, Ada bổ sung một hệ thống ghi chú dài hơn nhiều lần bài gốc.
+
+111
+00:06:58,832 --> 00:07:02,520
+Trong Ghi chú G, bà trình bày một quy trình để máy tính các số Bernoulli.
+
+112
+00:07:02,890 --> 00:07:05,640
+Đó là lý do Ada thường được gọi là lập trình viên đầu tiên.
+
+113
+00:07:05,872 --> 00:07:09,400
+Và bảng hướng dẫn ấy thường được xem là chương trình máy tính được công bố đầu tiên.
+
+114
+00:07:09,881 --> 00:07:15,480
+Cách trao danh hiệu có thể phụ thuộc định nghĩa và cách đánh giá đóng góp của Babbage, nhưng tầm quan trọng của công trình thì rất rõ.
+
+115
+00:07:15,788 --> 00:07:18,920
+Điều khiến Ada nổi bật hơn cả là cách bà nhìn vào những con số.
+
+116
+00:07:19,155 --> 00:07:25,160
+Nếu một con số có thể đại diện cho thứ khác, chẳng hạn một nốt nhạc, thì máy có thể thao tác với các ký hiệu ấy theo quy tắc.
+
+117
+00:07:25,586 --> 00:07:28,600
+Máy tính vì thế có tiềm năng vượt ra ngoài công việc lập bảng số.
+
+118
+00:07:28,995 --> 00:07:32,040
+Đây không phải lời tiên tri rằng máy tự hiểu âm nhạc như con người.
+
+119
+00:07:32,416 --> 00:07:34,600
+Đó là một nhận xét sâu sắc về biểu diễn thông tin.
+
+120
+00:07:34,828 --> 00:07:39,320
+Cùng một cơ cấu xử lý có thể được dùng cho nhiều mục đích, nếu chúng ta tìm được cách mã hóa phù hợp.
+
+121
+00:07:39,777 --> 00:07:43,160
+Ada qua đời năm 1852, khi mới 36 tuổi.
+
+122
+00:07:43,648 --> 00:07:46,600
+Những ghi chú của bà vẫn tiếp tục được đọc và thảo luận rất lâu sau đó.
+
+123
+00:07:47,111 --> 00:07:49,400
+Còn câu chuyện Babbage có một đoạn hậu truyện đáng nhớ.
+
+124
+00:07:49,802 --> 00:07:56,680
+Năm 1991, Bảo tàng Khoa học ở London hoàn thành phần tính toán của Máy sai phân số 2, dựa trên thiết kế về sau của ông.
+
+125
+00:07:56,907 --> 00:07:59,000
+Phần in được hoàn thành năm 2002.
+
+126
+00:07:59,380 --> 00:08:02,040
+Cả hệ thống có khoảng 8.000 chi tiết, nặng 5 tấn.
+
+127
+00:08:02,431 --> 00:08:06,920
+Nhóm phục dựng dùng phương pháp chế tạo hiện đại nhưng giữ độ chính xác trong khả năng kỹ thuật thời Babbage.
+
+128
+00:08:07,369 --> 00:08:09,000
+Cỗ máy hoạt động như thiết kế dự kiến.
+
+129
+00:08:09,449 --> 00:08:10,280
+Cần phân biệt rõ.
+
+130
+00:08:10,513 --> 00:08:13,160
+Đó là Máy sai phân số 2, không phải Máy giải tích.
+
+131
+00:08:13,637 --> 00:08:20,440
+Thành công ấy chứng minh một thiết kế cụ thể của Babbage có thể vận hành, đồng thời nhắc rằng trở ngại của phát minh đôi khi nằm ở kinh phí,
+
+132
+00:08:20,754 --> 00:08:23,080
+tổ chức và con người, chứ không chỉ ở ý tưởng.
+
+133
+00:08:23,571 --> 00:08:27,560
+Trong khi những bánh răng vật lộn với giới hạn chế tạo, toán học đang mở ra một hướng khác.
+
+134
+00:08:27,713 --> 00:08:35,400
+Năm 1847, rồi trong một tác phẩm quan trọng năm 1854, George Boole phát triển cách dùng đại số để biểu diễn quan hệ logic.
+
+135
+00:08:35,855 --> 00:08:41,026
+Thay vì chỉ tính những đại lượng thông thường, người ta có thể thao tác với các mệnh đề và những quan hệ như “và”,
+
+136
+00:08:41,026 --> 00:08:42,200
+“hoặc”, “không”.
+
+137
+00:08:42,575 --> 00:08:44,840
+Lý thuyết ấy tiếp tục được nhiều nhà toán học phát triển.
+
+138
+00:08:45,074 --> 00:08:53,480
+Rồi đến năm 1937, một nghiên cứu sinh trẻ tại MIT tên Claude Shannon chỉ ra cách dùng đại số logic để phân tích và thiết kế các mạch chuyển mạch.
+
+139
+00:08:53,998 --> 00:08:55,720
+Hãy hình dung hai công tắc mắc nối tiếp.
+
+140
+00:08:56,269 --> 00:08:58,280
+Cả hai cùng đóng thì dòng điện mới đi qua.
+
+141
+00:08:58,688 --> 00:09:00,440
+Đó là hình ảnh cho phép “và”.
+
+142
+00:09:01,155 --> 00:09:04,920
+Nếu hai nhánh công tắc mắc song song, chỉ cần một nhánh đóng là đã có đường dẫn điện.
+
+143
+00:09:05,154 --> 00:09:06,520
+Đó là hình ảnh cho phép “hoặc”.
+
+144
+00:09:07,181 --> 00:09:11,880
+Shannon giúp biến mối liên hệ giữa logic và trạng thái mạch điện thành một phương pháp thiết kế có hệ thống.
+
+145
+00:09:12,387 --> 00:09:15,640
+Những phép toán tưởng như nằm trên giấy có thể được thực hiện bằng thiết bị vật lý.
+
+146
+00:09:16,102 --> 00:09:19,640
+Gần cùng thời điểm ấy ở Anh, Alan Turing đang đặt một câu hỏi căn bản hơn.
+
+147
+00:09:20,153 --> 00:09:21,880
+Tính toán theo quy tắc thực chất là gì?
+
+148
+00:09:22,107 --> 00:09:29,000
+Năm 1936, ông mô tả một mô hình máy trừu tượng có băng nhớ, đầu đọc–ghi và tập quy tắc chuyển trạng thái.
+
+149
+00:09:29,459 --> 00:09:33,720
+Từng bước, máy đọc ký hiệu, ghi ký hiệu mới, di chuyển và đổi trạng thái.
+
+150
+00:09:34,114 --> 00:09:39,080
+Từ những thành phần đơn giản ấy, Turing xây dựng một mô hình mạnh mẽ để nghiên cứu các quy trình tính toán.
+
+151
+00:09:39,422 --> 00:09:43,800
+Ý tưởng máy phổ dụng cho thấy một máy có thể mô phỏng những máy khác khi nhận mô tả phù hợp.
+
+152
+00:09:44,036 --> 00:09:45,720
+Nhưng công trình của ông cũng chỉ ra giới hạn.
+
+153
+00:09:46,194 --> 00:09:48,920
+Có những vấn đề không tồn tại thuật toán giải quyết được trong mọi trường hợp.
+
+154
+00:09:49,302 --> 00:09:53,240
+Máy tính không phải chiếc hộp thần kỳ có thể trả lời mọi câu hỏi, chỉ cần chạy đủ lâu.
+
+155
+00:09:53,447 --> 00:09:55,560
+Một bên là công cụ thiết kế logic thành mạch điện.
+
+156
+00:09:55,790 --> 00:09:57,880
+Một bên là lý thuyết về những gì máy có thể tính.
+
+157
+00:09:58,273 --> 00:10:02,280
+Những nền tảng ấy xuất hiện đúng lúc thế giới bước vào một cuộc chiến, buộc công nghệ phải tăng tốc.
+
+158
+00:10:02,574 --> 00:10:07,480
+Tại Berlin, kỹ sư Konrad Zuse bắt đầu chế tạo những cỗ máy tính trong điều kiện rất khiêm tốn.
+
+159
+00:10:07,920 --> 00:10:16,040
+Năm 1941, ông hoàn thành Z3, một thiết bị điện cơ sử dụng khoảng 2.600 rơ-le, số học nhị phân và chương trình ghi trên băng phim đục lỗ.
+
+160
+00:10:16,285 --> 00:10:20,920
+Z3 thường được ghi nhận là máy tính số điện cơ tự động, điều khiển bằng chương trình, hoạt động được đầu tiên.
+
+161
+00:10:21,546 --> 00:10:27,080
+Những từ đi kèm rất quan trọng, bởi danh hiệu “máy tính đầu tiên” sẽ thay đổi, tùy bạn đang nói đến máy cơ học,
+
+162
+00:10:27,221 --> 00:10:29,640
+điện cơ, điện tử, chuyên dụng hay đa năng.
+
+163
+00:10:30,095 --> 00:10:32,120
+Zuse không hoàn toàn bị giới chức phớt lờ.
+
+164
+00:10:32,438 --> 00:10:35,640
+Cơ quan nghiên cứu hàng không Đức đã hỗ trợ một phần cho việc phát triển Z3.
+
+165
+00:10:35,878 --> 00:10:38,600
+Tuy vậy, chiến tranh và nguồn lực hạn chế đã cản trở công việc.
+
+166
+00:10:38,989 --> 00:10:42,280
+Bản máy gốc bị phá hủy trong một cuộc không kích năm 1943.
+
+167
+00:10:42,511 --> 00:10:47,160
+Ở Anh, tại Bletchley Park, Turing cùng nhiều đồng nghiệp phát triển và sử dụng các phương pháp,
+
+168
+00:10:47,318 --> 00:10:49,080
+thiết bị hỗ trợ phá mật mã Enigma.
+
+169
+00:10:49,581 --> 00:10:55,000
+Cỗ máy Bombe của Anh kế thừa những nền tảng quan trọng từ công việc giải mã trước chiến tranh của các nhà toán học Ba Lan.
+
+170
+00:10:55,562 --> 00:10:58,360
+Và Enigma không phải hệ thống mật mã duy nhất cần đối phó.
+
+171
+00:10:58,513 --> 00:11:04,520
+Để hỗ trợ phân tích thông điệp mã hóa bằng hệ thống Lorenz, kỹ sư Tommy Flowers cùng đội ngũ của mình xây dựng Colossus.
+
+172
+00:11:05,137 --> 00:11:11,560
+Phiên bản Mark I được thử nghiệm cuối năm 1943 và bắt đầu hoạt động tại Bletchley Park đầu năm 1944.
+
+173
+00:11:11,992 --> 00:11:17,880
+Phiên bản cải tiến Mark II có khoảng 2.500 ống chân không, vận hành từ ngày 1 tháng 6 năm 1944,
+
+174
+00:11:18,110 --> 00:11:19,240
+chỉ năm ngày trước D-Day.
+
+175
+00:11:19,485 --> 00:11:25,080
+Colossus xử lý băng giấy ở tốc độ khoảng 5.000 ký tự mỗi giây, hỗ trợ các phép phân tích thống kê phục vụ giải mã.
+
+176
+00:11:25,409 --> 00:11:30,120
+Nó là một trong những cột mốc đầu tiên của máy tính số điện tử có thể cấu hình để thực hiện công việc theo yêu cầu,
+
+177
+00:11:30,414 --> 00:11:33,080
+dù chưa phải máy đa năng với chương trình lưu trong bộ nhớ như ngày nay.
+
+178
+00:11:33,314 --> 00:11:36,760
+Sau chiến tranh, phần lớn các máy Colossus bị tháo dỡ hoặc phá hủy.
+
+179
+00:11:37,280 --> 00:11:39,240
+Và dự án tiếp tục được giữ bí mật nhiều năm.
+
+180
+00:11:39,693 --> 00:11:43,880
+Vì thế, công chúng biết rất ít về đóng góp của Flowers và đội ngũ trong một thời gian dài.
+
+181
+00:11:44,411 --> 00:11:46,280
+Lịch sử công nghệ đôi khi có một nghịch lý như vậy.
+
+182
+00:11:46,846 --> 00:11:51,160
+Một phát minh càng quan trọng đối với an ninh, người tạo ra nó càng khó được kể công ngay lúc ấy.
+
+183
+00:11:51,386 --> 00:11:56,360
+Ở bên kia Đại Tây Dương, một cỗ máy điện tử khác được giới thiệu công khai đầu năm 1946.
+
+184
+00:11:56,682 --> 00:11:57,160
+ENIAC.
+
+185
+00:11:57,655 --> 00:12:03,240
+Nó nặng khoảng 30 tấn, dùng gần 18.000 ống chân không và tiêu thụ khoảng 150 kilowatt điện.
+
+186
+00:12:03,775 --> 00:12:06,200
+Cỗ máy có thể thực hiện khoảng 5.000 phép cộng mỗi giây.
+
+187
+00:12:06,706 --> 00:12:08,760
+Nhanh đến kinh ngạc so với tính toán thủ công.
+
+188
+00:12:09,276 --> 00:12:11,800
+Nhưng tốc độ tính toán không đồng nghĩa việc sử dụng đã thuận tiện.
+
+189
+00:12:11,951 --> 00:12:17,000
+Trong cấu hình ban đầu, thay đổi bài toán có thể đòi hỏi thiết lập lại dây nối, công tắc và trình tự vận hành.
+
+190
+00:12:17,605 --> 00:12:19,800
+Việc chuẩn bị cho một công việc mới rất công phu.
+
+191
+00:12:20,035 --> 00:12:22,360
+Sáu phụ nữ nổi tiếng với vai trò lập trình ENIAC là:
+
+192
+00:12:22,759 --> 00:12:28,920
+Kathleen McNulty, Jean Jennings, Betty Snyder, Marlyn Wescoff, Frances Bilas và Ruth Lichterman.
+
+193
+00:12:29,226 --> 00:12:33,720
+Họ phải hiểu các bộ phận của máy, phân rã bài toán thành thao tác và phối hợp để đưa chúng vào hoạt động.
+
+194
+00:12:34,053 --> 00:12:35,960
+Đó không chỉ là cắm dây theo một tờ hướng dẫn.
+
+195
+00:12:36,295 --> 00:12:39,000
+Họ đang góp phần hình thành cách lập trình cho một loại máy hoàn toàn mới.
+
+196
+00:12:39,228 --> 00:12:42,760
+Theo các tư liệu về buổi giới thiệu, họ không được mời dự bữa tiệc ăn mừng sau đó.
+
+197
+00:12:43,238 --> 00:12:46,440
+Đóng góp của họ cũng không được công chúng ghi nhận tương xứng trong nhiều thập kỷ.
+
+198
+00:12:46,960 --> 00:12:52,200
+Câu chuyện này không cần thêm thắt vẫn đủ cho thấy khoảng cách giữa người làm ra công việc và người được lịch sử nhớ tên.
+
+199
+00:12:52,275 --> 00:12:55,800
+Một hướng cải tiến quan trọng là lưu chương trình dưới dạng có thể được máy đọc từ bộ nhớ,
+
+200
+00:12:56,118 --> 00:12:57,880
+thay vì luôn phải cấu hình lại máy bằng tay.
+
+201
+00:12:58,200 --> 00:13:02,280
+Ý tưởng này hình thành qua nhiều đóng góp, trong đó có các trao đổi giữa John Presper Eckert,
+
+202
+00:13:02,514 --> 00:13:05,320
+John Mauchly, John von Neumann, và những người khác.
+
+203
+00:13:05,471 --> 00:13:11,960
+Bản báo cáo về EDVAC do von Neumann viết năm 1945 giúp mô tả và phổ biến rộng rãi một thiết kế theo hướng đó.
+
+204
+00:13:12,383 --> 00:13:15,080
+Tên ông vì thế gắn với một mô hình kiến trúc rất có ảnh hưởng.
+
+205
+00:13:15,563 --> 00:13:18,760
+Nhưng việc kể lịch sử chỉ bằng một cái tên sẽ bỏ sót công sức của cả nhóm.
+
+206
+00:13:18,867 --> 00:13:26,680
+Tháng 6 năm 1948, tại Đại học Manchester, cỗ máy thử nghiệm có biệt danh Baby chạy thành công một chương trình được lưu điện tử trong bộ nhớ có thể ghi lại.
+
+207
+00:13:27,105 --> 00:13:29,960
+Đó là một cột mốc đặc biệt quan trọng của điện toán chương trình lưu trữ.
+
+208
+00:13:30,421 --> 00:13:37,479
+Trong một lần chạy nổi tiếng, nó mất 52 phút để tìm ước thực sự lớn nhất của số 262.144, tức hai mũ mười tám.
+
+209
+00:13:37,825 --> 00:13:39,320
+Bằng cách thử lần lượt các ứng viên.
+
+210
+00:13:39,728 --> 00:13:40,200
+Nghe rất chậm.
+
+211
+00:13:40,430 --> 00:13:42,120
+Nhưng điều quan trọng không nằm ở đáp án.
+
+212
+00:13:42,641 --> 00:13:45,320
+Những chỉ dẫn cho máy đã trở thành thông tin nằm trong bộ nhớ.
+
+213
+00:13:45,855 --> 00:13:49,560
+Một bước tiến mở ra khả năng thay đổi công việc của máy thuận tiện và linh hoạt hơn rất nhiều.
+
+214
+00:13:50,068 --> 00:13:54,360
+Muốn đưa máy tính ra khỏi những căn phòng khổng lồ, con người cần thay đổi chính linh kiện làm nên nó.
+
+215
+00:13:54,582 --> 00:14:02,599
+Cuối năm 1947, tại Bell Labs ở New Jersey, John Bardeen và Walter Brattain tạo ra transistor tiếp xúc điểm hoạt động được.
+
+216
+00:14:03,144 --> 00:14:06,280
+William Shockley sau đó phát triển ý tưởng transistor tiếp giáp.
+
+217
+00:14:06,939 --> 00:14:12,920
+Cả ba nhận giải Nobel Vật lý năm 1956 vì những đóng góp cho nghiên cứu chất bán dẫn và hiệu ứng transistor.
+
+218
+00:14:13,093 --> 00:14:18,280
+Transistor mở ra con đường thay thế dần nhiều ứng dụng của ống chân không bằng linh kiện nhỏ hơn và tiết kiệm điện hơn.
+
+219
+00:14:18,785 --> 00:14:22,680
+Quá trình ấy không diễn ra chỉ trong một đêm, nhưng nó đã thay đổi hướng phát triển của điện tử.
+
+220
+00:14:23,229 --> 00:14:26,440
+Câu chuyện tiếp theo đưa chúng ta từ New Jersey sang California.
+
+221
+00:14:26,925 --> 00:14:29,240
+Shockley lập một phòng thí nghiệm bán dẫn tại Mountain View.
+
+222
+00:14:29,473 --> 00:14:34,840
+Ông tập hợp được nhiều kỹ sư xuất sắc, nhưng phong cách quản lý và những bất đồng về hướng nghiên cứu khiến quan hệ trong nhóm rạn nứt.
+
+223
+00:14:35,300 --> 00:14:39,320
+Năm 1957, tám nhân viên rời đi để thành lập Fairchild Semiconductor.
+
+224
+00:14:39,729 --> 00:14:45,000
+Hai người trong số họ, Robert Noyce và Gordon Moore, về sau đồng sáng lập Intel năm 1968.
+
+225
+00:14:45,229 --> 00:14:49,640
+Cuộc chia tay ấy trở thành một mắt xích quan trọng trong sự phát triển của ngành bán dẫn tại Thung lũng Silicon.
+
+226
+00:14:50,093 --> 00:14:53,159
+Tuy nhiên, cả khu vực không ra đời chỉ từ một vụ giận sếp.
+
+227
+00:14:53,507 --> 00:14:58,120
+Nó còn được nuôi dưỡng bởi các trường đại học, nguồn vốn, nhu cầu công nghiệp và nhiều doanh nghiệp khác.
+
+228
+00:14:58,493 --> 00:15:01,960
+Ngay cả khi có transistor, kỹ sư vẫn phải đối mặt với một vấn đề.
+
+229
+00:15:02,188 --> 00:15:05,320
+Một thiết bị càng phức tạp thì càng cần nhiều linh kiện và mối nối.
+
+230
+00:15:05,736 --> 00:15:08,360
+Làm sao thu nhỏ cả hệ thống thay vì chỉ thu nhỏ từng phần?
+
+231
+00:15:08,701 --> 00:15:16,120
+Mùa hè năm 1958, Jack Kilby, nhân viên mới tại Texas Instruments, chưa có đủ thời gian làm việc để hưởng kỳ nghỉ chung của công ty.
+
+232
+00:15:16,473 --> 00:15:21,320
+Trong thời gian ấy, ông tiếp tục nghiên cứu một cách chế tạo các thành phần mạch trên cùng một mẩu vật liệu bán dẫn.
+
+233
+00:15:21,538 --> 00:15:27,080
+Ngày 12 tháng 9 năm 1958, Kilby trình diễn một mạch tích hợp hoạt động được, sử dụng germanium.
+
+234
+00:15:27,555 --> 00:15:31,640
+Không lâu sau, Robert Noyce tại Fairchild phát triển độc lập một hướng tích hợp trên silicon,
+
+235
+00:15:32,046 --> 00:15:34,920
+với cách tạo các kết nối kim loại trên bề mặt phù hợp hơn cho sản xuất.
+
+236
+00:15:35,146 --> 00:15:39,000
+Hai công trình có những khác biệt kỹ thuật quan trọng, nhưng cùng mở ra thời đại mạch tích hợp.
+
+237
+00:15:39,389 --> 00:15:43,960
+Thay vì lắp mọi linh kiện riêng rẽ, con người dần chế tạo nhiều thành phần ngay trong một cấu trúc nhỏ bé.
+
+238
+00:15:44,421 --> 00:15:46,280
+Kilby nhận giải Nobel năm 2000.
+
+239
+00:15:46,688 --> 00:15:48,120
+Noyce đã qua đời trước đó.
+
+240
+00:15:48,377 --> 00:15:54,120
+Thành quả của họ, cùng rất nhiều cải tiến về chế tạo, đã mở đường cho cuộc đua thu nhỏ mà chúng ta vẫn đang sống bên trong.
+
+241
+00:15:54,351 --> 00:16:00,600
+Năm 1971, Intel giới thiệu 4004, bộ vi xử lý thương mại tiên phong tích hợp CPU trên một chip,
+
+242
+00:16:00,823 --> 00:16:03,400
+được phát triển trong dự án với công ty Busicom của Nhật Bản.
+
+243
+00:16:03,903 --> 00:16:09,720
+Công trình có đóng góp quan trọng của Federico Faggin, Ted Hoff, Stanley Mazor và Masatoshi Shima.
+
+244
+00:16:10,157 --> 00:16:12,440
+Con chip chứa khoảng 2.300 transistor.
+
+245
+00:16:12,833 --> 00:16:15,240
+Intel từng so sánh năng lực tính toán của nó với ENIAC.
+
+246
+00:16:15,399 --> 00:16:20,920
+Dù mọi so sánh hiệu năng giữa hai thiết kế rất khác nhau đều cần thận trọng, hình ảnh ấy vẫn cho thấy bước tiến khổng lồ.
+
+247
+00:16:21,579 --> 00:16:25,720
+Một phần năng lực xử lý từng cần cả một căn phòng đã có thể xuất hiện trên một mẩu chip.
+
+248
+00:16:26,232 --> 00:16:27,960
+Nhưng CPU chưa phải cả chiếc máy tính.
+
+249
+00:16:28,196 --> 00:16:32,120
+Nó vẫn cần bộ nhớ, nguồn điện và các bộ phận vào–ra để trở thành một hệ thống hữu ích.
+
+250
+00:16:32,620 --> 00:16:40,680
+Trước đó, năm 1965, Gordon Moore đã quan sát tốc độ tăng số linh kiện trên mạch tích hợp và dự báo mức tăng gấp đôi mỗi năm trong giai đoạn tiếp theo.
+
+251
+00:16:41,162 --> 00:16:44,760
+Đến năm 1975, ông điều chỉnh nhịp dự báo thành khoảng hai năm.
+
+252
+00:16:45,066 --> 00:16:47,080
+Đó là điều về sau được gọi là Định luật Moore.
+
+253
+00:16:47,315 --> 00:16:49,960
+Nó không phải một định luật vật lý bắt tự nhiên phải tuân theo.
+
+254
+00:16:50,469 --> 00:16:56,040
+Để duy trì xu hướng ấy, ngành công nghiệp phải liên tục cải tiến vật liệu, thiết kế, thiết bị và quy trình sản xuất.
+
+255
+00:16:56,610 --> 00:17:06,520
+Từ khoảng 2.300 transistor của Intel 4004, đến năm 2023, hệ chip M2 Ultra của Apple chứa 134 tỷ transistor.
+
+256
+00:17:07,055 --> 00:17:08,600
+Nhiều hơn khoảng 58 triệu lần.
+
+257
+00:17:08,834 --> 00:17:14,840
+M2 Ultra còn kết nối hai khuôn chip với nhau, cho thấy đóng gói và liên kết cũng là một phần của hành trình tăng năng lực tính toán.
+
+258
+00:17:15,230 --> 00:17:18,840
+Số transistor không trực tiếp cho biết một máy nhanh hơn máy khác bao nhiêu lần.
+
+259
+00:17:19,296 --> 00:17:21,320
+Nhưng khoảng cách ấy vẫn đủ khiến chúng ta choáng ngợp.
+
+260
+00:17:21,638 --> 00:17:23,320
+Phần cứng đang trở nên nhỏ và mạnh.
+
+261
+00:17:23,791 --> 00:17:24,760
+Câu hỏi tiếp theo là:
+
+262
+00:17:24,998 --> 00:17:27,320
+Làm thế nào để một người bình thường có thể sử dụng nó?
+
+263
+00:17:27,732 --> 00:17:33,160
+Trước khi đến chiếc máy tính trên bàn làm việc, hãy nhìn vào phần mềm, thứ quyết định những linh kiện ấy phối hợp để làm gì.
+
+264
+00:17:33,609 --> 00:17:35,880
+Một người tiên phong quan trọng là Grace Hopper.
+
+265
+00:17:36,329 --> 00:17:42,200
+Đầu thập niên 1950, bà phát triển A-0, một công cụ thường được nhắc đến trong lịch sử những trình biên dịch đầu tiên.
+
+266
+00:17:42,353 --> 00:17:47,640
+Theo cách phân loại hiện nay, nó có nhiều đặc điểm gần với việc chọn, ghép và nạp các chương trình con đã có sẵn.
+
+267
+00:17:48,069 --> 00:17:55,320
+Về sau, Hopper cùng các cộng sự phát triển FLOW-MATIC, sử dụng các câu lệnh gần tiếng Anh cho xử lý dữ liệu kinh doanh và có ảnh hưởng đến COBOL.
+
+268
+00:17:55,760 --> 00:17:58,200
+Máy không vì thế mà hiểu tiếng Anh tự nhiên như con người.
+
+269
+00:17:58,434 --> 00:18:02,680
+Nhưng công việc của bà góp phần đưa lập trình ra khỏi việc phải xử lý mọi chi tiết ở cấp mã máy.
+
+270
+00:18:03,251 --> 00:18:09,640
+Và nhắc đến Hopper, nhiều người sẽ nhớ câu chuyện con bướm đêm mắc trong rơ-le của máy Harvard Mark II năm 1947.
+
+271
+00:18:10,158 --> 00:18:14,680
+Con côn trùng được dán vào sổ nhật ký, trở thành hình ảnh nổi tiếng của một “bug” đúng nghĩa đen.
+
+272
+00:18:14,914 --> 00:18:18,600
+Tuy nhiên, từ “bug”, với nghĩa lỗi kỹ thuật, đã có từ thế kỷ XIX.
+
+273
+00:18:18,914 --> 00:18:20,440
+Con bướm không tạo ra thuật ngữ ấy.
+
+274
+00:18:20,862 --> 00:18:23,560
+Nó chỉ khiến một thuật ngữ cũ có thêm câu chuyện quá dễ nhớ.
+
+275
+00:18:24,024 --> 00:18:28,680
+Một gương mặt khác là Margaret Hamilton, người lãnh đạo nhóm phát triển phần mềm bay Apollo tại MIT.
+
+276
+00:18:28,941 --> 00:18:33,880
+Khi Apollo 11 đang hạ xuống Mặt Trăng, máy tính phát cảnh báo 1201 và 1202.
+
+277
+00:18:34,109 --> 00:18:40,200
+Những tín hiệu và ngắt không mong muốn liên quan đến radar gặp nhau đã gây thêm tải trong lúc máy đang phải xử lý công việc hạ cánh.
+
+278
+00:18:40,575 --> 00:18:45,720
+Hệ thống phục hồi và quản lý công việc cho phép máy tiếp tục các tác vụ quan trọng sau khi khởi động lại có kiểm soát,
+
+279
+00:18:45,954 --> 00:18:47,880
+thay vì cố duy trì mọi công việc cùng lúc.
+
+280
+00:18:48,441 --> 00:18:51,720
+Đội điều hành dưới mặt đất hiểu các cảnh báo và cho phép tiếp tục hạ cánh.
+
+281
+00:18:51,953 --> 00:18:56,040
+Đó là thành quả của cả một tập thể thiết kế, lập trình, kiểm thử và vận hành.
+
+282
+00:18:56,525 --> 00:19:03,160
+Hamilton có vai trò lãnh đạo quan trọng, nhưng câu chuyện sẽ chính xác hơn khi không biến nỗ lực ấy thành một đoạn code do một người viết để cứu tất cả.
+
+283
+00:19:03,654 --> 00:19:06,040
+Máy tính dẫn đường Apollo có bộ nhớ rất hạn chế.
+
+284
+00:19:06,270 --> 00:19:11,000
+Chỉ khoảng vài kilobyte bộ nhớ có thể ghi lại, cùng một lượng bộ nhớ cố định lớn hơn để giữ chương trình.
+
+285
+00:19:11,387 --> 00:19:15,960
+Trong không gian chật chội ấy, các kỹ sư vẫn xây dựng được một hệ thống phục vụ nhiệm vụ cực kỳ khắt khe.
+
+286
+00:19:16,374 --> 00:19:19,000
+Rồi còn Katherine Johnson, nhà toán học của NASA.
+
+287
+00:19:19,409 --> 00:19:26,040
+Năm 1962, trước chuyến bay quỹ đạo của John Glenn, ông yêu cầu Johnson kiểm tra lại kết quả tính toán do máy điện tử tạo ra.
+
+288
+00:19:26,270 --> 00:19:30,920
+Theo lời kể được NASA lưu lại, nếu bà xác nhận những con số là tốt, ông sẵn sàng lên đường.
+
+289
+00:19:31,387 --> 00:19:34,360
+Johnson thực hiện việc kiểm tra bằng các công cụ tính toán sẵn có.
+
+290
+00:19:34,767 --> 00:19:36,840
+Câu chuyện ấy cho thấy thời điểm chuyển giao rất đặc biệt.
+
+291
+00:19:37,368 --> 00:19:42,680
+Máy có thể chạy nhanh, nhưng sự tin cậy vẫn cần phương pháp, kiểm chứng và những con người hiểu rõ bài toán.
+
+292
+00:19:43,092 --> 00:19:45,240
+Ba người phụ nữ này đóng góp ở những lĩnh vực khác nhau.
+
+293
+00:19:45,402 --> 00:19:48,120
+Công cụ lập trình, phần mềm bay và tính toán quỹ đạo.
+
+294
+00:19:48,548 --> 00:19:56,040
+Cùng với những người lập trình ENIAC và vô số đồng nghiệp khác, họ nhắc rằng lịch sử máy tính rộng hơn rất nhiều so với danh sách những người sáng lập công ty nổi tiếng.
+
+295
+00:19:56,273 --> 00:20:03,960
+Tháng 1 năm 1975, Altair 8800 xuất hiện trên bìa tạp chí Popular Electronics và thu hút mạnh mẽ cộng đồng yêu điện tử.
+
+296
+00:20:04,483 --> 00:20:07,960
+Ở cấu hình cơ bản, máy chưa có bàn phím và màn hình như chúng ta quen dùng.
+
+297
+00:20:08,390 --> 00:20:13,240
+Người sử dụng nhập dữ liệu, lệnh qua các công tắc trên mặt trước và quan sát trạng thái qua những đèn hiển thị.
+
+298
+00:20:13,718 --> 00:20:17,240
+Bộ nhớ ban đầu chỉ có 256 byte, nhưng hệ thống có thể mở rộng.
+
+299
+00:20:17,469 --> 00:20:19,720
+Với nhiều người, đó là một bộ linh kiện khó dùng.
+
+300
+00:20:20,207 --> 00:20:24,040
+Với Bill Gates và Paul Allen, nó mở ra thị trường phần mềm cho máy vi tính.
+
+301
+00:20:24,428 --> 00:20:27,720
+Họ cùng Monte Davidoff phát triển trình thông dịch BASIC cho Altair.
+
+302
+00:20:28,069 --> 00:20:30,360
+Microsoft được thành lập năm 1975.
+
+303
+00:20:30,708 --> 00:20:33,960
+Ở California, Steve Wozniak phát triển một thiết kế máy tính khác.
+
+304
+00:20:34,119 --> 00:20:39,160
+Apple I được bán dưới dạng bảng mạch đã lắp ráp, nhưng người mua vẫn phải bổ sung các bộ phận cần thiết để sử dụng.
+
+305
+00:20:39,571 --> 00:20:44,360
+Apple ra đời năm 1976 với Steve Jobs, Steve Wozniak và Ronald Wayne.
+
+306
+00:20:44,794 --> 00:20:49,000
+Wayne rời công ty rất sớm và bán lại phần sở hữu ban đầu của mình với giá 800 đô la.
+
+307
+00:20:49,145 --> 00:20:53,480
+Nếu nhìn Apple về sau, quyết định ấy rất dễ bị biến thành câu chuyện “đánh mất hàng trăm tỷ”.
+
+308
+00:20:54,136 --> 00:20:59,560
+Nhưng muốn tính như vậy phải giả định ông giữ nguyên tỷ lệ sở hữu qua mọi đợt huy động vốn và mọi quyết định tài chính.
+
+309
+00:21:00,266 --> 00:21:02,760
+Đó không phải điều chúng ta có thể mặc nhiên coi là chắc chắn.
+
+310
+00:21:03,246 --> 00:21:08,760
+Apple II ra mắt năm 1977, trở thành một trong những hệ thống máy tính cá nhân thành công và có ảnh hưởng lớn.
+
+311
+00:21:08,986 --> 00:21:13,640
+Cùng các sản phẩm khác trên thị trường, nó giúp đưa máy tính đến gần gia đình, trường học và doanh nghiệp nhỏ.
+
+312
+00:21:14,170 --> 00:21:16,520
+Trong lúc đó, cách tương tác với máy cũng thay đổi.
+
+313
+00:21:16,996 --> 00:21:22,680
+Tại Xerox PARC, Alto được phát triển năm 1973 như một hệ thống nghiên cứu, kết hợp màn hình đồ họa,
+
+314
+00:21:22,902 --> 00:21:24,920
+chuột và những môi trường phần mềm có cửa sổ.
+
+315
+00:21:25,152 --> 00:21:28,760
+Công trình ấy tiếp nối các nghiên cứu tương tác trước đó, chứ không xuất hiện từ khoảng trống.
+
+316
+00:21:29,185 --> 00:21:35,400
+Năm 1979, Steve Jobs và các kỹ sư Apple đến xem công nghệ tại PARC theo một thỏa thuận giữa hai công ty.
+
+317
+00:21:35,632 --> 00:21:41,800
+Những gì họ nhìn thấy có ảnh hưởng mạnh mẽ, nhưng Apple cũng tiếp tục tự phát triển và cải tiến giao diện trên Lisa rồi Macintosh.
+
+318
+00:21:42,140 --> 00:21:44,200
+Xerox không chỉ cất mọi thứ trong phòng thí nghiệm.
+
+319
+00:21:44,615 --> 00:21:50,520
+Hãng giới thiệu hệ thống Star năm 1981, dù sản phẩm không đạt thành công thương mại rộng rãi như những thiết kế kế thừa sau này.
+
+320
+00:21:50,752 --> 00:21:55,160
+Giao diện đồ họa quen thuộc ngày nay là kết quả của nhiều nhóm nghiên cứu và công ty cùng phát triển,
+
+321
+00:21:55,413 --> 00:21:57,080
+thử nghiệm, học hỏi và cạnh tranh.
+
+322
+00:21:57,569 --> 00:22:02,760
+Cũng trong năm 1981, IBM tham gia thị trường máy tính cá nhân, tạo ra một bước ngoặt lớn.
+
+323
+00:22:03,238 --> 00:22:08,840
+Để cung cấp hệ điều hành cho IBM PC, Microsoft trước tiên cấp phép, rồi mua quyền đối với 86-DOS,
+
+324
+00:22:09,218 --> 00:22:11,960
+trước đó mang tên QDOS, từ Seattle Computer Products.
+
+325
+00:22:12,192 --> 00:22:16,200
+Theo tư liệu của Bảo tàng Lịch sử Máy tính, khoản cấp phép ban đầu là 25.000 đô la.
+
+326
+00:22:16,660 --> 00:22:19,800
+Sau đó, Microsoft trả thêm 50.000 đô la để mua quyền.
+
+327
+00:22:20,213 --> 00:22:23,560
+Phần mềm được điều chỉnh cho IBM và phát hành dưới tên PC DOS.
+
+328
+00:22:23,986 --> 00:22:27,960
+Microsoft giữ quyền cấp phép hệ điều hành cho những nhà sản xuất khác dưới tên MS-DOS.
+
+329
+00:22:28,195 --> 00:22:32,440
+Khi thị trường máy tương thích IBM phát triển, lựa chọn ấy trở thành lợi thế kinh doanh cực lớn.
+
+330
+00:22:33,179 --> 00:22:39,560
+MS-DOS vươn lên vị trí thống trị, dù các hệ điều hành khác vẫn tồn tại và không phải mọi nhà sản xuất đều bắt buộc dùng nó.
+
+331
+00:22:40,033 --> 00:22:43,720
+Đằng sau thương vụ có tranh chấp và những cáo buộc liên quan đến nguồn gốc phần mềm.
+
+332
+00:22:43,953 --> 00:22:48,760
+Nhưng gọi đây là “một hệ điều hành bị đánh cắp” sẽ biến điều gây tranh luận thành một kết luận chắc chắn.
+
+333
+00:22:49,231 --> 00:22:54,680
+Điều đã được ghi nhận là Microsoft mua quyền sử dụng, phát triển sản phẩm và tận dụng rất hiệu quả cơ hội cấp phép.
+
+334
+00:22:55,156 --> 00:22:56,440
+Máy tính đã bước vào nhà.
+
+335
+00:22:56,762 --> 00:22:58,680
+Bây giờ, chúng cần kết nối với nhau.
+
+336
+00:22:59,080 --> 00:23:02,840
+Để theo dõi con đường kết nối ấy, chúng ta quay lại năm 1969.
+
+337
+00:23:03,075 --> 00:23:09,480
+Ngày 29 tháng 10, từ UCLA, lập trình viên Charley Kline thử đăng nhập vào máy tính ở Stanford Research Institute,
+
+338
+00:23:09,780 --> 00:23:10,680
+gọi tắt là SRI.
+
+339
+00:23:11,235 --> 00:23:13,160
+Anh nhập các ký tự của từ “LOGIN”.
+
+340
+00:23:13,614 --> 00:23:14,680
+Chữ L đi qua.
+
+341
+00:23:15,039 --> 00:23:15,960
+Chữ O đi qua.
+
+342
+00:23:16,452 --> 00:23:18,840
+Rồi máy phía nhận gặp sự cố trước khi quá trình hoàn tất.
+
+343
+00:23:19,263 --> 00:23:22,440
+Vì thế, thông điệp đầu tiên nổi tiếng của ARPANET chỉ còn “LO”.
+
+344
+00:23:22,676 --> 00:23:24,600
+Sau khi khắc phục, họ đăng nhập thành công.
+
+345
+00:23:24,977 --> 00:23:29,880
+Từ khởi đầu khiêm tốn ấy, nhiều nhóm nghiên cứu tiếp tục giải quyết bài toán kết nối các máy và các mạng khác nhau.
+
+346
+00:23:30,396 --> 00:23:36,120
+Vint Cerf và Bob Kahn có đóng góp nền tảng cho hệ thống giao thức về sau phát triển thành TCP/IP.
+
+347
+00:23:36,442 --> 00:23:40,840
+Ngày 1 tháng 1 năm 1983, ARPANET chuyển sang TCP/IP.
+
+348
+00:23:41,428 --> 00:23:44,600
+Đây là một cột mốc thường được dùng khi nói về sự hình thành Internet hiện đại.
+
+349
+00:23:44,835 --> 00:23:49,640
+Nhưng Internet phát triển qua nhiều giai đoạn, nên sẽ quá đơn giản nếu coi nó được phát minh trọn vẹn trong một ngày.
+
+350
+00:23:50,143 --> 00:23:51,480
+Và Internet chưa phải Web.
+
+351
+00:23:51,817 --> 00:23:53,720
+Internet cung cấp hạ tầng kết nối các mạng.
+
+352
+00:23:54,138 --> 00:23:59,240
+Web là một hệ thống thông tin hoạt động trên hạ tầng ấy, cho phép chúng ta truy cập và đi theo liên kết giữa các tài liệu,
+
+353
+00:23:59,487 --> 00:24:00,360
+trang và tài nguyên.
+
+354
+00:24:00,592 --> 00:24:06,360
+Năm 1989, tại CERN, Tim Berners-Lee đề xuất một hệ thống quản lý thông tin bằng siêu văn bản.
+
+355
+00:24:06,864 --> 00:24:09,480
+Người quản lý ghi nhận ý tưởng ấy bằng một nhận xét nổi tiếng.
+
+356
+00:24:09,771 --> 00:24:10,600
+Có thể dịch là:
+
+357
+00:24:10,896 --> 00:24:12,520
+“Mơ hồ, nhưng thú vị”.
+
+358
+00:24:12,752 --> 00:24:18,840
+Đến năm 1990, Berners-Lee xây dựng những thành phần đầu tiên của World Wide Web, gồm trình duyệt kiêm trình soạn thảo,
+
+359
+00:24:19,080 --> 00:24:23,800
+máy chủ và các nền tảng cho HTML, HTTP cùng cách định địa chỉ tài nguyên.
+
+360
+00:24:24,230 --> 00:24:27,800
+Robert Cailliau cũng đóng vai trò quan trọng trong việc phát triển và thúc đẩy dự án.
+
+361
+00:24:28,236 --> 00:24:31,320
+Máy chủ Web đầu tiên chạy trên chiếc máy NeXT của Berners-Lee tại CERN.
+
+362
+00:24:31,551 --> 00:24:34,600
+Nó nổi tiếng với lời nhắc rằng đây là máy chủ và không được tắt nguồn.
+
+363
+00:24:34,886 --> 00:24:38,120
+Web ban đầu hướng tới nhu cầu chia sẻ thông tin của cộng đồng nghiên cứu quốc tế.
+
+364
+00:24:38,425 --> 00:24:42,520
+CERN là tổ chức nghiên cứu quốc tế, và Internet đã tồn tại trước khi Web được tạo ra.
+
+365
+00:24:42,839 --> 00:24:47,480
+Ngày 30 tháng 4 năm 1993, CERN đưa phần mềm World Wide Web vào phạm vi công cộng.
+
+366
+00:24:47,712 --> 00:24:52,360
+Việc cho phép sử dụng tự do, cùng những bước phát triển theo hướng mở sau đó, giúp công nghệ này lan rộng.
+
+367
+00:24:52,903 --> 00:24:55,160
+Những chiếc máy tính giờ không chỉ tính toán riêng lẻ.
+
+368
+00:24:55,634 --> 00:24:59,800
+Chúng trở thành cánh cửa để con người truy cập một kho thông tin và dịch vụ trên quy mô toàn cầu.
+
+369
+00:25:00,224 --> 00:25:02,200
+Vậy con người đã phát minh ra máy tính như thế nào?
+
+370
+00:25:02,348 --> 00:25:04,440
+Bằng rất nhiều bước, trên nhiều con đường khác nhau.
+
+371
+00:25:04,822 --> 00:25:07,880
+Những dấu khía cổ xưa gợi cho chúng ta về nhu cầu ghi nhớ số lượng.
+
+372
+00:25:08,146 --> 00:25:10,680
+Bảng đếm và bàn tính hỗ trợ con người thao tác với số.
+
+373
+00:25:10,977 --> 00:25:13,720
+Những bộ bánh răng cho thấy quy luật có thể được đưa vào cấu trúc máy.
+
+374
+00:25:14,119 --> 00:25:17,000
+Thẻ đục lỗ cho thấy thông tin có thể điều khiển một chuỗi hoạt động.
+
+375
+00:25:17,367 --> 00:25:19,640
+Babbage thiết kế các cơ cấu tính toán đầy tham vọng.
+
+376
+00:25:19,800 --> 00:25:21,800
+Ada diễn giải tiềm năng xử lý ký hiệu.
+
+377
+00:25:22,191 --> 00:25:24,920
+Boole và những người kế thừa phát triển logic đại số.
+
+378
+00:25:25,232 --> 00:25:27,160
+Shannon đem công cụ ấy vào thiết kế mạch.
+
+379
+00:25:27,445 --> 00:25:30,200
+Turing làm rõ sức mạnh và giới hạn của tính toán theo quy tắc.
+
+380
+00:25:30,548 --> 00:25:36,120
+Zuse, Flowers, những người xây dựng ENIAC và nhiều đội ngũ khác biến các hướng tiếp cận thành máy hoạt động.
+
+381
+00:25:36,349 --> 00:25:41,640
+Các kỹ sư và nhà khoa học đưa chương trình vào bộ nhớ, phát triển transistor, mạch tích hợp và vi xử lý.
+
+382
+00:25:42,026 --> 00:25:44,200
+Những người làm phần mềm giúp máy thực hiện công việc hữu ích.
+
+383
+00:25:44,696 --> 00:25:48,200
+Những người phát triển máy tính cá nhân và giao diện giúp nhiều người sử dụng được chúng.
+
+384
+00:25:48,435 --> 00:25:51,240
+Những người xây dựng mạng và Web mở rộng khả năng ấy ra khắp thế giới.
+
+385
+00:25:51,754 --> 00:25:54,920
+Đây không phải một hàng quân chỉ cần thiếu một người là mọi thứ phía sau biến mất.
+
+386
+00:25:55,443 --> 00:25:56,439
+Nó giống một mạng lưới.
+
+387
+00:25:56,992 --> 00:26:01,560
+Có những đường nối trực tiếp, có những nhánh phát triển song song và có những ý tưởng được tìm ra nhiều lần.
+
+388
+00:26:01,795 --> 00:26:07,640
+Nếu không có Ada Lovelace, chúng ta sẽ mất đi một trong những cách diễn giải sớm và sâu sắc nhất về tiềm năng của máy tính.
+
+389
+00:26:07,920 --> 00:26:11,320
+Nhưng không có cơ sở để khẳng định lập trình chắc chắn sẽ chậm lại đúng một thế kỷ.
+
+390
+00:26:11,656 --> 00:26:15,240
+Nếu không có Claude Shannon, lịch sử thiết kế mạch có thể đã đi theo một nhịp khác.
+
+391
+00:26:15,630 --> 00:26:18,360
+Nhưng điều đó không có nghĩa logic và điện sẽ mãi không gặp nhau.
+
+392
+00:26:18,594 --> 00:26:23,080
+Nếu Shockley và các nhân viên không chia tay, câu chuyện Fairchild và Intel có lẽ đã rất khác.
+
+393
+00:26:23,430 --> 00:26:27,640
+Tuy nhiên, sự ra đời của ngành bán dẫn còn phụ thuộc vào nhiều con người và điều kiện khác nữa.
+
+394
+00:26:28,203 --> 00:26:31,080
+Còn nếu con bướm đêm không mắc vào rơ-le năm 1947?
+
+395
+00:26:31,635 --> 00:26:33,960
+Các kỹ sư vẫn đã có từ “bug” để gọi lỗi.
+
+396
+00:26:34,578 --> 00:26:36,360
+Chúng ta chỉ mất đi một giai thoại tuyệt vời.
+
+397
+00:26:36,595 --> 00:26:41,880
+Và nếu những thợ lặn không tìm thấy xác tàu Antikythera, bí mật về cỗ máy có thể còn nằm dưới biển lâu hơn.
+
+398
+00:26:42,422 --> 00:26:47,880
+Điều thay đổi trước hết là hiểu biết của chúng ta về quá khứ, chứ không thể từ đó kết luận chiếc điện thoại hôm nay sẽ không tồn tại.
+
+399
+00:26:48,378 --> 00:26:51,720
+Những tình huống ấy thú vị vì chúng cho thấy lịch sử có thể rẽ hướng.
+
+400
+00:26:51,953 --> 00:26:57,000
+Nhưng chúng ta không cần biến mỗi nhân vật thành người duy nhất có thể cứu cả tương lai mới hiểu được giá trị của họ.
+
+401
+00:26:57,374 --> 00:27:00,680
+Điều đáng kinh ngạc hơn là số lượng những vấn đề con người đã lần lượt giải quyết.
+
+402
+00:27:01,031 --> 00:27:02,200
+Làm sao ghi lại thông tin?
+
+403
+00:27:02,404 --> 00:27:03,880
+Làm sao tự động hóa một bước tính?
+
+404
+00:27:04,280 --> 00:27:05,640
+Làm sao mô tả một quy trình?
+
+405
+00:27:05,987 --> 00:27:07,400
+Làm sao chế tạo linh kiện nhỏ hơn?
+
+406
+00:27:07,818 --> 00:27:09,960
+Và làm sao giúp người khác sử dụng tất cả những thứ ấy?
+
+407
+00:27:10,193 --> 00:27:13,720
+Hôm nay, khi bạn chạm vào màn hình, những lớp công sức đó cùng hoạt động.
+
+408
+00:27:14,037 --> 00:27:15,800
+Mạch điện xử lý các trạng thái logic.
+
+409
+00:27:16,091 --> 00:27:17,880
+Phần mềm tổ chức chúng thành công việc.
+
+410
+00:27:18,237 --> 00:27:19,080
+Mạng truyền dữ liệu.
+
+411
+00:27:19,519 --> 00:27:23,320
+Và giao diện biến kết quả thành thứ chúng ta có thể nhìn, đọc, nghe và sử dụng.
+
+412
+00:27:23,556 --> 00:27:26,920
+Ở tầng biểu diễn cơ bản, rất nhiều thông tin ấy được viết bằng 0 và 1.
+
+413
+00:27:27,409 --> 00:27:32,040
+Nhưng điều tạo nên sức mạnh của máy tính nằm ở cách chúng ta tổ chức hai ký hiệu đó thành những hệ thống có cấu trúc.
+
+414
+00:27:32,529 --> 00:27:34,280
+Chiếc công tắc không tự học cách tư duy.
+
+415
+00:27:34,752 --> 00:27:38,520
+Con người đã học cách kết hợp những trạng thái đơn giản để xử lý thông tin ở quy mô phi thường.
+
+416
+00:27:39,045 --> 00:27:40,920
+Và chính hành trình ấy mới là câu chuyện đáng kể nhất.
+
+417
+00:27:41,150 --> 00:27:46,680
+Nhân nói về những ý tưởng trừu tượng có thể thay đổi thế giới, video tiếp theo trên màn hình sẽ đưa bạn đến một câu hỏi khác.
+
+418
+00:27:47,129 --> 00:27:50,760
+Toán học do con người phát minh ra, hay vốn đã tồn tại để chúng ta khám phá?
+
+419
+00:27:51,101 --> 00:27:52,600
+Hãy bấm xem nếu bạn muốn đi tiếp.
+
+420
+00:27:53,017 --> 00:27:57,000
+Đừng quên đăng ký và để lại bình luận về chủ đề bạn muốn chúng ta cùng giải mã lần sau.
+

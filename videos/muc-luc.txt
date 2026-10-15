@@ -1,0 +1,40 @@
+00:00 Màn hình và chip
+00:59 Quay ngược lịch sử
+01:28 “Computer” là con người
+01:59 Xương Ishango
+02:45 Bàn tính
+03:30 Antikythera
+04:36 Cơ cấu al-Jazari
+05:02 Máy dệt Jacquard
+05:35 Máy sai phân Babbage
+06:10 Máy giải tích
+06:51 Ada Lovelace
+07:47 Phục dựng Babbage
+08:27 Boole và logic
+09:16 Shannon và Turing
+10:02 Z3 ở Berlin
+10:42 Bletchley Park và Colossus
+11:51 ENIAC
+12:52 Chương trình lưu trong bộ nhớ
+13:50 Phát minh transistor
+14:23 Shockley và cuộc chia tay
+14:58 Mạch tích hợp
+15:54 Intel 4004
+16:32 Định luật Moore
+17:21 Chuyển sang phần mềm
+17:33 Grace Hopper
+18:24 Apollo và Margaret Hamilton
+19:16 Katherine Johnson
+19:56 Altair và BASIC
+20:30 Apple thời đầu
+21:14 Xerox PARC và GUI
+21:57 IBM PC và MS-DOS
+22:59 ARPANET năm 1969
+23:24 TCP/IP
+23:50 Internet khác Web
+24:00 Tim Berners-Lee và CERN
+25:00 Tổng kết toàn bộ lịch sử
+26:01 Các giả định phản thực
+26:48 Những bài toán con người giải
+27:10 Máy tính ngày nay
+27:41 Màn hình kết thúc
