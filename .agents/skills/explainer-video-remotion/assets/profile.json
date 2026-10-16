@@ -1,0 +1,168 @@
+{
+  "skillVersion": "2.0.0",
+  "styleId": "sleep-final-1m-v1",
+  "golden": {
+    "commit": "5abb6eb",
+    "videoUrl": "https://github.com/june30062104-lab/Giao-Su-But/raw/refs/heads/main/previews/giac-ngu-final-1-phut.mp4",
+    "videoSha256": "8239b6fee498798bd56ead266dbf5086727f8e9976bf5be9d6913d0766eefff7",
+    "durationSeconds": 62.4,
+    "frames": 1872,
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "shotCount": 18,
+    "sfxPlacements": 32,
+    "distinctSfxFiles": 31,
+    "composition": "SleepFinalMinute"
+  },
+  "projectArchive": {
+    "path": "assets/final-minute-project.zip",
+    "sha256": "c8c316e150a4ce8aa11eae2c0b2f3220018f0ca688056ca5f281377a0eeaeac8",
+    "fileHashes": {
+      "src/final-minute.tsx": "76216eea2a40d5f0338d89a4f910ed9dbd76b684c9d7f98b9abe22ee7ef23655",
+      "src/rig-demo.tsx": "a011c80a177597e9f64e9e5a763f776c0b408c29b888b1d98c65b4fcecbbe372",
+      "project/final-minute-timeline.json": "e148979429f7ac49c5249ce99a6f409974ad77aebb62ceff20f07672b5fbffc3",
+      "public/audio/final-minute.wav": "c3d736be4a0a1d6a2a0f89f7ecfc8c5f8b3cc9fbdff5cde743b7ad702e13d29e",
+      "public/fonts/PatrickHand-Regular.ttf": "0f173b3e6cb6d1af25babf7f0057c5ac4ee11f9992b0469bb817e967ef4ad0fc",
+      "package.json": "689516b690b3fecac7969fabc4c1749086e871e1e7ea6e3f5a1a408f9176bfcd"
+    }
+  },
+  "runtimeObserved": {
+    "node": "v24.19.0",
+    "npm": "11.9.0",
+    "dependencies": {
+      "remotion": "4.0.535",
+      "react": "18.3.1",
+      "react-dom": "18.3.1"
+    },
+    "devDependencies": {
+      "@remotion/cli": "4.0.535",
+      "@types/react": "18.3.31",
+      "@types/react-dom": "18.3.7",
+      "typescript": "5.9.3"
+    },
+    "browserExecutable": "/usr/bin/chromium",
+    "note": "Exact package versions pinned; no claim of byte-identical rendering across platforms."
+  },
+  "render": {
+    "codec": "h264",
+    "crf": 18,
+    "x264Preset": "fast",
+    "audioBitrate": "192k",
+    "concurrency": 3
+  },
+  "visual": {
+    "viewBox": [
+      0,
+      0,
+      1280,
+      720
+    ],
+    "font": "Patrick Hand",
+    "palette": {
+      "ink": "#302b28",
+      "cream": "#faf0da",
+      "skin": "#fff9e9",
+      "hair": "#6c594d",
+      "shirt": "#81b5ca",
+      "blanket": "#91a28d",
+      "highlight": "#f6d76c"
+    },
+    "strokeRangeSvg": [
+      2,
+      4
+    ]
+  },
+  "shotSequence": [
+    {
+      "id": "clock",
+      "start": 0,
+      "end": 3.912
+    },
+    {
+      "id": "room",
+      "start": 3.912,
+      "end": 9.106
+    },
+    {
+      "id": "observer",
+      "start": 9.106,
+      "end": 12.562
+    },
+    {
+      "id": "mind",
+      "start": 12.562,
+      "end": 16.356
+    },
+    {
+      "id": "argument",
+      "start": 16.356,
+      "end": 18.556
+    },
+    {
+      "id": "lock",
+      "start": 18.556,
+      "end": 20.938
+    },
+    {
+      "id": "email",
+      "start": 20.938,
+      "end": 25.626
+    },
+    {
+      "id": "blanket",
+      "start": 25.626,
+      "end": 29.689
+    },
+    {
+      "id": "stage",
+      "start": 29.689,
+      "end": 36.506
+    },
+    {
+      "id": "strange",
+      "start": 36.506,
+      "end": 38.267
+    },
+    {
+      "id": "drift",
+      "start": 38.267,
+      "end": 41.431
+    },
+    {
+      "id": "dawn",
+      "start": 41.431,
+      "end": 47.755
+    },
+    {
+      "id": "wake",
+      "start": 47.755,
+      "end": 49.547
+    },
+    {
+      "id": "question",
+      "start": 49.547,
+      "end": 51.715
+    },
+    {
+      "id": "stand",
+      "start": 51.715,
+      "end": 54.5
+    },
+    {
+      "id": "door",
+      "start": 54.5,
+      "end": 56.047
+    },
+    {
+      "id": "water",
+      "start": 56.047,
+      "end": 57.92
+    },
+    {
+      "id": "dialogue",
+      "start": 57.92,
+      "end": 62.4
+    }
+  ]
+}
