@@ -1,5 +1,7 @@
 # Bản nháp video giấc ngủ
 
+[Cảnh thử hai nhân vật — 12,8 giây](hai-nhan-vat.md): animation đầu, tay, mắt và miệng độc lập theo mẫu mới.
+
 ## Bản thử minh họa mới v3
 
 [Tải bản v3 — MP4](https://github.com/june30062104-lab/Giao-Su-But/raw/refs/heads/main/previews/giac-ngu-minh-hoa-moi-v3-30s.mp4)
