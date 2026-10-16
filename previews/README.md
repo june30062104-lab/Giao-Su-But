@@ -1,5 +1,9 @@
 # Bản nháp video giấc ngủ
 
+## Bản mới nhất
+
+[Bản hoàn thiện khoảng một phút — 62,4 giây](giac-ngu-final-1-phut.md): 18 shot, đa dạng cách minh họa, voice gốc và 32 mốc SFX.
+
 [Phân cảnh mới — 29,1 giây](phan-canh-moi-29s.md): quyết định đi ngủ, chuẩn bị ngủ, trằn trọc và ngủ gật trong cuộc họp.
 
 [Cảnh thử hai nhân vật — 12,8 giây](hai-nhan-vat.md): animation đầu, tay, mắt và miệng độc lập theo mẫu mới.
