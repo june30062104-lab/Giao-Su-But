@@ -12,3 +12,7 @@
 Xem đoạn 00:25–00:29 để kiểm tra động tác kéo chăn.
 
 [Bản v1](giac-ngu-ban-nhap-62s.mp4) được giữ lại để so sánh.
+
+## Video đầy đủ
+
+[Bản đầy đủ theo v2 — tải MP4](https://github.com/june30062104-lab/Giao-Su-But/raw/refs/heads/main/videos/giac-ngu-full-v2-1080p.mp4) · 18 phút 13 giây · 1080p.
