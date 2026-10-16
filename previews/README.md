@@ -1,5 +1,18 @@
 # Bản nháp video giấc ngủ
 
+## Bản thử minh họa mới v3
+
+[Tải bản v3 — MP4](https://github.com/june30062104-lab/Giao-Su-But/raw/refs/heads/main/previews/giac-ngu-minh-hoa-moi-v3-30s.mp4)
+
+29,6 giây · 1920×1080 · 16:9 · 30 FPS · H.264/AAC · khoảng 10,6 MB.
+
+- Minh họa mới: phòng ngủ có phối cảnh, ánh sáng và chất liệu; nhân vật có các tư thế riêng.
+- Cảnh suy nghĩ hiện lần lượt theo lời thoại; giữ voice gốc và thêm 15 mốc SFX.
+- Đoạn 00:25–00:29 dùng chuỗi tư thế vẽ để thể hiện nắm chăn, kéo chăn và đổi tư thế. Chuyển động còn theo kiểu hoạt hình giới hạn.
+- Đây là bản thử phong cách 30 giây, chưa áp dụng cho toàn bộ video.
+
+Đã kiểm tra TypeScript, thời lượng/tài nguyên và giải mã toàn bộ MP4 không báo lỗi.
+
 [Bản v2 — tải MP4](https://github.com/june30062104-lab/Giao-Su-But/raw/refs/heads/main/previews/giac-ngu-ban-nhap-v2-62s.mp4)
 
 62,4 giây · 1920×1080 · 16:9 · 30 FPS · H.264/AAC.
