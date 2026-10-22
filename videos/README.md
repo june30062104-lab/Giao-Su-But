@@ -1,3 +1,9 @@
+## Video mới: Anh và Trung Quốc
+
+[Bản đầy đủ15phút — 1080p](anh-trung-quoc/README.md) ·116cảnh ·voice gốc ·SFX.
+
+---
+
 # Vì sao có cảm giác phải “giả vờ ngủ” mới ngủ được?
 
 **[Tải video đầy đủ — MP4, khoảng 41 MB](https://github.com/june30062104-lab/Giao-Su-But/raw/refs/heads/main/videos/giac-ngu-full-v2-1080p.mp4)**

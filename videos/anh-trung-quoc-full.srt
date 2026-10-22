@@ -1,0 +1,816 @@
+1
+00:00:00,059 --> 00:00:02,280
+Miền Bắc Trung Quốc, năm 1078.
+
+2
+00:00:02,716 --> 00:00:09,320
+Hãy hình dung những lò luyện sắt đỏ lửa, người thợ tiếp quặng vào lò, còn kim loại nóng chảy được đổ vào khuôn để tạo thành nông cụ và vũ khí.
+
+3
+00:00:09,688 --> 00:00:11,560
+Nhiều nơi đã sử dụng than đá làm nhiên liệu.
+
+4
+00:00:11,928 --> 00:00:19,320
+Từ các sổ thuế thời Tống, nhà sử học Robert Hartwell từng ước tính rằng sản lượng sắt của Trung Quốc cuối thế kỷ 11 có thể vượt 100.000 tấn mỗi năm.
+
+5
+00:00:19,542 --> 00:00:23,160
+Con số này còn gây tranh luận, vì sổ thuế không cho biết chắc sản lượng thực tế.
+
+6
+00:00:23,514 --> 00:00:26,520
+Nhưng sự phát triển mạnh của ngành luyện sắt thời Tống là điều có cơ sở.
+
+7
+00:00:26,952 --> 00:00:29,080
+Và từ đây, một so sánh đầy tò mò xuất hiện.
+
+8
+00:00:29,503 --> 00:00:32,840
+Hãy chuyển đến nước Anh năm 1788, hơn 700 năm sau.
+
+9
+00:00:33,292 --> 00:00:40,600
+Khi các xưởng máy đang dần thay đổi nền kinh tế, tổng sản lượng gang thô của cả Anh, Scotland và xứ Wales được ghi nhận ở mức khoảng 68.000 tấn.
+
+10
+00:00:40,830 --> 00:00:44,280
+Đây là số liệu gang thô, không thể so trực tiếp với ước tính sắt thời Tống.
+
+11
+00:00:44,843 --> 00:00:48,440
+Nhưng khoảng cách thời gian hơn bảy thế kỷ vẫn khiến sự so sánh trở nên thú vị.
+
+12
+00:00:48,673 --> 00:00:56,200
+Nếu bạn sống vào năm 1100 và phải dự đoán nơi nào sẽ bước vào kỷ nguyên máy móc trước, liệu bạn có nghĩ đến một hòn đảo lạnh và ẩm ở rìa châu Âu?
+
+13
+00:00:56,670 --> 00:00:59,080
+Thế mà Cách mạng Công nghiệp đầu tiên lại khởi phát ở nước Anh.
+
+14
+00:00:59,683 --> 00:01:06,840
+Tại sao Trung Quốc có nhiều phát minh sớm hơn, nhưng nước Anh lại trở thành nơi máy móc, nhà máy và động cơ hơi nước phát triển thành một hệ thống sản xuất hoàn toàn mới?
+
+15
+00:01:07,069 --> 00:01:12,040
+Câu trả lời không nằm ở việc ai thông minh hơn, mà ở chỗ những phát minh xuất hiện trong môi trường như thế nào,
+
+16
+00:01:12,207 --> 00:01:16,840
+có đáng để sử dụng hay không, và liệu có đủ điều kiện để được cải tiến hết lần này đến lần khác.
+
+17
+00:01:17,375 --> 00:01:20,120
+Để thấy câu hỏi khó đến đâu, hãy trở lại Trung Quốc thời Tống.
+
+18
+00:01:20,707 --> 00:01:24,440
+Khoảng năm 1100, Khai Phong là một trong những đô thị lớn nhất thế giới.
+
+19
+00:01:24,669 --> 00:01:30,280
+Đường phố đông người qua lại, hàng hóa được vận chuyển trên những dòng sông, quán ăn và khu chợ hoạt động nhộn nhịp.
+
+20
+00:01:30,718 --> 00:01:34,440
+Ở Trung Quốc, tiền giấy do nhà nước phát hành đã xuất hiện từ đầu thế kỷ 11.
+
+21
+00:01:34,671 --> 00:01:40,120
+Vào khoảng những năm 1040, nghệ nhân Tất Thăng tìm ra cách sử dụng các con chữ rời bằng đất sét nung,
+
+22
+00:01:40,429 --> 00:01:42,440
+trước Gutenberg ở châu Âu khoảng bốn thế kỷ.
+
+23
+00:01:43,160 --> 00:01:49,880
+Vào cuối thế kỷ 11, Tô Tụng chế tạo một tháp đồng hồ thiên văn cao hơn 10 mét, vận hành bằng bánh xe nước và hệ thống cơ khí phức tạp.
+
+24
+00:01:50,107 --> 00:01:56,760
+Sang năm 1313, cuốn Nông thư của Vương Trinh mô tả nhiều công cụ sản xuất, trong đó có thiết bị xe sợi sử dụng sức nước.
+
+25
+00:01:57,283 --> 00:01:58,120
+Nhưng cần phân biệt:
+
+26
+00:01:58,569 --> 00:02:07,240
+loại máy này gắn với kỹ thuật xử lý một số loại sợi dài như gai, lanh hoặc tơ, chứ không phải một chiếc máy kéo sợi bông giống hệt thiết bị xuất hiện ở Anh nhiều thế kỷ sau.
+
+27
+00:02:07,470 --> 00:02:12,360
+Đến đầu thế kỷ 15, đô đốc Trịnh Hòa chỉ huy những hạm đội vượt Ấn Độ Dương tới tận bờ biển Đông Phi.
+
+28
+00:02:12,794 --> 00:02:16,440
+Nhưng sở hữu nhiều phát minh không đồng nghĩa một cuộc cách mạng công nghiệp sẽ tự động diễn ra.
+
+29
+00:02:16,913 --> 00:02:22,920
+Chính nghịch lý đó khiến Joseph Needham, một nhà khoa học người Anh ở thế kỷ 20, dành nhiều năm tìm hiểu lịch sử khoa học Trung Quốc.
+
+30
+00:02:23,145 --> 00:02:25,240
+Câu hỏi gắn với tên ông có thể tóm gọn như sau:
+
+31
+00:02:25,584 --> 00:02:31,880
+tại sao Trung Quốc từng dẫn trước châu Âu ở nhiều lĩnh vực kỹ thuật, nhưng khoa học hiện đại và Cách mạng Công nghiệp lại phát triển mạnh trước tại châu Âu?
+
+32
+00:02:32,254 --> 00:02:34,440
+Cũng không thể bảo Trung Quốc phát minh xong rồi ngủ quên.
+
+33
+00:02:34,885 --> 00:02:37,720
+Trong thế kỷ 18, nền kinh tế nhà Thanh vẫn rất sôi động.
+
+34
+00:02:38,083 --> 00:02:39,480
+Dân số tăng lên hàng trăm triệu người.
+
+35
+00:02:39,708 --> 00:02:42,360
+Khu vực hạ lưu sông Dương Tử có những thành phố thương mại phát triển;
+
+36
+00:02:42,756 --> 00:02:45,640
+nhiều gia đình vừa làm nông, vừa kéo sợi và dệt vải để bán.
+
+37
+00:02:46,060 --> 00:02:50,440
+Các sử gia còn tranh luận mức sống của những vùng giàu có ở Trung Quốc có tương đương với nước Anh hay không.
+
+38
+00:02:50,946 --> 00:02:52,760
+Nhưng điểm quan trọng là Trung Quốc không đứng yên.
+
+39
+00:02:53,203 --> 00:02:55,960
+Họ đang phát triển theo một con đường phù hợp với kinh tế và xã hội của mình.
+
+40
+00:02:56,195 --> 00:02:59,400
+Vậy điều gì khiến con đường ấy không dẫn đến cơ giới hóa hàng loạt như tại Anh?
+
+41
+00:02:59,863 --> 00:03:01,400
+Mảnh ghép đầu tiên nằm dưới lòng đất.
+
+42
+00:03:01,930 --> 00:03:05,000
+Hãy hình dung bạn đang ở trong một mỏ than Anh khoảng năm 1700.
+
+43
+00:03:05,547 --> 00:03:07,880
+Dưới chân, nước ngầm rỉ ra từng chút một.
+
+44
+00:03:08,104 --> 00:03:10,680
+Công nhân càng đào sâu, nước càng khó kiểm soát.
+
+45
+00:03:10,976 --> 00:03:13,480
+Nếu không bơm kịp, họ sẽ không thể tiếp tục khai thác.
+
+46
+00:03:13,986 --> 00:03:17,160
+Vấn đề này trở nên cấp thiết vì nhu cầu than tại nước Anh đang tăng mạnh.
+
+47
+00:03:17,490 --> 00:03:22,360
+Trong các thế kỷ trước, dân số và hoạt động đô thị phát triển khiến việc cung cấp củi với giá hợp lý,
+
+48
+00:03:22,588 --> 00:03:24,360
+nhất là cho London, trở nên khó khăn hơn.
+
+49
+00:03:24,590 --> 00:03:28,920
+Điều thay đổi quan trọng là giá tương đối của những loại nhiên liệu và chi phí đưa chúng đến người sử dụng.
+
+50
+00:03:29,315 --> 00:03:35,320
+Than có nhiều khói và gây ô nhiễm, nhưng có thể được vận chuyển bằng tàu từ các vùng khai thác ven biển đến London với mức giá cạnh tranh.
+
+51
+00:03:35,820 --> 00:03:39,960
+Khi nhu cầu tăng, những vỉa than dễ đào dần không đủ, buộc chủ mỏ phải xuống sâu hơn.
+
+52
+00:03:40,404 --> 00:03:42,200
+Và xuống sâu đồng nghĩa phải đối mặt với nước ngầm.
+
+53
+00:03:42,429 --> 00:03:45,320
+Bơm nước bằng sức người hoặc sức ngựa vừa tốn công vừa tốn tiền.
+
+54
+00:03:45,705 --> 00:03:51,400
+Năm 1712, Thomas Newcomen lắp đặt một động cơ bơm nước gần Dudley, vùng Midlands.
+
+55
+00:03:51,797 --> 00:03:54,440
+Hơi nước được làm ngưng tụ trong xi-lanh để tạo vùng áp suất thấp.
+
+56
+00:03:54,672 --> 00:03:59,640
+Khi áp suất trong xi-lanh giảm, áp suất không khí bên ngoài đẩy pít-tông chuyển động, qua đó vận hành hệ thống bơm.
+
+57
+00:04:00,115 --> 00:04:03,080
+Nhìn từ thời nay, động cơ này tiêu hao quá nhiều than.
+
+58
+00:04:03,623 --> 00:04:04,920
+Nhưng có một chi tiết quyết định:
+
+59
+00:04:05,248 --> 00:04:10,120
+nó được đặt gần nơi khai thác than, nơi nhiên liệu có thể mua rất rẻ, kể cả loại than vụn khó bán.
+
+60
+00:04:10,351 --> 00:04:15,320
+Chừng nào việc bơm nước giúp chủ mỏ khai thác được thêm than và thu lợi nhuận, cỗ máy ấy vẫn đáng dùng,
+
+61
+00:04:15,537 --> 00:04:16,520
+dù hiệu suất chưa cao.
+
+62
+00:04:16,977 --> 00:04:22,760
+Nó tồn tại vì giải quyết được một bài toán kinh tế cụ thể, chứ không phải vì có ai đó quyết tâm thay đổi lịch sử nhân loại.
+
+63
+00:04:23,283 --> 00:04:29,960
+Hơn nửa thế kỷ sau, James Watt cải tiến động cơ bằng bộ ngưng tụ riêng biệt và được cấp bằng sáng chế năm 1769.
+
+64
+00:04:30,143 --> 00:04:31,800
+Thiết kế mới tiết kiệm nhiên liệu hơn nhiều.
+
+65
+00:04:32,256 --> 00:04:35,960
+Cùng đối tác Matthew Boulton, ông từng bước đưa động cơ hơi nước đến các nhà xưởng.
+
+66
+00:04:36,409 --> 00:04:41,400
+Đó là một khác biệt đáng chú ý giữa việc phát minh ra một thiết bị và việc tạo được môi trường để nó liên tục được hoàn thiện.
+
+67
+00:04:42,062 --> 00:04:43,720
+Nhưng vì sao than của Anh thuận lợi đến vậy?
+
+68
+00:04:44,107 --> 00:04:45,160
+Không chỉ vì trữ lượng.
+
+69
+00:04:45,391 --> 00:04:50,760
+Những vùng khai thác như Newcastle, Midlands, Yorkshire và Lancashire tương đối gần các đô thị,
+
+70
+00:04:50,986 --> 00:04:53,399
+đường biển, sông ngòi và sau này là kênh đào.
+
+71
+00:04:53,836 --> 00:04:57,160
+Trung Quốc cũng có những mỏ than khổng lồ, đặc biệt ở miền Bắc và Tây Bắc.
+
+72
+00:04:57,668 --> 00:05:02,680
+Nhưng đến thế kỷ 18, nhiều trung tâm sản xuất và thương mại giàu có nhất đã nằm ở hạ lưu sông Dương Tử,
+
+73
+00:05:02,925 --> 00:05:04,760
+cách các vùng than lớn một quãng rất xa.
+
+74
+00:05:04,992 --> 00:05:09,880
+Với phương tiện vận tải thời ấy, chuyển hàng khối lượng lớn như than qua hàng nghìn cây số là một việc tốn kém.
+
+75
+00:05:10,265 --> 00:05:14,760
+Than dồi dào ở một nơi, nhưng khó được chuyển đến nhiều trung tâm sản xuất khác với mức giá cạnh tranh.
+
+76
+00:05:15,238 --> 00:05:17,800
+Chính vị trí tài nguyên đã tạo ra một trở ngại thực tế.
+
+77
+00:05:18,197 --> 00:05:20,440
+Còn những lò luyện sắt phát triển ở miền Bắc thời Tống thì sao?
+
+78
+00:05:20,627 --> 00:05:25,160
+Năm 1127, quân Nữ Chân chiếm Khai Phong, triều đình Tống phải rút về phía nam.
+
+79
+00:05:25,549 --> 00:05:28,520
+Qua nhiều thế kỷ, trọng tâm kinh tế phát triển mạnh ở phía nam.
+
+80
+00:05:29,025 --> 00:05:34,040
+Ngành luyện kim Trung Quốc không biến mất, nhưng những mạng lưới sản xuất từng phát triển ở miền Bắc đã bị gián đoạn nghiêm trọng.
+
+81
+00:05:34,273 --> 00:05:40,120
+Theo nhà sử học Kenneth Pomeranz, khả năng tiếp cận than đá tương đối thuận lợi là một trong những may mắn địa lý của nước Anh.
+
+82
+00:05:40,549 --> 00:05:44,120
+Tuy nhiên, nhiên liệu rẻ chưa đủ để khiến một chủ xưởng bỏ tiền mua máy.
+
+83
+00:05:44,647 --> 00:05:47,480
+Người ấy còn phải thấy việc dùng máy có lợi hơn dùng lao động thủ công.
+
+84
+00:05:47,802 --> 00:05:49,320
+Hãy tưởng tượng bạn có một xưởng dệt.
+
+85
+00:05:49,554 --> 00:05:54,520
+Nếu thuê thêm một người rất rẻ, trong khi mua và bảo trì máy đắt đỏ, bạn có thể sẽ tiếp tục thuê người.
+
+86
+00:05:54,924 --> 00:06:01,720
+Nhà sử học kinh tế Robert Allen gọi sự chú ý vào giá tiền công và giá năng lượng là một chìa khóa quan trọng để hiểu công nghiệp hóa Anh.
+
+87
+00:06:02,171 --> 00:06:07,240
+Theo nghiên cứu của ông, tiền công ở một số khu vực Anh, nhất là London và các trung tâm phát triển,
+
+88
+00:06:07,617 --> 00:06:09,160
+tương đối cao khi so với nhiều nơi khác;
+
+89
+00:06:09,392 --> 00:06:10,520
+trong khi than đá lại rẻ.
+
+90
+00:06:10,941 --> 00:06:13,240
+Điều đó khuyến khích những phát minh tiết kiệm sức lao động.
+
+91
+00:06:13,845 --> 00:06:21,720
+Vào những năm 1760, chiếc máy kéo sợi Jenny do James Hargreaves phát triển cho phép một người xe nhiều sợi cùng lúc bằng một chiếc máy quay tay.
+
+92
+00:06:21,955 --> 00:06:24,280
+Phát minh ấy cho thấy sự khác biệt về động lực đầu tư:
+
+93
+00:06:24,658 --> 00:06:28,040
+nếu tiết kiệm được nhiều tiền công, tiền mua máy có thể nhanh chóng được bù lại.
+
+94
+00:06:28,491 --> 00:06:31,320
+Ở nơi lao động rẻ hơn, thời gian hoàn vốn có thể dài hơn.
+
+95
+00:06:31,747 --> 00:06:38,360
+Đó cũng là lý do không thể đơn giản hỏi vì sao người Trung Quốc không dùng cỗ máy từ sách năm 1313 để làm điều người Anh làm sau này.
+
+96
+00:06:38,595 --> 00:06:42,840
+Những thiết bị ấy phục vụ loại sợi và quy trình khác, nên còn có rào cản kỹ thuật thực sự,
+
+97
+00:06:43,070 --> 00:06:44,200
+bên cạnh rào cản kinh tế.
+
+98
+00:06:44,892 --> 00:06:47,960
+Giờ nước Anh đã có nguồn năng lượng thuận lợi và động lực cơ giới hóa.
+
+99
+00:06:48,582 --> 00:06:51,560
+Nhưng nhà máy muốn phát triển còn cần nguyên liệu cùng người mua sản phẩm.
+
+100
+00:06:52,150 --> 00:06:55,240
+Và mảnh ghép tiếp theo đưa chúng ta đến một phần tối tăm của lịch sử.
+
+101
+00:06:55,465 --> 00:07:01,720
+Ngành dệt bông là một trong những lĩnh vực mở đường cho Cách mạng Công nghiệp Anh, dù khí hậu nước này không thích hợp để trồng bông với quy mô thương mại.
+
+102
+00:07:02,303 --> 00:07:06,040
+Những loại vải bông chất lượng cao từ Ấn Độ từng rất được ưa chuộng tại châu Âu.
+
+103
+00:07:06,268 --> 00:07:08,360
+Các nhà sản xuất Anh phải cạnh tranh với hàng nhập khẩu;
+
+104
+00:07:08,711 --> 00:07:12,760
+chính quyền từng ban hành luật hạn chế một số loại vải bông nhập khẩu để bảo vệ lợi ích trong nước.
+
+105
+00:07:13,017 --> 00:07:18,680
+Khi những cỗ máy kéo sợi và dệt vải được cải tiến, các xưởng Anh dần tăng sản lượng, giảm chi phí và mở rộng thị trường.
+
+106
+00:07:18,938 --> 00:07:21,320
+Nhưng càng sản xuất nhiều, họ càng cần nhiều bông thô.
+
+107
+00:07:21,553 --> 00:07:27,160
+Và một phần ngày càng lớn của nguồn bông ấy đến từ các đồn điền ở châu Mỹ, nơi những người bị bắt làm nô lệ phải lao động cưỡng bức.
+
+108
+00:07:27,796 --> 00:07:33,080
+Đường từ Caribe và những nguyên liệu khác từ các vùng đất xa xôi cũng góp phần nuôi dưỡng nền kinh tế thương mại Anh.
+
+109
+00:07:33,729 --> 00:07:38,840
+Kenneth Pomeranz gọi phần đất đai ở nước ngoài gián tiếp phục vụ nền kinh tế Anh là những “mẫu đất ma”.
+
+110
+00:07:38,998 --> 00:07:42,760
+Hãy thử tưởng tượng nước Anh phải tự trồng toàn bộ số bông và nguyên liệu họ nhập khẩu.
+
+111
+00:07:43,259 --> 00:07:47,880
+Nhưng nhờ thương mại toàn cầu và hệ thống thuộc địa, một phần áp lực về tài nguyên được chuyển ra bên ngoài.
+
+112
+00:07:48,114 --> 00:07:54,440
+Trung Quốc thế kỷ 18 phải đáp ứng phần lớn nhu cầu lương thực, vải vóc và chất đốt cho dân số khổng lồ bằng đất đai và mạng lưới sản xuất trong nước.
+
+113
+00:07:54,733 --> 00:07:57,560
+Khi dân số tăng, áp lực lên ruộng đất và tài nguyên cũng tăng.
+
+114
+00:07:58,000 --> 00:08:02,120
+Nhưng đừng vội kết luận rằng thuộc địa hay chế độ nô lệ một mình đã tạo ra Cách mạng Công nghiệp.
+
+115
+00:08:02,352 --> 00:08:05,720
+Điều có thể nói chắc chắn hơn là công nghiệp Anh không phát triển tách biệt khỏi thế giới.
+
+116
+00:08:06,215 --> 00:08:11,080
+Sự mở rộng của nó gắn với một mạng lưới toàn cầu, trong đó có những hình thức bóc lột vô cùng tàn nhẫn.
+
+117
+00:08:11,456 --> 00:08:14,680
+Dù vậy, các quốc gia châu Âu khác cũng có thuộc địa và mạng lưới thương mại.
+
+118
+00:08:15,144 --> 00:08:18,200
+Hà Lan có nền kinh tế năng động cùng mức tiền công tương đối cao.
+
+119
+00:08:18,595 --> 00:08:20,520
+Tại sao bước ngoặt công nghiệp lại bắt đầu ở Anh?
+
+120
+00:08:20,754 --> 00:08:25,240
+Một phần lời giải có thể nằm ở cách những người hiểu khoa học gặp gỡ những người biết chế tạo và kinh doanh.
+
+121
+00:08:25,714 --> 00:08:28,440
+Hãy tưởng tượng một quán cà phê ở London đầu thế kỷ 18.
+
+122
+00:08:28,837 --> 00:08:33,560
+Người ta đọc báo, bàn chuyện tàu thuyền, chia sẻ tin tức và tranh luận về những ý tưởng mới.
+
+123
+00:08:33,792 --> 00:08:40,280
+Từ năm 1660, Hiệp hội Hoàng gia tại Anh thúc đẩy việc quan sát, thí nghiệm, công bố và tranh luận về các khám phá khoa học.
+
+124
+00:08:40,712 --> 00:08:46,600
+Rồi ở Birmingham, vào cuối thế kỷ 18, một nhóm được gọi là Hiệp hội Mặt trăng tạo ra những cuộc gặp giữa nhà khoa học,
+
+125
+00:08:46,855 --> 00:08:47,800
+kỹ sư và doanh nhân.
+
+126
+00:08:48,183 --> 00:08:54,600
+Trong mạng lưới ấy có James Watt, Matthew Boulton, nhà sản xuất đồ gốm Josiah Wedgwood và nhà khoa học Joseph Priestley.
+
+127
+00:08:54,755 --> 00:08:56,920
+Điều đáng chú ý là họ có cơ hội liên tục trao đổi.
+
+128
+00:08:57,339 --> 00:09:03,640
+Nhà sử học Joel Mokyr nhấn mạnh kiểu kết nối giữa tri thức và kỹ thuật thực hành này như một phần của môi trường thuận lợi cho công nghiệp hóa.
+
+129
+00:09:04,280 --> 00:09:08,360
+Nhưng đây là một lời giải thích có ảnh hưởng, chứ không phải kết luận duy nhất được mọi sử gia chấp nhận.
+
+130
+00:09:08,928 --> 00:09:11,160
+Trung Quốc cũng có những học giả và nghệ nhân xuất sắc.
+
+131
+00:09:11,392 --> 00:09:14,520
+Vấn đề nằm ở những con đường nghề nghiệp và cách kiến thức được khuyến khích phát triển.
+
+132
+00:09:15,073 --> 00:09:19,320
+Trong nhiều thế kỷ, khoa cử là lựa chọn danh giá đối với những người muốn bước vào bộ máy quan lại.
+
+133
+00:09:19,476 --> 00:09:22,040
+Nhưng chế tạo máy móc không phải trung tâm của hệ thống tuyển chọn ấy.
+
+134
+00:09:22,434 --> 00:09:28,680
+Điều này có thể khiến nhiều người tài ưu tiên con đường quan trường, trong khi kiến thức thủ công thường được truyền qua xưởng nghề và quan hệ thầy trò.
+
+135
+00:09:29,131 --> 00:09:33,160
+Dù vậy, không thể nói Trung Quốc thiếu sách kỹ thuật hay thiếu các nhà nghiên cứu sáng tạo.
+
+136
+00:09:33,588 --> 00:09:36,040
+Thẩm Quát và Tống Ứng Tinh là những ví dụ nổi bật.
+
+137
+00:09:36,274 --> 00:09:41,000
+Sự khác biệt đáng cân nhắc hơn là mức độ và cách thức kết nối giữa nghiên cứu tự nhiên, kỹ năng chế tạo,
+
+138
+00:09:41,228 --> 00:09:43,400
+vốn đầu tư và hoạt động kinh doanh tại từng thời kỳ.
+
+139
+00:09:43,847 --> 00:09:47,800
+Tuy nhiên, tri thức cũng cần có một môi trường chính trị và kinh tế cho phép nó được sử dụng.
+
+140
+00:09:48,263 --> 00:09:50,200
+Hãy quay lại những chuyến hải trình của Trịnh Hòa.
+
+141
+00:09:50,478 --> 00:09:56,280
+Từ năm 1405 đến năm 1433, triều Minh tổ chức bảy chuyến đi lớn tới nhiều vùng quanh Ấn Độ Dương.
+
+142
+00:09:56,461 --> 00:10:00,040
+Sau đó, những hạm đội thám hiểm do triều đình tài trợ chấm dứt hoạt động.
+
+143
+00:10:00,471 --> 00:10:04,360
+Nhưng thương nhân tư nhân vẫn đi biển và giao dịch, đôi khi bất chấp các lệnh hạn chế.
+
+144
+00:10:04,593 --> 00:10:09,960
+Chính sách của triều đình có thể quyết định số phận những đoàn thám hiểm nhà nước, chứ không xóa sạch mọi hoạt động thương mại đường biển.
+
+145
+00:10:10,349 --> 00:10:13,560
+Trong khi đó, châu Âu gồm nhiều vương quốc và thành bang cạnh tranh.
+
+146
+00:10:14,209 --> 00:10:20,920
+Christopher Columbus từng tìm kiếm sự hậu thuẫn ở Bồ Đào Nha nhưng không thành, rồi cuối cùng được các nhà cai trị Tây Ban Nha chấp nhận.
+
+147
+00:10:21,154 --> 00:10:24,120
+Một ý tưởng bị từ chối ở nơi này có thể tìm đường sang nơi khác.
+
+148
+00:10:24,540 --> 00:10:29,880
+Sự cạnh tranh ấy gây ra nhiều cuộc chiến tranh tàn khốc, nhưng cũng tạo áp lực để các nhà cai trị đầu tư vào tàu thuyền,
+
+149
+00:10:30,125 --> 00:10:31,800
+vũ khí, tài chính và công nghệ.
+
+150
+00:10:32,199 --> 00:10:37,320
+Còn tại Trung Quốc, việc điều hành một đế chế lớn khiến chính quyền phải quan tâm đặc biệt đến ổn định xã hội,
+
+151
+00:10:37,565 --> 00:10:39,720
+thuế khóa, nông nghiệp và an ninh biên giới.
+
+152
+00:10:39,938 --> 00:10:46,520
+Không thể từ đó kết luận triều đình luôn chống lại phát minh, nhưng những ưu tiên chính trị có thể khác với một quốc gia đang cạnh tranh quyết liệt để mở rộng thương mại.
+
+153
+00:10:46,752 --> 00:10:55,080
+Năm 1793, một phái bộ Anh do Lãnh chúa Macartney dẫn đầu đến triều đình Càn Long, mang theo những món quà kỹ thuật và đề nghị mở rộng quan hệ thương mại.
+
+154
+00:10:55,470 --> 00:10:57,560
+Cuộc gặp không đem lại kết quả phía Anh mong muốn.
+
+155
+00:10:57,864 --> 00:11:01,560
+Sự kiện này thường được kể như chuyện một hoàng đế kiêu ngạo không nhận ra công nghệ phương Tây.
+
+156
+00:11:02,188 --> 00:11:03,880
+Nhưng cách hiểu ấy quá đơn giản.
+
+157
+00:11:04,033 --> 00:11:10,200
+Các nhà sử học chỉ ra rằng phản ứng của triều đình còn gắn với ngoại giao, an ninh và cách nhà Thanh nhìn nhận vị thế của mình.
+
+158
+00:11:10,574 --> 00:11:13,320
+Khác biệt không đơn giản là thái độ thích hay ghét công nghệ.
+
+159
+00:11:13,733 --> 00:11:17,960
+Nó nằm ở những mục tiêu kinh tế, chính trị và những điều kiện tạo ra động lực thay đổi.
+
+160
+00:11:18,192 --> 00:11:24,360
+Và cũng chính vì nhiều điều kiện cùng tác động, không thể chỉ vào một nguyên nhân rồi nói rằng đó là câu trả lời cuối cùng cho Cách mạng Công nghiệp.
+
+161
+00:11:24,874 --> 00:11:26,840
+Hãy nhìn cách quá trình này diễn ra ở Anh.
+
+162
+00:11:27,382 --> 00:11:31,240
+Than đá thuận lợi giúp một số động cơ bơm nước hoạt động với chi phí chấp nhận được.
+
+163
+00:11:31,397 --> 00:11:37,240
+Việc bơm nước góp phần mở rộng khả năng khai thác ở các mỏ sâu, trong lúc nhu cầu than từ thành phố và nhà xưởng không ngừng tăng.
+
+164
+00:11:37,755 --> 00:11:44,840
+Từ năm 1709, Abraham Darby sử dụng than cốc trong luyện gang tại Coalbrookdale, góp phần mở đường cho việc giảm phụ thuộc vào than củi.
+
+165
+00:11:45,348 --> 00:11:49,640
+Sắt và gang trở nên quan trọng đối với quá trình chế tạo công cụ, động cơ và cơ sở hạ tầng.
+
+166
+00:11:49,873 --> 00:11:53,080
+Những cải tiến trong ngành dệt tăng năng suất, tạo thêm hàng hóa và lợi nhuận.
+
+167
+00:11:53,572 --> 00:11:57,720
+Thương mại, vốn đầu tư, kỹ năng và những phát minh mới dần hỗ trợ lẫn nhau.
+
+168
+00:11:58,117 --> 00:12:02,760
+Nhưng khi những ngành sản xuất bắt đầu tạo ra nhu cầu cho nhau, lợi thế có thể được tích lũy qua thời gian.
+
+169
+00:12:03,390 --> 00:12:09,960
+Năm 1830, tuyến đường sắt Liverpool và Manchester được khai trương, kết nối một thành phố cảng với một trung tâm công nghiệp.
+
+170
+00:12:10,194 --> 00:12:14,040
+Đường sắt là kết quả của nhiều thập kỷ phát triển về động cơ, luyện kim và đầu tư;
+
+171
+00:12:14,397 --> 00:12:17,400
+đồng thời nó mở ra nhu cầu mới về sắt, than và máy móc.
+
+172
+00:12:17,765 --> 00:12:21,160
+Đến giữa thế kỷ 19, Anh đã trở thành một cường quốc công nghiệp nổi bật.
+
+173
+00:12:21,317 --> 00:12:23,720
+Và ưu thế sản xuất ấy không chỉ đem lại hàng hóa rẻ hơn.
+
+174
+00:12:24,127 --> 00:12:27,080
+Nó còn góp phần thay đổi tương quan sức mạnh quân sự giữa các quốc gia.
+
+175
+00:12:27,515 --> 00:12:33,000
+Trong thế kỷ 19, Anh nhập khẩu lượng trà lớn từ Trung Quốc, trong khi hàng hóa Anh không được mua lại với quy mô tương xứng.
+
+176
+00:12:33,463 --> 00:12:38,600
+Các mạng lưới thương mại gắn với lợi ích Anh gia tăng việc đưa thuốc phiện trồng tại Ấn Độ vào Trung Quốc trái với lệnh cấm.
+
+177
+00:12:38,832 --> 00:12:45,720
+Năm 1839, quan chức Lâm Tắc Từ tịch thu, tiêu hủy lượng lớn thuốc phiện, và căng thẳng leo thang thành Chiến tranh Nha phiến lần thứ nhất.
+
+178
+00:12:46,165 --> 00:12:52,600
+Trong cuộc chiến, quân Anh sử dụng những tàu chiến có ưu thế về vũ khí và công nghệ, trong đó có chiếc Nemesis thân sắt vận hành bằng hơi nước,
+
+179
+00:12:52,898 --> 00:12:55,720
+có thể di chuyển trên sông mà không phụ thuộc hoàn toàn vào gió.
+
+180
+00:12:55,952 --> 00:13:01,240
+Chiến thắng của Anh không thể quy về một con tàu, nhưng sự chênh lệch về năng lực quân sự và công nghiệp đã bộc lộ rõ rệt.
+
+181
+00:13:01,681 --> 00:13:07,800
+Năm 1842, nhà Thanh phải ký Hiệp ước Nam Kinh, nhượng Hồng Kông, mở các cảng thương mại và trả bồi thường.
+
+182
+00:13:08,036 --> 00:13:11,880
+Đây trở thành một cột mốc đau đớn trong chuỗi hiệp ước bất bình đẳng của lịch sử cận đại Trung Quốc.
+
+183
+00:13:12,285 --> 00:13:17,720
+Theo chuỗi ước tính của Angus Maddison, Trung Quốc chiếm khoảng một phần ba GDP thế giới năm 1820,
+
+184
+00:13:17,972 --> 00:13:21,080
+nhưng đến năm 1950 chỉ còn khoảng 4 đến 5 phần trăm.
+
+185
+00:13:21,500 --> 00:13:24,600
+Và tỷ trọng giảm không có nghĩa toàn bộ nền kinh tế Trung Quốc bị xóa sổ.
+
+186
+00:13:24,832 --> 00:13:31,160
+Nó cho thấy các nước công nghiệp hóa ở nơi khác đã tăng trưởng nhanh hơn nhiều, làm thay đổi vị thế tương đối của Trung Quốc trong nền kinh tế thế giới.
+
+187
+00:13:31,556 --> 00:13:34,040
+Tuy nhiên, câu chuyện cũng không dừng ở thế kỷ 19.
+
+188
+00:13:34,378 --> 00:13:39,880
+Trung Quốc hiện đại đã trải qua một quá trình công nghiệp hóa sâu rộng, trở thành mắt xích lớn trong những chuỗi cung ứng toàn cầu.
+
+189
+00:13:40,114 --> 00:13:47,000
+Riêng năm 2025, nước này sản xuất khoảng 961 triệu tấn thép thô, tương đương hơn một nửa sản lượng toàn thế giới.
+
+190
+00:13:47,353 --> 00:13:50,840
+Hệ thống đường sắt cao tốc của Trung Quốc cũng phát triển thành mạng lưới lớn nhất toàn cầu.
+
+191
+00:13:51,228 --> 00:13:55,640
+Nhưng điều đó đủ để nhắc chúng ta rằng thành tựu công nghiệp không phải đặc tính cố định của một dân tộc.
+
+192
+00:13:55,788 --> 00:14:01,880
+Các thợ luyện sắt thời Tống, Tất Thăng, Tô Tụng hay những nghệ nhân chế tạo máy móc trong lịch sử Trung Quốc không thiếu trí tuệ.
+
+193
+00:14:02,268 --> 00:14:07,240
+Chỉ là những phát minh của họ xuất hiện trong một thế giới có những giới hạn và động lực khác với nước Anh thế kỷ 18.
+
+194
+00:14:07,670 --> 00:14:10,520
+Và cuối cùng, hãy quay trở lại hai hình ảnh ở đầu câu chuyện.
+
+195
+00:14:10,754 --> 00:14:15,640
+Một bên là những lò luyện sắt thời Tống, biểu tượng của trình độ kỹ thuật đáng nể từ hơn một nghìn năm trước.
+
+196
+00:14:16,061 --> 00:14:22,920
+Bên kia là cỗ máy bơm nước cồng kềnh ở Anh năm 1712, tiêu tốn nhiên liệu nhưng giải quyết được vấn đề cấp bách của một chủ mỏ.
+
+197
+00:14:23,315 --> 00:14:28,360
+Một ý tưởng muốn lan rộng cần có người muốn sử dụng, có nguồn lực để cải tiến, có thị trường để tồn tại,
+
+198
+00:14:28,656 --> 00:14:30,360
+và có những ý tưởng khác để kết hợp cùng.
+
+199
+00:14:30,595 --> 00:14:32,440
+Nước Anh không sở hữu một phép màu duy nhất.
+
+200
+00:14:32,881 --> 00:14:38,360
+Nhiều điều kiện về năng lượng, tiền công, thương mại, tri thức và chính trị đã gặp nhau trong một thời điểm đặc biệt,
+
+201
+00:14:38,684 --> 00:14:39,880
+rồi dần củng cố lẫn nhau.
+
+202
+00:14:40,113 --> 00:14:46,440
+Trung Quốc không thua trong một cuộc đua vì thiếu trí tưởng tượng, và nước Anh cũng không chiến thắng đơn giản vì có những con người xuất chúng hơn.
+
+203
+00:14:46,999 --> 00:14:53,480
+Điều tạo nên khác biệt là khi một phát minh xuất hiện, xã hội quanh nó có đủ lý do và đủ khả năng để tiếp tục phát triển nó hay không.
+
+204
+00:14:53,669 --> 00:14:59,640
+Bởi đôi khi, thứ thay đổi thế giới không phải phát minh xuất hiện đầu tiên, mà là phát minh được tạo điều kiện để không ngừng trở nên tốt hơn.
+

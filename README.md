@@ -19,3 +19,5 @@ Xem [các bản video](previews/README.md) và [video đầy đủ v2 cũ](video
 ## Dự án mới: Anh và Trung Quốc
 
 [Bản thử 26,8 giây theo prompt, voice và SRT mới](previews/anh-trung-quoc/README.md).
+
+**[Tải bản đầy đủ15phút — Anh và Trung Quốc](videos/anh-trung-quoc/README.md)** ·116cảnh ·1080p30.

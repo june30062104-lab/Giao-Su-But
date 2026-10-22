@@ -1,0 +1,117 @@
+id,start,end,kind,variant,title,srtStart,srtEnd
+scene-001,0,9.688,opening,foundry,Miền Bắc Trung Quốc · 1078,1,2
+scene-002,9.688,19.542,opening,coal-tax,Than đá và sổ thuế,3,4
+scene-003,19.542,26.952,opening,scholar,Con số còn gây tranh luận,5,6
+scene-004,26.952,33.292,compare,era,Hơn bảy thế kỷ sau…,7,8
+scene-005,33.292,40.83,foundry,britain,Anh · Scotland · Wales,9,9
+scene-006,40.83,48.673,compare,metal,Không thể so trực tiếp,10,11
+scene-007,48.673,56.67,map,question,Bạn sẽ chọn nơi nào?,12,12
+scene-008,56.67,67.069,compare,inventions,Vì sao là nước Anh?,13,14
+scene-009,67.069,77.375,network,conditions,Phát minh cần môi trường phù hợp,15,16
+scene-010,77.375,84.669,city,panorama,Khai Phong · khoảng năm 1100,17,18
+scene-011,84.669,94.67099999999999,city,market,Đô thị · Thương mại · Tiền giấy,19,20
+scene-012,94.67099999999999,103.16,printing,type,Tất Thăng · Chữ rời bằng đất sét,21,22
+scene-013,103.16,110.107,clock,astronomy,Tô Tụng · Tháp đồng hồ thiên văn,23,23
+scene-014,110.107,117.283,waterwheel,fiber,Nông thư của Vương Trinh,24,24
+scene-015,117.283,127.47,compare,fibers,Hai thiết bị · Hai quy trình,25,26
+scene-016,127.47,136.913,sea,fleet,Những hải trình của Trịnh Hòa,27,28
+scene-017,136.913,143.145,scholar,needham,Câu hỏi của Joseph Needham,29,29
+scene-018,143.145,152.254,compare,paths,Hai con đường lịch sử,30,31
+scene-019,152.254,159.708,city,qing,Kinh tế nhà Thanh vẫn sôi động,32,34
+scene-020,159.708,170.946,weaving,family,Hạ lưu Dương Tử · Sản xuất và buôn bán,35,37
+scene-021,170.946,179.863,map,paths,Một con đường phát triển khác,38,40
+scene-022,179.863,188.10399999999998,mine,flood,Mỏ than Anh · khoảng năm 1700,41,43
+scene-023,188.10399999999998,197.49,mine,deep,Đào sâu hơn · Nước nhiều hơn,44,46
+scene-024,197.49,204.59,town,wood,Nhu cầu nhiên liệu của London,47,48
+scene-025,204.59,209.315,economy,fuel,Giá nhiên liệu + Chi phí vận chuyển,49,49
+scene-026,209.315,215.82,sea,coal,Than đến London bằng đường biển,50,50
+scene-027,215.82,222.429,mine,deep,Vỉa than sâu và bài toán bơm nước,51,52
+scene-028,222.429,231.797,engine,newcomen,Newcomen · Gần Dudley,53,54
+scene-029,231.797,240.115,engine,cutaway,Ngưng tụ → Giảm áp → Pít-tông đi xuống,55,56
+scene-030,240.115,250.351,engine,fuel,Nhiên liệu tiêu hao lớn… nhưng rẻ tại mỏ,57,59
+scene-031,250.351,256.977,engine,profit,Khai thác thêm than → Có lợi nhuận,60,61
+scene-032,256.977,263.283,mine,drained,Giải quyết một nhu cầu cụ thể,62,62
+scene-033,263.283,270.14300000000003,engine,watt,Watt · Bộ ngưng tụ riêng biệt,63,63
+scene-034,270.14300000000003,276.409,compare,engines,Cải tiến để tiết kiệm nhiên liệu,64,65
+scene-035,276.409,284.10699999999997,network,improve,Phát minh → Sửa đổi → Ứng dụng,66,67
+scene-036,284.10699999999997,290.986,map,britain,Mỏ than gần nơi cần dùng,68,69
+scene-037,290.986,297.668,map,transport,Đường biển · Sông · Kênh đào,70,71
+scene-038,297.668,304.992,map,china,Than phía Bắc · Sản xuất phía Nam,72,73
+scene-039,304.992,315.238,caravan,cost,Chở than đi xa rất tốn kém,74,75
+scene-040,315.238,325.549,city,migration,Khai Phong · Biến động năm 1127,76,78
+scene-041,325.549,334.273,map,shift,Mạng lưới phía Bắc gián đoạn,79,80
+scene-042,334.273,340.549,scholar,pomeranz,Một thuận lợi địa lý của nước Anh,81,81
+scene-043,340.549,347.802,economy,decision,Dùng máy có lợi hơn thuê người?,82,83
+scene-044,347.802,354.924,weaving,manual,Lao động rẻ · Máy và bảo trì đắt,84,85
+scene-045,354.924,362.171,scholar,allen,Tiền công và giá năng lượng,86,86
+scene-046,362.171,369.392,town,wages,Tiền công cao tại một số trung tâm Anh,87,88
+scene-047,369.392,373.845,economy,balance,Lương cao + Than rẻ,89,90
+scene-048,373.845,381.955,weaving,jenny,Máy kéo sợi Jenny · Những năm 1760,91,91
+scene-049,381.955,388.491,economy,payback,Tiết kiệm tiền công · Thu hồi vốn,92,93
+scene-050,388.491,398.595,compare,wages,Giá lao động thay đổi bài toán đầu tư,94,95
+scene-051,398.595,408.582,compare,fibers,Khác biệt cả kỹ thuật lẫn kinh tế,96,98
+scene-052,408.582,415.46500000000003,weaving,supply,Nhà máy cần nguyên liệu và người mua,99,100
+scene-053,415.46500000000003,422.303,weaving,cotton,Ngành dệt bông và nguồn nhập khẩu,101,101
+scene-054,422.303,428.711,city,indian-cloth,Vải bông Ấn Độ được ưa chuộng,102,103
+scene-055,428.711,438.938,weaving,law,Bảo hộ · Cải tiến · Mở rộng thị trường,104,105
+scene-056,438.938,447.796,plantation,cotton,Bông thô và lao động cưỡng bức,106,107
+scene-057,447.796,453.729,map,atlantic,Những tuyến thương mại Đại Tây Dương,108,108
+scene-058,453.729,463.259,farmland,ghost,“Mẫu đất ma” · Đất đai ở hải ngoại,109,110
+scene-059,463.259,468.114,sea,imports,Nguồn lực được đưa từ bên ngoài vào,111,111
+scene-060,468.114,474.733,farmland,china,Lương thực · Vải vóc · Chất đốt,112,112
+scene-061,474.733,482.352,farmland,pressure,Áp lực lên đất đai và tài nguyên,113,114
+scene-062,482.352,491.456,network,global,"Một mạng lưới toàn cầu, có bóc lột",115,116
+scene-063,491.456,498.595,compare,ports,Các nước khác cũng có thương mại và thuộc địa,117,118
+scene-064,498.595,505.714,coffee,meeting,Khoa học gặp kỹ thuật và kinh doanh,119,120
+scene-065,505.714,513.792,coffee,news,Quán cà phê London · Đầu thế kỷ XVIII,121,122
+scene-066,513.792,520.712,experiment,air,Hiệp hội Hoàng gia · Quan sát và thí nghiệm,123,123
+scene-067,520.712,526.855,coffee,moon,Hiệp hội Mặt trăng · Birmingham,124,124
+scene-068,526.855,534.755,coffee,inventors,Kỹ sư · Doanh nhân · Thợ gốm · Nhà khoa học,125,126
+scene-069,534.755,544.28,network,knowledge,Tri thức và kỹ thuật thực hành kết nối,127,128
+scene-070,544.28,551.392,compare,scholars,"Một lời giải thích, không phải duy nhất",129,130
+scene-071,551.392,559.476,exam,career,Khoa cử và con đường quan trường,131,132
+scene-072,559.476,569.131,exam,apprentice,Thi cử và truyền nghề trong xưởng,133,134
+scene-073,569.131,576.274,experiment,chinese,Thẩm Quát · Tống Ứng Tinh,135,136
+scene-074,576.274,583.847,network,connections,Cách thức kết nối tạo khác biệt,137,138
+scene-075,583.847,590.478,court,conditions,Tri thức cần điều kiện để được sử dụng,139,140
+scene-076,590.478,596.461,sea,fleet,Bảy chuyến đi lớn · 1405–1433,141,141
+scene-077,596.461,604.593,sea,private,Thám hiểm nhà nước dừng · Thương nhân vẫn đi,142,143
+scene-078,604.593,614.209,compare,policy,Quyết định nhà nước ≠ Toàn bộ thương mại,144,145
+scene-079,614.209,621.154,court,columbus,Bị từ chối ở đây · Được chấp nhận nơi khác,146,146
+scene-080,621.154,630.125,map,europe,Cạnh tranh · Chiến tranh · Đầu tư,147,148
+scene-081,630.125,637.565,compare,governance,Những bài toán quản trị khác nhau,149,150
+scene-082,637.565,646.752,court,qing,Ổn định · Thuế · Nông nghiệp · Biên giới,151,152
+scene-083,646.752,655.47,court,macartney,Phái bộ Macartney đến triều Càn Long,153,153
+scene-084,655.47,662.188,court,departure,Đề nghị không đạt kết quả mong muốn,154,155
+scene-085,662.188,670.574,scholar,diplomacy,Không thể giản lược lịch sử,156,157
+scene-086,670.574,678.192,economy,priorities,Mục tiêu và động lực khác nhau,158,159
+scene-087,678.192,684.874,network,puzzle,Không có một mảnh ghép duy nhất,160,160
+scene-088,684.874,691.397,engine,newcomen,Than thuận lợi → Bơm nước khả thi,161,162
+scene-089,691.397,697.755,mine,pumped,Bơm nước → Khai thác sâu hơn,163,163
+scene-090,697.755,705.348,foundry,darby,Darby · Than cốc trong luyện gang,164,164
+scene-091,705.348,713.572,network,production,Gang · Động cơ · Dệt may,165,166
+scene-092,713.572,723.39,network,feedback,Những ngành sản xuất hỗ trợ lẫn nhau,167,168
+scene-093,723.39,730.194,train,early,Liverpool – Manchester,169,169
+scene-094,730.194,737.765,train,demand,"Nhu cầu mới về sắt, than và máy móc",170,171
+scene-095,737.765,744.127,town,industrial,Anh giữa thế kỷ XIX,172,173
+scene-096,744.127,753.463,sea,tea,Sản xuất · Thương mại · Sức mạnh,174,175
+scene-097,753.463,758.832,sea,opium,Buôn lậu thuốc phiện vào Trung Quốc,176,176
+scene-098,758.832,766.165,court,lin,Lâm Tắc Từ · Tịch thu và tiêu hủy,177,177
+scene-099,766.165,772.898,sea,nemesis,Tàu hơi nước thân sắt Nemesis,178,178
+scene-100,772.898,781.681,sea,fleet-war,Lợi thế quân sự và công nghiệp tổng hợp,179,180
+scene-101,781.681,788.036,treaty,nanjing,Hiệp ước Nam Kinh,181,181
+scene-102,788.036,797.972,scholar,treaties,Hiệp ước bất bình đẳng và vị thế kinh tế,182,183
+scene-103,797.972,804.832,data,gdp,Tỷ trọng GDP thế giới · Ước tính lịch sử,184,185
+scene-104,804.832,811.556,data,relative,Tỷ trọng giảm ≠ Kinh tế bị xóa sổ,186,186
+scene-105,811.556,820.114,modern,supply,Công nghiệp hóa và chuỗi cung ứng,187,188
+scene-106,820.114,827.353,modern,steel,Thép thô Trung Quốc · Năm 2025,189,189
+scene-107,827.353,835.788,modern,rail,Mạng lưới đường sắt cao tốc,190,191
+scene-108,835.788,842.268,lineup,inventors,Trí tuệ và kỹ năng qua nhiều thời đại,192,192
+scene-109,842.268,850.754,compare,paths,Khác điều kiện · Khác thời điểm,193,194
+scene-110,850.754,856.061,foundry,song,Trở lại miền Bắc Trung Quốc · 1078,195,195
+scene-111,856.061,863.315,engine,newcomen,Trở lại cỗ máy bơm nước · 1712,196,196
+scene-112,863.315,870.595,network,develop,Người dùng · Cải tiến · Vốn · Thị trường,197,198
+scene-113,870.595,878.684,network,puzzle,Nhiều điều kiện gặp nhau,199,200
+scene-114,878.684,886.999,compare,people,Không phải cuộc đua trí tưởng tượng,201,202
+scene-115,886.999,893.669,growth,nurture,Một phát minh được nuôi dưỡng,203,203
+scene-116,893.669,900,growth,final,Điều kiện để không ngừng tốt hơn,204,204

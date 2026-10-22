@@ -1,0 +1,34 @@
+{
+  "duration": "900.000000",
+  "frames": 27000,
+  "resolution": "1920x1080",
+  "fps": 30,
+  "video": "h264",
+  "audio": "aac",
+  "bytes": 100789358,
+  "sha256": "bab4c7047d12ce1bac664ea6f3a8e561abbdecc1d0c3bb786d63ad56df99b69d",
+  "decode": "passed",
+  "scenes": 116,
+  "cues": 204,
+  "sfx": 223,
+  "audioBoundaryChecks": [
+    {
+      "start": 145,
+      "seconds": 10,
+      "correlation": 0.9993539126412133
+    },
+    {
+      "start": 445,
+      "seconds": 10,
+      "correlation": 0.9994965873185221
+    },
+    {
+      "start": 745,
+      "seconds": 10,
+      "correlation": 0.9989353915178002
+    }
+  ],
+  "chapters": 12,
+  "audioBitrate": "96k mono AAC",
+  "losslessPackagedAudio": "FLAC decodes to identical PCM samples"
+}
