@@ -1,0 +1,64 @@
+{
+  "composition": "HeroDemo",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 1011,
+  "voiceSource": "Original part 1, seconds 0–33.7, speed 1",
+  "timingBasis": "User SRT scene boundaries; internal action timings are editorial cues, not forced aligned word timestamps",
+  "shots": [
+    {
+      "id": "coast",
+      "start": 0,
+      "end": 8.6666667,
+      "type": "establishing",
+      "action": "Animated boat, birds, sea; gentle establishing camera drift followed by approach",
+      "text": "Alexandria — Khoảng 2.000 năm trước"
+    },
+    {
+      "id": "altar",
+      "start": 8.6666667,
+      "end": 12.0333333,
+      "type": "wide",
+      "action": "Witness glances from unlit altar to closed doors"
+    },
+    {
+      "id": "lighting",
+      "start": 12.0333333,
+      "end": 16.4,
+      "type": "close",
+      "action": "Priest leans and extends torch into altar bowl; flame catches"
+    },
+    {
+      "id": "doors",
+      "start": 16.4,
+      "end": 23.6666667,
+      "type": "wide",
+      "action": "Double doors open; witnesses change expression"
+    },
+    {
+      "id": "reaction",
+      "start": 23.6666667,
+      "end": 29.0333333,
+      "type": "medium",
+      "action": "Surprise becomes thinking; hand moves toward chin; brief question mark"
+    },
+    {
+      "id": "return",
+      "start": 29.0333333,
+      "end": 33.7,
+      "type": "wide",
+      "action": "Return to the temple; brief fade to cream at complete voice sentence"
+    }
+  ],
+  "assets": [
+    "alexandria.png",
+    "audio/demo-mix.wav",
+    "fonts/PatrickHand-Regular.ttf"
+  ],
+  "assetProvenance": {
+    "alexandria.png": "AI-generated original cartoon environment, simplified to match supplied art direction",
+    "charactersAndTemple": "Original separately animated SVG layers",
+    "sfx": "Original procedural sound design; see demo-audio.json"
+  }
+}

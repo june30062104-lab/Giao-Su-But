@@ -1,0 +1,16 @@
+{
+  "composition": "HeroDemo",
+  "frameCount": 1011,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "duration": 33.707,
+  "fullDecode": "pass",
+  "typescript": "pass (tsc --noEmit)",
+  "voiceSpeed": 1,
+  "mixPeakBeforeEncoding": 0.7431501020900172,
+  "sfxPlacements": 15,
+  "sha256": "df2b56ebcad777f27f9f1a1e04ea0d129e83302c86a2faaffd51114381d4336e",
+  "visualReview": "Contact sheet and isolated lighting/open-door frames inspected. Improved reaction framing and added glance/thinking gestures after review.",
+  "limits": "Narration only; no phoneme lip sync. Internal event timings editorial. No claim of exact reproduction of a reference video.",
+  "freezeDetectorReview": "At -50 dB mean-difference threshold, low-motion wide shots 8.67–12.03 and 29.03–33.5 were flagged. These contain localized eye/hand/smoke/fire motion; no claim that a mean-difference test proves acting quality."
+}

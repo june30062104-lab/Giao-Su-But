@@ -1,0 +1,99 @@
+{
+  "duration": 33.7,
+  "voiceGain": 0.9,
+  "speed": 1,
+  "peak": 0.7431501020900172,
+  "sfxProvenance": "Original procedural sound design: seeded noise and oscillators; no music.",
+  "events": [
+    {
+      "time": 0,
+      "duration": 8.6,
+      "type": "sea",
+      "gain": 0.35
+    },
+    {
+      "time": 1.9,
+      "duration": 0.5,
+      "type": "bird",
+      "gain": 0.2
+    },
+    {
+      "time": 5.0,
+      "duration": 0.65,
+      "type": "bird",
+      "gain": 0.16
+    },
+    {
+      "time": 8.63,
+      "duration": 0.26,
+      "type": "swish",
+      "gain": 0.3
+    },
+    {
+      "time": 9.1,
+      "duration": 0.18,
+      "type": "step",
+      "gain": 0.32
+    },
+    {
+      "time": 9.67,
+      "duration": 0.18,
+      "type": "step",
+      "gain": 0.34
+    },
+    {
+      "time": 12.3,
+      "duration": 0.18,
+      "type": "step",
+      "gain": 0.36
+    },
+    {
+      "time": 12.9,
+      "duration": 0.18,
+      "type": "step",
+      "gain": 0.38
+    },
+    {
+      "time": 13.2,
+      "duration": 1.2,
+      "type": "cloth",
+      "gain": 0.3
+    },
+    {
+      "time": 14.35,
+      "duration": 0.5,
+      "type": "swish",
+      "gain": 0.3
+    },
+    {
+      "time": 14.6,
+      "duration": 17.8,
+      "type": "fire",
+      "gain": 0.19
+    },
+    {
+      "time": 17.15,
+      "duration": 4.6,
+      "type": "door",
+      "gain": 0.55
+    },
+    {
+      "time": 21.6,
+      "duration": 0.3,
+      "type": "step",
+      "gain": 0.32
+    },
+    {
+      "time": 23.65,
+      "duration": 0.32,
+      "type": "cloth",
+      "gain": 0.3
+    },
+    {
+      "time": 25.0,
+      "duration": 0.6,
+      "type": "chime",
+      "gain": 0.22
+    }
+  ]
+}
