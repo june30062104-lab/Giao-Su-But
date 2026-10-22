@@ -15,3 +15,7 @@ Câu lệnh mẫu:
 > Sử dụng $explainer-video-remotion, giữ profile sleep-final-1m-v1. Dựng video cho voice/SRT tôi gửi theo cách dựng bản final, đa dạng kiểu cảnh và xuất MP4.
 
 Xem [các bản video](previews/README.md) và [video đầy đủ v2 cũ](videos/README.md).
+
+## Dự án mới: Anh và Trung Quốc
+
+[Bản thử 26,8 giây theo prompt, voice và SRT mới](previews/anh-trung-quoc/README.md).
