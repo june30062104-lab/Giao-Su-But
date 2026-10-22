@@ -1,0 +1,8 @@
+{
+  "master": "hero-la-ma-full-1080p.mp4",
+  "download": "hero-la-ma-full-download-1080p.mp4",
+  "masterBytes": 155277539,
+  "downloadBytes": 96608559,
+  "hqSplitSeconds": 1083.7,
+  "reason": "GitHub limits individual files to 100 MiB. Full single-file version uses additional compression; HQ parts preserve original video bitstreams."
+}

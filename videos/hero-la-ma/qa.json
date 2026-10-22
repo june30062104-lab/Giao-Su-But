@@ -1,0 +1,66 @@
+{
+  "composition": "HeroFull",
+  "sceneCount": 255,
+  "chapterCount": 10,
+  "durationSeconds": 2148.9,
+  "frames": 64467,
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "videoCodec": "h264",
+  "audioCodec": "aac",
+  "bytes": 96608559,
+  "fullDecode": "pass",
+  "sourceSceneTimingAndDialogue": "pass",
+  "typescript": "pass",
+  "mixPeakBeforeEncoding": 0.7908989191055298,
+  "sfxPlacementsAfterApprovedOpening": 815,
+  "distinctSfxFilesAfterOpening": 22,
+  "voiceSpeed": 1,
+  "voiceCorrelationChecks": [
+    {
+      "start": 40,
+      "duration": 6,
+      "correlation": 0.997547
+    },
+    {
+      "start": 700,
+      "duration": 6,
+      "correlation": 0.997447
+    },
+    {
+      "start": 1743,
+      "duration": 6,
+      "correlation": 0.998735
+    },
+    {
+      "start": 2050,
+      "duration": 6,
+      "correlation": 0.998705
+    }
+  ],
+  "visualChecks": [
+    "251 scene midpoint SVGs rendered for initial layout coverage; 69 family representative stills inspected.",
+    "One pump frame compared between Remotion Chromium and native rasterization.",
+    "Refined reach/arm bends, stride stance, crane wheel foot position, British houses and final CTA placement.",
+    "Final master chapter contact sheet and sequential walking, crane and Newcomen action samples inspected.",
+    "HeroFull opening tested through Remotion Chromium with embedded approved demo."
+  ],
+  "renderPath": "Approved Chromium-rendered first 1011 frames; same authored Remotion React SVG scene components rasterized by FFmpeg/librsvg for remaining frames.",
+  "limitations": [
+    "Internal action timings editorial, no word or phoneme alignment.",
+    "Historical machines are simplified explanatory diagrams, not engineering simulations.",
+    "No claim of independently fact-checking supplied narration."
+  ],
+  "sha256": "9292d7badb186cd5afc8637170dc1d034add715badc1bd23b019a55fb1f6fe8a",
+  "delivery": {
+    "master": "hero-la-ma-full-1080p.mp4",
+    "download": "hero-la-ma-full-download-1080p.mp4",
+    "masterBytes": 155277539,
+    "downloadBytes": 96608559,
+    "hqSplitSeconds": 1083.7,
+    "reason": "GitHub limits individual files to 100 MiB. Full single-file version uses additional compression; HQ parts preserve original video bitstreams."
+  }
+}

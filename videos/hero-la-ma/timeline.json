@@ -1,0 +1,4118 @@
+{
+  "composition": "HeroFull",
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "durationInFrames": 64467,
+  "duration": 2148.9,
+  "audio": "audio/full-mix.wav",
+  "voiceSpeed": 1,
+  "mixPeak": 0.7908989191055298,
+  "approvedOpeningSeconds": 33.7,
+  "events": [
+    {
+      "time": 33.9,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 35.9,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 39.72,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 43.933,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 44.989,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 48.733,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 50.141,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 53.033,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 55.133,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 57.133,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 59.433,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 62.733,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 65.3,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 67.3,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 69.6,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 72.9,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 74.867,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 76.867,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 79.167,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 82.467,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 85.767,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 87.681,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 90.067,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 90.787,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 94.467,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 96.197,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 98.767,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 102.333,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 104.284,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 106.633,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 109.933,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 111.2,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 113.2,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 115.5,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 118.8,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 116.54,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 120.433,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 123.5,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 125.5,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 133.267,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 135.267,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 143.633,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 145.122,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 147.933,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 150.4,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 151.984,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 157.6,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 158.861,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 163.333,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 165.333,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 163.613,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 164.153,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 164.693,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 170.053,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 174.867,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 176.04,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 180.2,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 182.2,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 186.04,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 190.267,
+      "file": "audio/sfx/dawn-birds.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 192.267,
+      "file": "audio/sfx/industry-ship-creak.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 190.547,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 191.087,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 191.627,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 199.533,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 201.081,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 206.567,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 208.444,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 211.487,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 215.1,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 217.1,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 215.38,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 215.92,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 216.46,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 225.1,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 226.244,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 230.3,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 231.73,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 236.8,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 238.619,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 241.56,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 245.067,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 246.299,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 250.667,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 251.686,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 255.3,
+      "file": "audio/sfx/dawn-birds.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 256.415,
+      "file": "audio/sfx/industry-ship-creak.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 255.58,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 256.12,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 256.66,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 260.367,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 262.367,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 264.667,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 267.967,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 271.267,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 274.567,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 270.367,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 277.367,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 278.973,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 281.667,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 284.667,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 285.972,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 290.6,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 292.521,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 294.9,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 299.333,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 301.333,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 310.467,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 312.467,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 320.933,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 322.869,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 326.013,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 329.733,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 331.537,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 334.453,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 337.933,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 339.933,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 338.213,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 338.753,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 339.293,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 351.3,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 353.3,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 360.24,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 366.533,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 368.533,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 370.833,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 374.133,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 372.193,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 376.3,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 377.305,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 380.867,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 382.825,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 385.167,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 388.467,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 389.767,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 391.767,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 394.067,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 397.367,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 400.033,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 402.033,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 404.333,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 407.633,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 410.067,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 411.863,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 418.233,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 419.634,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 422.533,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 424.6,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 426.125,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 428.9,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 431.533,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 435.267,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 437.217,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 439.567,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 442.867,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 440.387,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 444.133,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 445.094,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 448.5,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 449.783,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 454.333,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 456.333,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 462.173,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 467.733,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 469.413,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 472.033,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 475.367,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 476.958,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 479.667,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 482.6,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 484.595,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 486.9,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 490.2,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 487.84,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 491.667,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 493.667,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 498.727,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 503.767,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 505.767,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 508.067,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 511.367,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 509.487,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 513.633,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 514.77,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 518.8,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 519.812,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 523.4,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 525.4,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 527.7,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 531.0,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 534.3,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 537.4,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 539.321,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 542.44,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 546.133,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 547.109,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 550.567,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 551.586,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 555.2,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 556.593,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 559.5,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 561.533,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 563.533,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 565.833,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 569.133,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 570.967,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 572.375,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 575.267,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 577.367,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 579.367,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 586.633,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 588.633,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 590.933,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 594.233,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 597.533,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 594.473,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 600.033,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 602.033,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 604.333,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 607.633,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 606.553,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 611.233,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 612.788,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 615.533,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 618.3,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 619.598,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 624.2,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 625.989,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 628.5,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 632.333,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 634.027,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 640.033,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 641.874,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 644.333,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 648.4,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 651.867,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 653.867,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 662.233,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 664.233,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 666.533,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 669.833,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 672.3,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 674.17,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 680.8,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 682.8,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 685.1,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 688.4,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 691.7,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 688.72,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 694.333,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 695.551,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 699.867,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 701.546,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 700.147,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 700.687,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 701.227,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 707.5,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 708.695,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 712.933,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 714.708,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 717.233,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 717.573,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 721.0,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 723.0,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 725.3,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 728.6,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 731.9,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 729.4,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 735.333,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 737.333,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 735.613,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 736.153,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 736.693,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 741.693,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 746.267,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 747.374,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 746.547,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 747.087,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 747.627,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 751.3,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 752.341,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 756.033,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 758.9,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 760.9,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 770.5,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 772.018,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 770.78,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 771.32,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 771.86,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 777.4,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 779.4,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 788.6,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 790.529,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 793.66,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 797.367,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 799.367,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 810.8,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 812.8,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 815.1,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 818.4,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 820.0,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 820.28,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 820.82,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 821.36,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 824.2,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 826.2,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 824.48,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 825.02,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 825.56,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 832.0,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 837.533,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 838.67,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 837.813,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 838.353,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 838.893,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 842.7,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 844.328,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 850.1,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 852.1,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 862.333,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 864.333,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 868.413,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 872.8,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 874.8,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 883.5,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 885.128,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 887.8,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 890.9,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 892.785,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 895.2,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 899.467,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 901.256,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 904.147,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 907.6,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 909.6,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 920.1,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 921.728,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 927.5,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 928.629,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 932.633,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 934.452,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 932.913,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 933.453,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 933.993,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 940.9,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 942.425,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 947.833,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 949.833,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 948.113,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 948.653,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 949.193,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 959.033,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 961.033,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 965.513,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 970.167,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 972.167,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 982.2,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 984.107,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 986.5,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 990.867,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 992.867,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 995.167,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 998.467,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1002.9,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1004.88,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1008.1,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1011.9,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1013.301,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1018.267,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1019.792,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1018.547,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1019.087,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1019.627,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1025.2,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1026.131,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1025.48,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1026.02,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1026.56,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1029.433,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1031.083,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1036.933,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1038.781,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1041.233,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1045.333,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1047.333,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1049.633,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1052.933,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1050.993,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1055.1,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1057.1,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1065.133,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1067.133,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1065.413,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1065.953,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1066.493,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1077.967,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1079.954,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1083.187,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1087.0,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1088.335,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1087.28,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1087.82,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1088.36,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1093.067,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1095.067,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1093.347,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1093.887,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1094.427,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1104.267,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1105.77,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1108.567,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1111.1,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1112.061,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1115.467,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1117.131,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1115.747,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1116.287,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1116.827,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1123.033,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1125.033,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1132.8,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1134.223,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1139.267,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1141.267,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1143.567,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1146.867,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1150.433,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1152.237,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1154.733,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1158.633,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1160.633,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1165.033,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1169.633,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1171.232,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1176.9,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1178.345,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1183.467,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1185.183,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1183.747,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1184.287,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1184.827,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1191.267,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1193.267,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1195.567,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1198.867,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1202.0,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1203.76,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1206.3,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1210.0,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1211.041,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1214.733,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1215.679,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1219.033,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1221.033,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1223.333,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1226.633,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1225.473,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1230.1,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1232.029,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1234.4,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1238.867,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1240.867,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1245.087,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1249.567,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1250.667,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1254.567,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1256.444,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1258.867,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1263.1,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1265.1,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1267.4,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1270.7,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1269.46,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1274.033,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1275.896,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1278.333,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1282.5,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1283.681,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1287.867,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1289.678,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1288.147,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1288.687,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1289.227,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1296.1,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1297.735,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1296.38,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1296.92,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1297.46,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1303.533,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1305.389,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1303.813,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1304.353,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1304.893,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1308.393,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1311.967,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1313.967,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1312.247,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1312.787,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1313.327,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1321.4,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1323.021,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1325.7,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1328.767,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1330.013,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1334.433,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1336.433,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1338.733,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1342.033,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1340.653,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1345.133,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1346.263,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1350.267,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1352.267,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1354.567,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1357.867,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1355.667,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1359.6,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1361.6,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1363.9,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1367.2,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1366.38,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1371.233,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1372.781,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1378.267,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1379.374,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1383.3,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1385.3,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1392.6,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1394.6,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1392.88,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1393.42,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1393.96,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1399.14,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1403.833,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1405.833,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1414.7,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1416.7,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1414.98,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1415.52,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1416.06,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1423.9,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1425.895,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1424.18,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1424.72,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1425.26,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1432.967,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1434.967,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1445.733,
+      "file": "audio/sfx/industry-ship-creak.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1447.039,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1446.013,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1446.553,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1447.093,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1451.667,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1453.667,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1451.947,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1452.487,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1453.027,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1457.787,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1462.2,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1464.2,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1469.22,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1474.233,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1475.333,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1479.233,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1480.942,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1487.0,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1488.313,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1492.967,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1494.967,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1497.267,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1500.567,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1502.867,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1504.553,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1507.167,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1510.533,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1512.205,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1518.133,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1520.133,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1527.233,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1528.605,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1533.467,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1535.467,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1544.2,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1546.2,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1555.233,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1556.957,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1555.513,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1556.053,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1556.593,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1563.067,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1564.511,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1569.633,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1571.1,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1576.3,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1578.031,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1584.167,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1586.167,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1588.467,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1591.767,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1595.067,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1591.427,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1596.6,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1598.441,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1604.967,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1606.507,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1611.967,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1613.851,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1616.907,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1620.533,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1621.494,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1620.813,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1621.353,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1621.893,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1624.9,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1626.9,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1630.2,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1634.067,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1636.067,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1644.133,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1646.133,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1644.413,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1644.953,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1645.493,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1655.667,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1657.522,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1664.1,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1665.633,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1671.067,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1672.79,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1678.9,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1679.18,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1679.72,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1680.26,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1682.0,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1683.665,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1689.567,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1690.505,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1693.833,
+      "file": "audio/sfx/meeting-knock.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1695.833,
+      "file": "audio/sfx/original-gravel-9.8.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1694.113,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1694.653,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1695.193,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1702.873,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1709.233,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1711.733,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1715.3,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1717.111,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1723.533,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1725.533,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1730.413,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1735.333,
+      "file": "audio/sfx/industry-coins.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1737.333,
+      "file": "audio/sfx/industry-stamp.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1745.933,
+      "file": "audio/sfx/original-gravel-3.9.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1747.933,
+      "file": "audio/sfx/industry-ore.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1746.213,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1746.753,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1747.293,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1757.767,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1759.497,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1765.633,
+      "file": "audio/sfx/water.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1767.633,
+      "file": "audio/sfx/industry-mine-drips.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1769.933,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1773.233,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1776.533,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1779.133,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1781.133,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1786.973,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1792.533,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1793.751,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1798.067,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1799.343,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1798.347,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1798.887,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1799.427,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1803.867,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1805.867,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1809.287,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1813.233,
+      "file": "audio/sfx/dawn-birds.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1815.233,
+      "file": "audio/sfx/industry-ship-creak.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1813.513,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1814.053,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1814.593,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1820.713,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1826.033,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1827.683,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1833.533,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1834.619,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1838.467,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1839.772,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1844.4,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1845.691,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1844.68,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1845.22,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1845.76,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1850.267,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1852.078,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1854.567,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1855.007,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1858.5,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1860.238,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1862.8,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1866.4,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1868.4,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1870.7,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1874.0,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1877.3,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1875.38,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1881.7,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1883.7,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1886.0,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1889.3,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1892.633,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1893.873,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1898.267,
+      "file": "audio/sfx/industry-ink.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1899.975,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1906.033,
+      "file": "audio/sfx/pencil-cross.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1907.705,
+      "file": "audio/sfx/red-pencil.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1906.313,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1906.853,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1907.393,
+      "file": "audio/sfx/steps.wav",
+      "gain": 0.075
+    },
+    {
+      "time": 1913.633,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1915.056,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1917.933,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1920.1,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1922.1,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1924.4,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1927.7,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1931.0,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1928.04,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1933.667,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1934.906,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1939.3,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1940.268,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1943.7,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1945.7,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1948.0,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1951.3,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1949.6,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1953.867,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1955.867,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1958.167,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1961.467,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1964.767,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1968.067,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1963.787,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1970.733,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1972.185,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1975.033,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1977.333,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1978.345,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1981.933,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1983.933,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1986.233,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1989.533,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1988.053,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 1992.467,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 1994.467,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 1996.767,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2000.067,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 1998.067,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 2002.133,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2004.133,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2006.433,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2009.733,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2013.733,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2015.691,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2018.033,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2021.333,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2018.873,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 2022.633,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2024.305,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2026.933,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2030.233,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2033.2,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2034.535,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2037.5,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2039.267,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2040.983,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2047.067,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2049.032,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2051.367,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2054.667,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2052.227,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 2056.0,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2058.0,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2060.3,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2063.6,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2066.233,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2067.355,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2071.333,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2073.333,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2079.673,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 2085.567,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2087.011,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2089.867,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2092.133,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2093.49,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2098.3,
+      "file": "audio/sfx/industry-steam.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2100.3,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2102.6,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2105.9,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2109.2,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2111.767,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2113.424,
+      "file": "audio/sfx/industry-waterwheel.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2116.067,
+      "file": "audio/sfx/industry-gears.wav",
+      "gain": 0.06
+    },
+    {
+      "time": 2119.3,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2121.3,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2124.62,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 2128.5,
+      "file": "audio/sfx/caption-snap.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2130.5,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2133.84,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    },
+    {
+      "time": 2137.733,
+      "file": "audio/sfx/question-soft.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2139.767,
+      "file": "audio/sfx/question-up.wav",
+      "gain": 0.13
+    },
+    {
+      "time": 2141.767,
+      "file": "audio/sfx/paper-note.wav",
+      "gain": 0.1
+    },
+    {
+      "time": 2145.167,
+      "file": "audio/sfx/soft-tap.wav",
+      "gain": 0.07
+    }
+  ],
+  "usedSfx": [
+    "audio/sfx/caption-snap.wav",
+    "audio/sfx/dawn-birds.wav",
+    "audio/sfx/industry-coins.wav",
+    "audio/sfx/industry-gears.wav",
+    "audio/sfx/industry-ink.wav",
+    "audio/sfx/industry-mine-drips.wav",
+    "audio/sfx/industry-ore.wav",
+    "audio/sfx/industry-ship-creak.wav",
+    "audio/sfx/industry-stamp.wav",
+    "audio/sfx/industry-steam.wav",
+    "audio/sfx/industry-waterwheel.wav",
+    "audio/sfx/meeting-knock.wav",
+    "audio/sfx/original-gravel-3.9.wav",
+    "audio/sfx/original-gravel-9.8.wav",
+    "audio/sfx/paper-note.wav",
+    "audio/sfx/pencil-cross.wav",
+    "audio/sfx/question-soft.wav",
+    "audio/sfx/question-up.wav",
+    "audio/sfx/red-pencil.wav",
+    "audio/sfx/soft-tap.wav",
+    "audio/sfx/steps.wav",
+    "audio/sfx/water.wav"
+  ],
+  "notes": [
+    "Original parts 1 then 2, no retiming. Original concatenation preserved.",
+    "Internal action cues editorial; SRT scene times supplied by user, not word alignment.",
+    "SFX original procedural library; no music or replacement voice."
+  ]
+}

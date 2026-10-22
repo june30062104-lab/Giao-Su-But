@@ -1,0 +1,256 @@
+id,startFrame,endFrame,kind,label,illustration,action
+01.01,0,260,coast,,"Bay qua bờ biển Alexandria cổ đại, tiến vào ngôi đền đá nhỏ",Máy quay pan nhẹ từ biển vào cửa đền; khói hương cuộn chậm
+01.02,260,361,temple,,Tín đồ đầu tròn đứng trước bàn thờ và hai cánh cửa đóng,Nhân vật nhìn trái phải; ngọn đuốc chưa cháy
+01.03,361,710,temple,,Tư tế cúi người châm lửa trên bàn thờ,Tay đưa đuốc; ngọn lửa xuất hiện thành ba nét vẽ đơn giản
+01.04,710,1011,temple,,"Cửa đền từ từ mở không người chạm, tín đồ kinh ngạc",Hai cánh cửa xoay hai hướng; mắt nhân vật mở to
+01.05,1011,1312,manuscript,Tái hiện giả định,"Dừng hình ngôi đền, mở ra trang sách có bản vẽ và nhãn tái hiện giả định",Fade cảnh tưởng tượng sang giấy da và nét vẽ tay
+02.01,1312,1456,desk,Hero thành Alexandria,Học giả Hero ngồi cạnh bản vẽ đền thờ bằng giấy da,"Bàn tay đặt bút vào sơ đồ, máy quay tiến gần"
+02.02,1456,1648,templeMechanism,Khí • nước • đối trọng,"Mặt cắt bàn thờ, bình kín chứa nước và không khí, ống dẫn",Từng đường ống hiện dần theo nét mực
+02.03,1648,1953,templeMechanism,,"Khí được hơ nóng, đẩy nước theo ống xi-phông sang xô treo",Mũi tên đỏ mờ và hạt nước di chuyển theo ống
+02.04,1953,2240,templeMechanism,,Xô nặng hạ xuống kéo dây và trục làm cửa xoay mở,Dây cuốn trục; xô hạ; cửa mở đồng bộ
+02.05,2240,2567,templeMechanism,,"Lửa tắt, nước quay về bình và đối trọng đóng cửa","Đảo chiều mũi tên nước; đối trọng đi xuống, cửa khép"
+03.01,2567,2828,aeolipile,Quả cầu hơi nước của Hero,Quả cầu đồng Hero với hai vòi phun cong ngược chiều,Hơi nước phụt đều qua hai vòi; quả cầu rung nhẹ
+03.02,2828,3064,aeolipile,,Nồi đun và hai vòi cong thể hiện hơi thoát ra tạo phản lực làm quả cầu quay,"Hơi đi lên ống, phụt qua hai vòi ngược chiều, quả cầu quay"
+03.03,3064,3330,aeolipile,,"Quả cầu quay nhờ phản lực, người quan sát tròn mắt",Quả cầu xoay liên tục; vài nét tốc độ
+03.04,3330,3607,compare,Quay được ≠ làm việc hữu ích,"Bên trái thiết bị Hero nhỏ, bên phải cỗ máy Newcomen lớn cạnh mỏ",Chuyển từ nét mực nhỏ sang máy dầm to chiếm khung
+03.05,3607,3699,timeline,Khoảng 1.600 năm,Trục 1.600 năm nối thời Hero đến 1712,"Con trỏ trượt theo thước thời gian, không giả định bước phát triển liên tục"
+04.01,3699,3992,question,,Nhân vật người dẫn chuyện nhìn dấu hỏi lớn trên giấy,Dấu hỏi được vẽ lên rồi dừng
+04.02,3992,4303,network,,"Dải nhiều thời đại: học giả, thợ kim khí, nhà nghiên cứu thử máy","Các ô minh họa mở lần lượt, không để khoảng trống lịch sử"
+04.03,4303,4506,compare,Nguyên lý → cỗ máy hữu ích,Bản vẽ nguyên lý bên trái và máy bơm hoạt động bên phải,Tách đôi khung; máy bơm chuyển động nhưng bản vẽ đứng yên
+04.04,4506,4722,archive,,"Cuốn sách nằm lâu trên kệ, bên kia bánh xe sản xuất quay","Bụi bay nhẹ trên sách, bánh xe chậm rồi nhanh"
+04.05,4722,4894,map,,Cuốn sách di chuyển ngược đến Alexandria ven Địa Trung Hải,Bản đồ giấy da cuộn về vị trí thành phố
+05.01,4894,5240,city,Alexandria • 331 TCN,Alexander trên cao nhìn bờ biển Ai Cập nơi đặt nền thành phố,Nét vẽ nhà cửa mọc từ mặt bằng đất trống
+05.02,5240,5400,map,,Điểm Alexandria hiện lên cạnh bờ Địa Trung Hải,Chấm mực lan rộng thành biểu tượng cảng
+05.03,5400,5702,succession,Ptolemy,"Vua qua đời xa xôi, quyền lực chuyển sang Ptolemy tại Ai Cập",Vương miện dịch sang nhân vật kế vị theo timeline
+05.04,5702,5980,port,,"Alexandria sầm uất có thuyền hàng, người mua bán, học giả","Ba nhóm nhỏ bước đi, buồm thuyền lắc nhẹ"
+05.05,5980,6191,desk,,Ptolemy chỉ vào bản thiết kế thư viện lớn,Một tòa nhà tri thức nổi lên từ bản vẽ
+06.01,6191,6447,courtyard,Mouseion,"Khu Mouseion với sân trong, hàng cột, vườn học giả",Máy quay lướt ngang hàng cột
+06.02,6447,6747,debate,,Các học giả đầu tròn tranh luận bên bàn gỗ và giấy da,"Tay chỉ bản đồ, dấu hình học xuất hiện"
+06.03,6747,6903,archive,,Giá sách cuộn giấy nối nhau trong thư viện Alexandria,Các cuộn giấy được xếp lên kệ từng lớp
+06.04,6903,7098,copy,Một câu chuyện được truyền lại,Truyền thuyết tàu cập cảng và sách được sao chép,Sách rời thuyền sang bàn chép; ký hiệu giả thuyết trong ghi chú dựng
+07.01,7098,7346,geometry,Euclid,Euclid dùng que vạch tam giác lên bảng cát,Ba nét thẳng xuất hiện nối ba đỉnh
+07.02,7346,7514,shadows,Eratosthenes,Eratosthenes đo bóng nắng bên cột ở hai địa điểm,"Bóng cột xoay ngắn, đường cung Trái Đất lộ ra"
+07.03,7514,7653,astronomy,,Thầy thuốc và nhà thiên văn ghi lại quan sát trên giấy da,Trang giấy đổi từ sơ đồ cơ thể sang sao trời
+07.04,7653,7805,port,Hải đăng Pharos,Ngọn hải đăng Pharos đứng ngoài cảng giữa tàu buồm,Ánh đèn quét nhẹ mặt nước
+08.01,7805,8315,mirror,Ctesibius,"Ctesibius trẻ trong tiệm cắt tóc của cha, chiếc gương treo",Gương nâng lên hạ xuống theo dây chì
+08.02,8315,8534,mirror,,Quả chì trượt trong ống đẩy không khí tạo tiếng động,Quả chì rơi và ba vòng âm thanh đi ra
+08.03,8534,8712,pump,Van một chiều,"Pít-tông bơm lực, xi-lanh và hai van một chiều",Pít-tông đẩy; van mở đóng luân phiên
+08.04,8712,8974,clock,,Đồng hồ nước nhỏ giọt và organ thủy lực cạnh nhau,"Cột mực nước nhích lên, ống đàn rung"
+08.05,8974,9308,copy,,"Bản thảo Ctesibius phai mờ; sách Hero, Vitruvius còn ghi tên",Trang cũ rơi mảnh nhưng những hình cơ cấu hiện lại trên trang mới
+09.01,9308,9622,desk,,"Hero đứng ở thư viện, nhìn vào bản thảo toán và máy",Máy quay từ vai tới trang giấy
+09.02,9622,9886,astronomy,Nguyệt thực • 62 SCN,"Trang sách có bản ghi nguyệt thực, không hiện năm sinh chắc chắn",Bóng Trái Đất che một phần Mặt Trăng
+09.03,9886,10132,timeline,Niên đại còn có điểm chưa chắc chắn,Khoảng định niên đại thế kỷ I và mốc 62 SCN,"Vùng thời gian tô mờ, dấu mốc 62 hiện như tham chiếu"
+09.04,10132,10533,city,,"Alexandria thời La Mã, cờ đế chế nhưng kiến trúc Hy Lạp",Camera quét từ quân lính tới trường học
+10.01,10533,10990,geometry,Hình học và cơ khí,Sách Hero mở ra hình tam giác và bản vẽ cơ khí,"Trang tự lật, hình tam giác nối nét"
+10.02,10990,11283,machines,Khí nén học,"Bàn cơ khí chứa vòi, xi-phông, bình, van giống bảo tàng kỹ thuật",Các thiết bị xuất hiện từng chiếc trong khung
+10.03,11283,11420,coin,Đồng xu → mở van → nước chảy,Máy nhận đồng xu cho nước nghi lễ,Đồng xu rơi; đòn bẩy nghiêng; dòng nước chảy rồi ngừng
+10.04,11420,11687,coin,,Chim cơ khí hót trên cành và cú quay đầu,Nước ép không khí; chim nhấp nhô và dừng khi cú xoay
+10.05,11687,11995,bird,,Bình rót nước kỳ lạ và van bí mật được bật mí,Mở nửa thân bình để lộ đường ống
+10.06,11995,12296,pump,,Máy bơm chữa cháy và nhạc cụ chạy khí trong xưởng,"Tay bơm hoạt động, tia nước và ba nốt nhạc cách điệu"
+10.07,12296,12541,manuscript,,"Hàng thiết bị chuyển thành bộ sưu tập bản thảo, không khẳng định tất cả đã được chế tạo",Các vật thể dẹt thành nét mực trên giấy da
+11.01,12541,12732,theatre,Nhà hát tự động,"Nhà hát cơ khí bé đặt trên bàn, phông sân khấu kéo màn",Màn vải trượt sang hai bên
+11.02,12732,12940,theatre,,Quả nặng kéo dây quấn trục với nút thắt đánh dấu,Quả nặng hạ; dây mở từng vòng
+11.03,12940,13052,theatre,,"Hình nhân trên sân khấu di chuyển, dừng và đảo chiều",Nhân vật nhỏ bước rồi quay đầu theo trục dây
+11.04,13052,13318,theatre,Kéo • dừng • đảo chiều,Dải thao tác kéo-dừng-đảo chiều được vẽ như chuỗi lệnh,Ba biểu tượng đơn giản bật sáng theo nhịp
+12.01,13318,13449,aeolipile,,Quả cầu aeolipile trên bàn trong cuốn sách Hero,Trang giấy biến thành thiết bị dựng nổi
+12.02,13449,13624,aeolipile,,Quả cầu đồng và hai vòi hướng ngược quay đều theo hơi nước,Luồng hơi đồng bộ với chiều quay
+12.03,13624,14026,manuscript,Một thiết kế được ghi chép,Dấu vết tên Aeolus trên cuộn giấy cạnh hình thần gió,Hơi gió đẩy lật cuộn giấy
+12.04,14026,14255,machines,,"Bộ sưu tập thiết kế cổ: một số sáng rõ, một số chỉ là nét phác",Đèn soi lướt qua nhóm bản vẽ chưa rõ đã chế tạo
+13.01,14255,14472,aeolipile,,Quả cầu Hero xoay đẹp mắt trên giá gỗ,"Chuyển động xoay nhẹ, hơi phun lặp lại"
+13.02,14472,14744,aeolipile,Mô-men xoắn nhỏ,Bàn tay đưa gần quả cầu thử cản quay,Quả cầu chậm lại; hiện ký hiệu mô-men nhỏ
+13.03,14744,15107,energy,Nhiệt thất thoát,"Nhiệt vào nhiều, chuyển động hữu ích ra ít",Các chấm nhiệt phân tán ra môi trường
+13.04,15107,15403,belt,Truyền động chưa đủ hiệu quả,"Kỹ sư nối dây đai từ cầu sang máy nghiền bột, dây chùng","Dây đai trượt, cối nghiền không quay"
+13.05,15403,15558,network,,"Hiện loạt vấn đề: tạo hơi, độ kín, truyền lực, bền bỉ",Biểu tượng phát sáng lần lượt quanh cỗ máy
+13.06,15558,15696,compare,,"Cầu hơi nước nhỏ cạnh động cơ công nghiệp lớn, khoảng cách công nghệ rõ",Máy quay lùi ra cho thấy tỷ lệ và hệ thống phụ trợ
+14.01,15696,16116,machines,,Bàn trưng bày các bộ phận cơ học cổ đại rời nhau,"Pít-tông, van, bánh răng, vít nổi lên theo thứ tự"
+14.02,16116,16378,assembly,Có linh kiện ≠ có chu trình,"Ghép thử bộ phận máy bơm thành máy nhiệt, vị trí không khớp",Các chi tiết tiến lại gần rồi dừng vì thiếu vòng chu trình
+14.03,16378,16511,leak,,"Độ kín, nhiệt, vật liệu xuất hiện như các rào cản","Van rung, đường ống thoát hơi, gioăng hở"
+14.04,16511,16650,manuscript,,Hai hiện vật khảo cổ hiện như hai cánh cửa mở ra,Máy quay tiến vào cánh cửa thứ nhất
+15.01,16650,16840,dive,Antikythera • 1900,Thợ lặn bọt biển thấy xác tàu cổ ngoài đảo Antikythera,"Bong bóng nổi lên, máy quay xuống đáy biển"
+15.02,16840,17123,dive,,"Khối kim loại ăn mòn được trục vớt, nhà nghiên cứu xem xét","Bùn rơi ra, lộ vòng bánh răng"
+15.03,17123,17315,gears,Cơ khí Hy Lạp hóa,Bên trong cơ cấu Antikythera hiện hàng chục bánh răng lồng nhau,Các bánh răng xoay chậm có liên kết
+15.04,17315,17593,astronomy,,"Mặt Trời, Mặt Trăng và lịch nguyệt thực xoay trên mặt số",Kim đồng hồ cổ chạy vòng cung
+15.05,17593,17995,compare,Thủ công tinh xảo ≠ sản xuất đại trà,Hiện vật tinh xảo nhỏ đặt cạnh xưởng máy cơ khí khổng lồ không tồn tại thời đó,Đặt ranh giới rõ: kỹ nghệ nhỏ không đồng nghĩa nhà máy hàng loạt
+16.01,17995,18331,saw,Hierapolis • thế kỷ III,Phù điêu Hierapolis có xưởng cưa đá chạy bằng sức nước,Phù điêu đá chuyển dần sang cảnh hoạt động
+16.02,18331,18543,saw,,Bánh xe nước kéo tay quay và thanh truyền,Nước đổ; bánh xe quay; thanh truyền chạy qua lại
+16.03,18543,18720,saw,Quay tròn → tịnh tiến,Mũi tên tròn biến thành mũi tên thẳng trên máy cưa,Lưỡi cưa tịnh tiến cắt khối đá
+17.01,18720,18964,machines,,"Các bộ phận Hero, Ctesibius, Antikythera, Hierapolis xuất hiện bốn ô",Từng ô dựng lên như thẻ tư liệu
+17.02,18964,19195,assembly,,Một bàn tay hiện đại định ghép mọi bộ phận thành động cơ,"Các chi tiết trượt tới nhau, không tự khớp"
+17.03,19195,19446,compare,,Hình bóng chiếc động cơ tương lai chồng lên sơ đồ cổ tạo ảo giác,Hình bóng mờ rồi biến mất
+17.04,19446,19550,question,Người xưa chưa có bản vẽ tương lai,"Kỹ sư cổ đại nhìn vào bảng trắng, không thấy bản vẽ tương lai",Nhân vật gãi đầu trước hàng câu hỏi
+17.05,19550,19861,balances,,"Chi phí, năng lượng, độ bền, khách hàng hiện như bốn chiếc cân",Mỗi cân nghiêng không đồng đều
+17.06,19861,20163,mill,,Cối xay La Mã hiện ra bác bỏ định kiến chống máy móc,Chuyển từ dấu X quan niệm sang bánh xe đang chạy
+18.01,20163,20418,map,,Bản đồ nhỏ dẫn từ Rome sang Barbegal miền nam nước Pháp,Chấm vị trí nảy nhẹ trên bản đồ giấy da
+18.02,20418,20824,barbegal,Barbegal • 16 bánh xe nước,Hai dãy tám bánh xe nước trên dốc Barbegal,"Pan từ đỉnh kênh xuống chân dốc, đủ 16 bánh"
+18.03,20824,20990,mill,,Nước lần lượt quay các bánh và dẫn lực vào cối xay,Các bánh lần lượt xoay; bột đổ khỏi cối
+18.04,20990,21219,store,Quy mô sản lượng còn được nghiên cứu,Kho lương thực phục vụ nhiều người với dấu hỏi về quy mô thực tế,"Túi bột xuất hiện, không hiện con số sản lượng chắc chắn"
+19.01,21219,21382,mine,,Mỏ kim loại Tây Ban Nha nhìn mặt cắt sâu trong lòng đất,Camera đi xuống tầng hầm tối
+19.02,21382,21624,drainage,Riotinto,Chuỗi bánh xe gỗ nâng nước ở Riotinto,Máng nước truyền lên tầng từng bánh
+19.03,21624,22054,reservoir,Las Médulas,Las Médulas với hồ chứa cao và nước xối sườn đồi,"Van hồ mở, dòng nước đổ tràn tạo địa hình xói"
+19.04,22054,22382,crane,Guồng người • ròng rọc • dây kéo,Cần cẩu La Mã dùng guồng người nâng phiến đá nặng,"Người chạy trong guồng, dây kéo phiến đá lên"
+19.05,22382,22533,pantheon,Pantheon,Mái vòm Pantheon hiện qua tiến trình xây dựng,Các đoạn khuôn vòm xếp thành mái hoàn chỉnh
+19.06,22533,22675,network,,"Tổng hợp ba dạng năng lượng: sức nước, sức người, đòn bẩy",Các biểu tượng nối mũi tên đến công trình
+20.01,22675,22761,desk,Vitruvius,"Vitruvius viết trên bàn gỗ, mười cuộn sách xếp bên","Mười cuộn lăn ra, máy quay gần trang vẽ"
+20.02,22761,23109,manuscript,,"Bản vẽ cối xay, bơm, cần cẩu, đồng hồ nước",Các dụng cụ nhỏ hiện dần trên giấy
+20.03,23109,23316,city,,"Quang cảnh Rome với xưởng, mỏ, cầu đường hoạt động",Nhân vật thợ chuyển động nhỏ trên nhiều khu vực
+20.04,23316,23652,balances,,Cân lợi ích của máy: sản lượng tăng vượt chi phí,Cân thăng bằng rồi nghiêng về phía máy khi bánh quay
+21.01,23652,23915,network,Năm nhóm điều kiện,Bảng giấy da ghi năm hình biểu tượng cho năm nguyên nhân,"Năm ô tròn được vẽ lần lượt, không gắn nhãn dài"
+21.02,23915,24318,question,,Người dẫn chuyện cầm kính lúp trước năm manh mối,Nhân vật bước tới từng biểu tượng
+21.03,24318,24594,compare,,Quả cầu Hero và máy bơm Newcomen tách đôi,"Quả cầu chạy nhỏ, bơm nước liên tục ở khung bên"
+21.04,24594,24720,field,,Cửa mở sang mặt tối xã hội La Mã: khu lao động cưỡng bức,"Ánh sáng dịu hạ tông, máy quay hướng xuống công trường"
+22.01,24720,25120,field,1. Lao động và tổ chức xã hội,"Điền trang và công trường La Mã, những nhóm lao động ở nhiều nơi",Nhân vật nhỏ chuyển động trên đồng và bến cảng
+22.02,25120,25275,field,,Cảnh tù binh và người lao động có địa vị khác nhau; tránh hình cực đoan,"Pan chậm, giữ góc nhìn nhân văn, không giật gân"
+22.03,25275,25497,map,,Các khu vực La Mã khác nhau với màu mật độ lao động không đồng nhất,"Các vùng tô sắc khác nhau, không có tỷ lệ thống nhất"
+22.04,25497,25864,accounting,,"Chủ điền trang tính chi phí mua, ăn ở, bảo vệ và vận hành",Các viên tiền cùng giỏ thực phẩm đặt lên bàn cân
+22.05,25864,26178,accounting,Nô lệ không phải lao động miễn phí,Nô lệ không miễn phí: ghi chép chi phí tích lũy dọc cuộn giấy,Những khoản chi xuất hiện theo nét bút
+22.06,26178,26499,choices,,Người chủ phân vân giữa lao động quen thuộc và máy mới rủi ro,"Hai phương án trên bàn tính, dấu hỏi ở máy"
+23.01,26499,26721,mine,,Hầm mỏ cổ nước ngầm dâng lên trong lối hầm,"Mực nước nhích lên, thợ đi tránh"
+23.02,26721,26978,drainage,,Công nhân quay bánh nâng nước bằng guồng gỗ,"Bánh quay, gầu nước được đưa lên"
+23.03,26978,27222,choices,Phương án hơi nước: giả định,Ba phương án của người chủ mỏ được trình bày bằng ba ô,"Bánh nâng, cối nước và máy hơi giả định hiện lần lượt"
+23.04,27222,27597,choices,,Kỹ sư đưa bản vẽ máy hơi nước chưa được kiểm chứng,Ông chủ lắc đầu khi nhìn số chi phí tăng
+23.05,27597,27819,balances,,"Nước Anh thế kỷ XVIII có than giá rẻ, lương công khác nhau theo nơi",Hai cán cân không đồng nhất chuyển nhẹ
+24.01,27819,27973,copy,Suetonius kể lại,Người chép sử Suetonius ngồi ghi câu chuyện Vespasian,"Lông chim chạm giấy, cảnh mờ chuyển quá khứ"
+24.02,27973,28221,crane,,Kỹ sư chỉ bản vẽ chuyển cột đá lên đồi Capitoline,Đường kéo cột được vẽ bằng nét đứt
+24.03,28221,28429,court,Giai thoại về Vespasian,Vespasian thưởng túi tiền nhưng không dùng máy,"Túi tiền đặt xuống bàn, cuộn thiết kế cuộn lại"
+24.04,28429,28765,workers,,Dân nghèo xếp hàng tìm việc trước công trường,"Nhân vật bước chậm, không tạo cảm giác tranh giành"
+24.05,28765,29099,manuscript,"Một giai thoại, chưa phải kết luận chung",Câu chuyện nằm trong cuốn sử với biểu tượng nguồn đơn lẻ,"Trang sách quay, dấu hỏi xuất hiện cạnh hình máy"
+24.06,29099,29460,network,,"Ba mục tiêu nhà cai trị: chi phí, việc làm, trật tự xã hội",Ba biểu tượng lệch cân; không kết luận bao trùm
+25.01,29460,29720,mill,,Cảnh lao động nặng và cối xay Barbegal chạy bằng sức nước,Match cut bàn tay quay cối sang bánh xe nước
+25.02,29720,30081,mill,,Bánh xe nước làm việc liên tục trong khi công nhân nghỉ,"Bánh xoay chậm đều, thợ ngồi uống nước"
+25.03,30081,30351,balances,Hiệu quả tùy nơi và công việc,Lợi thế máy tùy địa điểm và chi phí,Hai đường chi phí cắt nhau trên đồ thị minh họa không số
+25.04,30351,30542,choices,,Chủ mỏ chọn công cụ sẵn có thay cho máy hơi phức tạp,"Đẩy bản vẽ qua một bên, gọi thợ vận hành bơm"
+25.05,30542,30750,fuel,,"Kỹ sư cầm củi nhìn nồi hơi, tự hỏi lấy gì để đốt","Ngọn lửa nhỏ đi, củi vơi dần"
+26.01,30750,30877,fuel,2. Nhiên liệu,Trang giấy chuyển sang biểu tượng bó củi cháy và hơi nước,"Lửa bùng, hơi bốc lên"
+26.02,30877,31102,energy,,Sơ đồ năng lượng đi từ nhiệt đến hơi và chuyển động,"Đường dẫn năng lượng lộ rõ, phần thất thoát tỏa ra"
+26.03,31102,31354,engine,,Động cơ Newcomen đời đầu với hơi ngưng tụ mất nhiều nhiệt,Xi-lanh đổi nóng-lạnh bằng màu đất nhạt và xanh xám
+26.04,31354,31647,engine,Than tại ngay nơi cần bơm,Mỏ than Anh có đống than tại chỗ bên động cơ bơm,"Xe than đi vài bước, máy dầm lên xuống"
+26.05,31647,31948,accounting,,Chủ mỏ tính lợi nhuận từ việc giữ mỏ khô,"Giọt nước rút, gương mặt chủ mỏ dịu đi"
+26.06,31948,32333,fuel,,"Nhà tắm, lò gốm, xưởng kim loại quanh Địa Trung Hải","Khói mỏng bay, người chở củi dọc đường"
+26.07,32333,32604,map,Nguồn nhiên liệu khác nhau theo vùng,"Nhiều vùng rừng khác nhau, tránh tô toàn bộ đế chế thành thiếu củi",Bản đồ với nguồn củi phân bố chênh lệch
+27.01,32604,32786,cart,,Đoàn xe chở củi tới lò nung và nhà tắm cổ,"Bánh xe kéo lăn, khói lò lên nhè nhẹ"
+27.02,32786,33122,cart,,Cùng bó củi nhưng chi phí khác nhau theo quãng đường,"Xe củi đi xa dần, số túi tiền tăng"
+27.03,33122,33327,mill,,Suối quay cối xay bên cạnh nồi hơi hao nhiên liệu,"Nước chảy đều, nồi hơi đòi thêm củi"
+27.04,33327,33458,map,Britannia thời La Mã,Britannia thời La Mã được đánh dấu có than,Vùng than hiện vài nét sẫm trên bản đồ
+27.05,33458,33685,forge,,Thợ đốt than ở khu định cư La Mã tại Britannia,Than đỏ phát sáng trong lò nhỏ
+27.06,33685,33978,network,,Than cổ đại chưa tạo thành mạng lưới công nghiệp như Anh hiện đại về sau,"Các điểm than rời rạc, sau đó đối chiếu mạng lưới dày thế kỷ XVIII"
+28.01,33978,34172,mineCompare,,"Hai khu mỏ ngập nước, La Mã cổ và Anh thế kỷ XVIII",Đường ranh dọc khung để đối chiếu
+28.02,34172,34507,drainage,,"Bên La Mã: gầu, guồng, bánh nâng nước hoạt động bằng sức người",Người bước trong guồng kéo nước từng nhịp
+28.03,34507,34753,engine,,Bên Anh: máy bơm dùng than ngay tại cửa mỏ,"Dầm gỗ nâng hạ, nước thoát qua rãnh"
+28.04,34753,35083,network,Bơm nước → khai thác → than,"Vòng lặp: hút nước, đào sâu, có thêm than, tiếp tục vận hành",Bốn biểu tượng xoay thành vòng kín
+28.05,35083,35301,desk,Một tình huống giả định,Kỹ sư La Mã giả định vẽ máy chạy hơi trong bóng suy tưởng,Khung giấy có viền nét đứt để phân biệt tưởng tượng
+28.06,35301,35498,balances,,Động lực kinh tế yếu và chi phí chế tạo khiến dự án chưa đủ lợi,Cán cân nghiêng về giải pháp cũ
+28.07,35498,35732,forge,3. Chế tạo và kỹ thuật,"Vào xưởng rèn, thép nóng và phôi kim loại nhấn rào cản thứ ba","Lưỡi búa hạ xuống, tia lửa rất ít"
+29.01,35732,36054,pump,,Pít-tông trong xi-lanh kim loại nhìn mặt cắt,"Pít-tông lên xuống đều, dòng nước đi theo van"
+29.02,36054,36294,compare,,Máy bơm nước đối chiếu máy nhiệt có hơi và ngưng tụ,"Hai mô hình tách bên, bên nhiệt có thêm nhiều bộ phận"
+29.03,36294,36436,leak,,"Gioăng hở khiến hơi thoát, xi-lanh mòn và bị lệch","Hơi rò theo vết đứt, thanh pít-tông rung"
+29.04,36436,36565,maintenance,,Thợ kiểm tra nồi hơi và đường ống với nét cảnh báo vừa phải,"Kim đồng hồ nhích, van được kiểm tra"
+29.05,36565,36897,compare,Áp suất thấp ≠ áp suất cao,Newcomen áp suất thấp so với động cơ áp suất cao về sau,"Hai sơ đồ chênh nhau kích cỡ, không gây hiểu lầm về áp suất"
+29.06,36897,37160,engine,,Máy bơm mỏ chạy qua nhiều ngày cần sửa chữa và hiệu quả,"Bóng mặt trời di chuyển, thợ tra dầu chỉnh máy"
+30.01,37160,37481,desk,James Watt,James Watt suy nghĩ bên bản vẽ động cơ Newcomen,Nhân vật đặt tay lên cằm
+30.02,37481,37631,condenser,Bình ngưng riêng,Bình ngưng riêng của Watt làm giảm việc xi-lanh bị làm nóng rồi lạnh liên tục,Tách bình ngưng ra khỏi xi-lanh; hai phần đổi màu nóng-lạnh khác nhau
+30.03,37631,37887,condenser,,Sơ đồ bình ngưng của Watt đặt cạnh xi-lanh cần độ tròn và độ kín cao,Pan từ bình ngưng sang xi-lanh; mũi tên chỉ mép tiếp xúc
+30.04,37887,38215,boring,Wilkinson • 1774,Thợ đo xi-lanh và trang sáng chế máy khoan Wilkinson năm 1774,Thước kiểm tra độ tròn; trang bản vẽ khoan mới hiện lên
+30.05,38215,38469,boring,,"Wilkinson vận hành máy khoan, kèm dải thời gian nhắc Newcomen có trước",Mũi khoan tiến đều; mốc Newcomen xuất hiện bên trái trên dòng thời gian
+30.06,38469,38630,timeline,1712 trước 1774,Năm 1712 trước mốc 1774 để tránh hiểu nhầm,Hai mốc bật theo đúng thứ tự
+30.07,38630,38877,forge,,Ngành động cơ phát triển kéo theo xưởng luyện kim và cơ khí chính xác,Xưởng mới xuất hiện bên xưởng cũ
+31.01,38877,39100,forge,Rèn sắt trong lò cổ,Xưởng rèn La Mã tạo phôi sắt trong lò bloomery,Công nhân đập phôi sắt trên đe
+31.02,39100,39353,forge,Rèn sắt và đúc gang,So sánh rèn sắt cổ đại và gang đúc Trung Quốc,"Phôi được gõ bên trái, kim loại chảy vào khuôn bên phải"
+31.03,39353,39636,casting,,Thợ đúc đồng làm tượng và chi tiết van tinh xảo,"Kim loại được rót vào khuôn, bộ phận xuất hiện"
+31.04,39636,39857,boring,,Thử làm xi-lanh lớn nhưng bản vẽ yêu cầu sai số khắt khe,Thước cong đo bề mặt rộng
+31.05,39857,40027,network,,"Mạng lưới thợ rèn, thợ đúc, thợ khoan, người vận hành nối bằng đường nét",Các xưởng nhỏ sáng lần lượt trong mạng lưới
+32.01,40027,40348,compare,Phản lực ≠ ngưng tụ,"Bên trái aeolipile phản lực, bên phải Newcomen áp suất khí quyển",Hai hướng mũi tên chuyển động khác nhau rõ rệt
+32.02,40348,40502,engine,,Hơi vào xi-lanh Newcomen rồi ngưng tụ giảm áp suất,"Dòng hơi trắng vào, nước lạnh xanh xám làm hơi biến mất"
+32.03,40502,40782,engine,Áp suất khí quyển đẩy piston,Không khí bên ngoài đẩy pít-tông xuống và thanh dầm nâng bơm,"Mũi tên lớn từ ngoài xuống, đầu dầm phía bên kia nhấc lên"
+32.04,40782,41131,vacuum,Torricelli • von Guericke,Torricelli với cột thủy ngân; von Guericke với hai bán cầu hút chân không trong hai ô,Cột thủy ngân đứng yên; ngựa kéo hai phía nhưng bán cầu vẫn khít
+32.05,41131,41342,manuscript,,Trang giấy Hero ghi các thí nghiệm về khí và khoảng rỗng nhỏ,"Trang sách mở ra; nước lên trong ống, các chấm không khí chuyển nhẹ"
+32.06,41342,41493,assembly,,Khoảng cách từ quan sát lực hút đẩy đến chu trình động cơ khí quyển ổn định,Bản vẽ bình thủy tinh nối bằng nét đứt tới xi-lanh động cơ
+32.07,41493,41772,network,,"Ba mắt xích: lý thuyết áp suất, chế tạo, nhu cầu vận hành","Ba biểu tượng nối, chỗ thiếu sáng mờ"
+33.01,41772,42109,debate,4. Môi trường tri thức,Nồi hơi thử nghiệm đặt trước ba nhà nghiên cứu thảo luận,Nhân vật gật và chỉ sang bản vẽ
+33.02,42109,42435,courtyard,,Xưởng học thuật Hy-La cổ với bàn tay nghề và bàn triết học ở hai phía,Máy quay qua hai nhóm người song song
+33.03,42435,42711,debate,,Nhà quý tộc có học và thợ cơ khí nhìn cùng một dụng cụ với phản ứng khác nhau,Hai biểu cảm tinh giản chuyển nhẹ
+33.04,42711,42983,crane,,Công trường cầu và máy chiến tranh chứng tỏ người thợ vẫn được cần đến,"Kỹ sư chỉ bản vẽ, thợ kéo dây"
+33.05,42983,43366,network,,Ý tưởng rời xưởng đến giới nghiên cứu nhưng đường truyền bị thưa,"Những đoạn dây nối vẽ chậm, một số nút chưa nối"
+34.01,43366,43544,port,Syracuse,"Syracuse đang bị vây, tường thành và thuyền chiến ở xa",Máy quay từ biển vào thành
+34.02,43544,43860,siege,Minh họa theo truyền thống kể lại,Máy phóng và cần cẩu bảo vệ thành theo truyền thống kể lại,"Cần nâng nhẹ mũi thuyền, không quá phô trương"
+34.03,43860,44221,desk,Archimedes,Archimedes ngồi trước sơ đồ hình học và cơ khí,Ông nhìn từ máy sang hình tròn trên giấy
+34.04,44221,44371,copy,Plutarch viết nhiều thế kỷ sau,"Plutarch viết nhiều thế kỷ sau, tạo một câu chuyện về giá trị tri thức",Khung quá khứ chuyển vào trang sách của Plutarch
+34.05,44371,44604,balances,,Hai danh mục toán học và cơ khí được đặt lên chiếc cân giá trị xã hội,"Đòn cân nghiêng tượng trưng góc nhìn người viết, không khẳng định tuyệt đối"
+35.01,44604,44783,machines,,Không gian trình diễn kỳ quan kỹ thuật của Hero,Bàn bày máy tự động trong phòng đá
+35.02,44783,45080,machines,,"Cửa đền mở, chim giả hót và tượng rót chất lỏng nối ba ô",Ba hành động khởi động lần lượt
+35.03,45080,45310,banquet,,Khách ngồi ăn kinh ngạc vì chiếc bình rót tự động,Hai người nghiêng đầu rồi tròn mắt
+35.04,45310,45538,balances,Thực dụng và trình diễn,Bản vẽ máy thực dụng đặt cạnh máy phục vụ trình diễn,Cán cân mục đích sử dụng không phán xét giá trị
+36.01,45538,45811,copy,,Người chép thuê sao chép cuộn sách bên nến dầu,Nét chữ hình thành chậm
+36.02,45811,45998,copy,Sao chép có thể làm lệch bản vẽ,"Bản vẽ đường ống, van dễ bị chép lệch","Hai trang đối chiếu, một nét ống vẽ lệch"
+36.03,45998,46320,archive,,"Bản thảo trải qua chiến tranh, ẩm mốc và thất lạc","Trang giấy vàng dần, một cuộn giấy biến mất"
+36.04,46320,46651,copy,,Hero kế thừa Ctesibius; Vitruvius tập hợp tri thức,Hai cuộn sách nối nhau bằng dây chỉ
+36.05,46651,46886,courier,,"Xưởng thợ, học viện, thương cảng vẫn trao đổi kỹ thuật",Người vận chuyển giấy da qua ba địa điểm
+36.06,46886,47083,map,,Các trung tâm xa nhau kết nối bằng đường nét mảnh thưa,Đường liên hệ hiện nhưng bị đứt đoạn
+36.07,47083,47283,archive,,Một thiết kế hay nằm trong bản thảo không ai mở,"Ánh sáng quanh bản vẽ hạ dần, bụi mỏng"
+37.01,47283,47519,timeline,,"Newcomen, Watt và các thợ kế tục qua các thế hệ",Các thẻ thiết kế nối thành chuỗi cải tiến
+37.02,47519,47892,maintenance,Thử → sửa → thử lại,"Một thợ thử máy, hỏng van, sửa rồi thử lại","Van rò, tay xoay ốc, máy chạy tiếp"
+37.03,47892,48143,network,,"Máy in, hội khoa học, xưởng lớn và thị trường được nối mạng",Dây kết nối lan giữa các biểu tượng
+37.04,48143,48353,network,,"Hệ sinh thái người, vốn, nhu cầu duy trì cải tiến",Vòng xoay ba bánh răng khác kích cỡ
+38.01,48353,48610,accounting,5. Tiền bạc và đầu tư,Biểu tượng đồng tiền xuất hiện như nguyên nhân thứ năm,Đồng xu xoay một vòng
+38.02,48610,48741,city,,"Nước Anh thế kỷ XVIII với xưởng dệt, đồ gốm và máy hơi nước",Camera lướt ba cửa xưởng
+38.03,48741,49016,entrepreneurs,Boulton • Wedgwood • Arkwright,"Ba nhà kinh doanh mẫu Boulton, Wedgwood, Arkwright bên sản phẩm",Mỗi người đặt một vật lên quầy
+38.04,49016,49318,network,,"Làm nhanh, bán nhiều, tái đầu tư vào thiết bị",Các thẻ đầu tư chạy thành vòng
+39.01,49318,49664,field,,"Điền trang La Mã rộng lớn, nhà lớn, ruộng và tá điền",Camera trượt theo đường ruộng
+39.02,49664,49917,accounting,,Gia đình quyền thế nhìn bản đồ đất đai và giấy thuế,Các mảnh ruộng tô màu dưới tay chủ đất
+39.03,49917,50126,manuscript,Lex Claudia,Lex Claudia và hình chiếc tàu hàng có tải trọng hạn chế,"Tàu cổ hiện cạnh trang luật, không diễn thành cấm thương mại"
+39.04,50126,50361,contract,,Người đại diện và thương gia ký thỏa thuận vận chuyển,"Hai bàn tay bắt nhẹ, thuyền qua nền xa"
+40.01,50361,50454,workers,,Đoàn quân La Mã mang chiến lợi phẩm trở về qua cổng thành,"Cờ chuyển nhẹ, xe hàng lăn chậm"
+40.02,50454,50681,accounting,,Quan cai trị kiểm đếm ngân khố và thuế tỉnh,"Túi tiền xếp lên bàn, không cường điệu hóa"
+40.03,50681,50809,map,Dacia • thời Trajan,Dacia được tô sáng trên bản đồ La Mã dưới thời Trajan,Chấm Dacia nối tới Rome
+40.04,50809,51271,pantheon,Quảng trường Trajan,Quảng trường Trajan và cây cột được xây dựng từng phần,"Cột đá xuất hiện từng khoanh, thợ làm việc"
+41.01,51271,51346,choices,,Nhà đầu tư La Mã ngồi trước ba người chờ trình bày,Bàn giấy mở ba ô đề xuất
+41.02,51346,51453,choices,,Ô một: đầu tư điền trang có thu nhập tương đối rõ,Cuộn bản đồ ruộng mở ra
+41.03,51453,51700,choices,,Ô hai: mở xưởng hoặc tuyến thương mại đã có khách,Bánh xe xe hàng và sạp chợ di chuyển
+41.04,51700,52054,choices,"Thiết bị mới, rủi ro chưa rõ",Ô ba: bản vẽ động cơ hơi nước thử nghiệm đầy dấu hỏi,"Hơi phun, máy rung nhưng không bơm được"
+41.05,52054,52372,choices,,Người chủ đặt hai tay lên trán cân nhắc rủi ro,Thỏi tiền di chuyển giữa ba ô trên bàn
+41.06,52372,52727,workers,,Nền kinh tế La Mã đông đúc nhưng không có khách hàng chắc chắn cho động cơ,Một người thợ đứng chờ trước cửa xưởng
+42.01,52727,52963,network,,Tập hợp năm lực cản bằng năm biểu tượng cùng tạo vòng quanh quả cầu,"Vòng 5 biểu tượng khép lại, không khóa tuyệt đối"
+42.02,52963,53368,mill,,Cảnh kinh tế cổ đại với công nghệ quen thuộc đã được sử dụng,Cối xay và bơm cơ học vận hành ổn định
+42.03,53368,53770,timeline,476 • Tây La Mã biến đổi,La Mã phương Tây biến đổi đến năm 476,Điểm mốc lịch sử hiện với bản đồ chia Đông-Tây
+42.04,53770,53936,archive,Tri thức tiếp tục ở phương Đông,Phía Đông Byzantine vẫn có học giả và thư viện,Đèn bàn tiếp tục sáng trong thành phố
+42.05,53936,54110,courier,,Cuộn giấy được chuyển tay qua nhiều thế kỷ,Cuộn giấy đi từ bàn này sang bàn khác
+43.01,54110,54391,archive,Một hình dung phổ biến cần xem lại,Thư viện Alexandria tưởng tượng bốc lửa như lời truyền miệng,Hình minh họa cháy hóa thành tranh giấy với dấu hỏi
+43.02,54391,54775,port,48 TCN • biến cố Caesar,Trang lịch và ngọn lửa năm 48 TCN trong biến cố Caesar,"Ngọn lửa nhỏ ở bến cảng, không đốt sạch mọi sách"
+43.03,54775,55000,archive,,"Thư viện thay đổi qua nhiều đời, dãy giá sách thưa dần","Đèn tắt từng khu, học giả rời đi"
+43.04,55000,55148,copy,,"Người chép sách ngừng sao chép, cuộn giấy nằm yên","Bút đặt xuống, bụi mờ tích tụ"
+44.01,55148,55326,copy,,Học giả Byzantine tiếp tục sao chép bản vẽ cơ khí,Bút vẽ một bánh răng qua trang mới
+44.02,55326,55502,city,Baghdad • thời Abbasid,Baghdad thời Abbasid với nhà học giả và thư tịch,"Mặt trời lướt qua tháp thành, cuộn sách đến từ xa"
+44.03,55502,55749,machines,Anh em Banu Musa,"Anh em Banu Musa với bình, van, vòi nước tự động",Ba người chỉ vào đài phun đang chạy
+44.04,55749,55986,clock,Al-Jazari,"Al-Jazari và hệ thống đồng hồ nước, bơm gầu","Bánh răng chuyển đều, giọt nước rơi"
+44.05,55986,56445,steamWheel,Taqi al-Din,Thiết bị hơi nước Taqi al-Din bên cạnh dòng thời gian nhiều nhánh không nối trực tiếp tới Newcomen,Tia hơi thổi cánh bánh xe; các đoạn dây thời gian hiện nhưng không khép liền
+44.06,56445,56773,machines,,"Các máy phục vụ nghi lễ, tưới tiêu, đồng hồ và mỏ nước ở những thời khác nhau",Bốn ô phân nhánh từ một biểu tượng hiện tượng tự nhiên
+45.01,56773,56942,printing,Nhà in thời Phục Hưng,Nhà in Phục Hưng hoạt động với máy ép gỗ,"Tay kéo cần ép, trang in rút ra"
+45.02,56942,57175,manuscript,Bản dịch Latin • 1575,Bản dịch Latin Khí nén học xuất bản năm 1575,Dấu năm hiện trên gáy sách như nhãn biên tập
+45.03,57175,57403,courier,,Sách in nhiều bản đến các học giả và xưởng cơ khí,Các cuốn giống nhau bay theo tuyến đường bản đồ
+45.04,57403,57597,aeolipile,,Thợ phục dựng mô hình cơ khí từ bản vẽ Hero,"Nồi nước nhỏ đun lên, mô hình thử quay"
+45.05,57597,58004,steamWheel,Giovanni Branca • 1629,Thiết kế bánh xe hứng tia hơi của Giovanni Branca năm 1629,Tia hơi làm cánh bánh xe chuyển động yếu
+46.01,58004,58173,mercury,Torricelli,Ống thủy ngân của Torricelli đứng trong chậu,Cột thủy ngân đổi nhẹ khi đặt thẳng
+46.02,58173,58305,vacuum,Thí nghiệm von Guericke,Hai nửa cầu von Guericke bị các nhóm ngựa kéo ngược chiều,Dây căng nhưng hai nửa cầu vẫn khít
+46.03,58305,58610,papin,Denis Papin,Thí nghiệm Papin pít-tông lên bằng hơi rồi xuống do áp suất khí,"Hơi nóng đẩy lên, ngưng tụ và piston xuống"
+46.04,58610,59116,savery,Thomas Savery • 1698,Savery giới thiệu máy bơm cho chủ mỏ năm 1698,"Bơm hút đẩy nước, van bật đóng"
+47.01,59116,59314,engine,Newcomen • 1712,Mỏ than vùng Midlands 1712 và động cơ Newcomen cạnh cửa mỏ,Máy quay đi từ hầm ngập nước tới dầm máy cao
+47.02,59314,59452,engine,,Hơi từ nồi vào xi-lanh của động cơ khí quyển,"Ống dẫn sáng nhẹ, pít-tông ở đầu hành trình"
+47.03,59452,59768,engine,Ngưng tụ → giảm áp suất,"Hơi ngưng tụ làm áp suất giảm, khí quyển đẩy pít-tông xuống",Hạt hơi biến mất; mũi tên từ ngoài đẩy pít-tông
+47.04,59768,60058,engine,Dầm nâng cần bơm,"Đầu bên kia của thanh dầm nâng cần bơm, kéo nước lên","Thanh dầm bập bênh, dòng nước theo ống thoát"
+47.05,60058,60406,engine,,"Than được đổ vào lò, mỏ bớt ngập, thợ trở lại làm việc","Củi than cháy nhẹ, mực nước hạ"
+47.06,60406,60673,compare,Công việc hữu ích tạo khác biệt,Thiết bị Hero chỉ quay; Newcomen thực sự bơm được nước,Cảnh chia đôi tạo đối lập công việc
+47.07,60673,60901,compare,,"Hai chu trình khác nhau, không nối trực tiếp như phóng to cùng một máy",Vẽ riêng phản lực và ngưng tụ với nhãn ngắn tiếng Việt
+48.01,60901,60990,temple,Trở lại Alexandria,Trở lại ngôi đền Alexandria tưởng tượng từ đầu phim,Camera đặt đúng hướng mở đầu để tạo vòng kể chuyện
+48.02,60990,61172,templeMechanism,,"Nhìn xuyên bàn thờ thấy luồng khí, bình, xô và dây cửa",Kích hoạt lần lượt mỗi bộ phận theo lời bình
+48.03,61172,61406,temple,,"Hai cánh cửa mở, nhân vật kinh ngạc chuyển sang hiểu biết",Biểu cảm từ ngạc nhiên sang gật đầu
+48.04,61406,61674,templeMechanism,Từ phép màu đến cơ chế,Từ phép màu thành bản vẽ vật lý rõ từng bước,"Lớp kiến trúc mờ, sơ đồ màu pastel hiện trên nó"
+48.05,61674,61981,machines,,"Hero, Ctesibius và thợ cơ khí cổ đại đứng cạnh phát minh riêng",Mỗi máy vận hành yếu nhẹ; không thành nhà máy tưởng tượng
+49.01,61981,62134,network,,"Công trường, học giả, thợ rèn cổ đại ghép thành một hệ cảnh",Các ô sáng lần lượt
+49.02,62134,62561,network,Chu trình • gia công • nhiên liệu • người mua,"Bốn điều kiện: chu trình, gia công, nhiên liệu, người mua",Bốn mắt xích dịch gần nhưng còn khoảng trống
+49.03,62561,62758,maintenance,,Người thợ thử máy lần đầu thất bại; nhà đầu tư còn do dự,"Van rò, nét vẽ chi phí tăng"
+49.04,62758,62943,network,,Khi nhiều điều kiện hội tụ thì bánh răng phát minh có thể quay,Vòng tròn các điều kiện khóa vào nhau
+50.01,62943,63347,engine,,"Mỏ than Anh: nước ngầm, than sẵn, máy bơm, kỹ sư cùng xuất hiện",Camera lướt dọc tuyến cơ giới hóa
+50.02,63347,63573,maintenance,,"Máy bơm chạy thành công, thợ sửa và cải tiến qua các thế hệ",Đầu dầm nhấp nhô; đổi vài chi tiết bản vẽ
+50.03,63573,63849,network,Các điều kiện cùng hội tụ,"Tri thức, vật liệu, con người, nhu cầu, thời cơ hội tụ",Năm biểu tượng đi vào một bánh xe xoay
+50.04,63849,64126,question,"Theo bạn, rào cản lớn nhất là gì?",Nhân vật dẫn chuyện nhìn về La Mã và nghĩ đến bốn rào cản,"Bốn biểu tượng năng lượng, kỹ thuật, lao động, kinh tế hiện quanh đầu"
+50.05,64126,64187,question,Chia sẻ góc nhìn của bạn,Biểu tượng bình luận và dấu hỏi Việt ngữ đơn giản dưới khung,"Dấu hỏi phác một nét, nhân vật chỉ xuống"
+50.06,64187,64467,closing,Cùng khám phá lịch sử công nghệ,"Kết: quả cầu Hero và máy Newcomen thành hai nét vẽ trang sách, góc dành CTA",Trang sách khép nhẹ; vị trí nút like/đăng ký dành thêm lúc dựng
